@@ -18,6 +18,10 @@ def clean_html_file(filename):
         html = f.read()
     
     soup = BeautifulSoup(html, 'html.parser')
+   
+   #this removes the unrederable possibly sanskrit text
+    for element in soup.select('.MsoPlainText'):
+     element.decompose()
     for tag in soup(['script', 'style', 'img', 'nobr', 'meta', 'link', 'title']):
         tag.decompose()
     
