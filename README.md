@@ -1,2 +1,2 @@
 # rag
-rag code for Ayurveda llm
+rag code for Ayurveda LLM
