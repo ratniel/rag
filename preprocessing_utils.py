@@ -99,7 +99,7 @@ def clean_html_file(filepath):
 
     tags_to_decopose = ['script', 'style', 'img', 'nobr', 'meta', 'link', 'title', 'head'] # TODO: check if deleting head is ok
     tags_to_unwrap = ['i', 'font', 'b', 'span', 'o:p']
-    attributes_to_remove = ["class", "style", "bgcolor", "lang", "onclick", "onload", "align", "font"]
+    attributes_to_remove = ["class", "style", "bgcolor", "lang", "onclick", "onload", "align", "font" ,"xmlns", "xmlns:o", "xmlns:v", "xmlns:w"]
 
     for tag in soup(tags_to_decopose):
         tag.decompose()
@@ -179,17 +179,19 @@ def process_html_table_from_string(html: str, table_parser: str) -> BeautifulSou
 
     return soup
 
-def save_clean_txt(filepath):
+def save_clean_txt(filepath, save_location):
     """
     Processes html file, and saves the cleaned HTML and its text content to new files.
 
     Args:
         filepath (Path or str): The path to the HTML file to be cleaned.
+        save_location (Path or str): The path to save the cleaned text file.
 
     Returns:
         None
     """
-    processed_data = Path('data/processed_data')
+    filepath = Path(filepath)
+    processed_data = Path(save_location)
     clean_file = processed_data / filepath.parent / filepath.name
     print(clean_file) 
     clean_file.parent.mkdir(parents=True, exist_ok=True)
@@ -198,33 +200,29 @@ def save_clean_txt(filepath):
     with open(str(clean_file) + ".txt", 'w') as f:
         f.write(clean_html.get_text())
 
-def save_clean_html(filepath):
+def save_clean_html(filepath, save_location):
     """
     Processes html file, and saves the cleaned HTML and its text content to new files.
 
     Args:
         filepath (Path or str): The path to the HTML file to be cleaned.
+        save_location (Path or str): The path to save the cleaned HTML file.
 
     Returns:
         None
     """
-    processed_data = Path('data/filtered_raw_data')
+    filepath = Path(filepath)
+    processed_data = Path(save_location)
     clean_file = processed_data / filepath.parent / filepath.name
     print(clean_file) 
     clean_file.parent.mkdir(parents=True, exist_ok=True)
     clean_html = clean_html_file(filepath=filepath)
     clean_html = process_html_table_from_string(clean_html, table_parser='md')
+    
     with open(str(clean_file), 'w') as f:
-        f.write(str(clean_html))
-
-def replace_empty_p_tags(filename):
-    with open(filename, 'r') as file:
-        content = file.read()
-
-    content = content.replace('<p></p>\n', '')
-
-    with open(filename, 'w') as file:
-        file.write(content)
+        content = str(clean_html)
+        content = content.replace('<p></p>\n', '')
+        f.write(content)
 
 
 if __name__ == '__main__':
