@@ -179,7 +179,7 @@ def process_html_table_from_string(html: str, table_parser: str) -> BeautifulSou
 
     return soup
 
-def save_clean_file(filepath):
+def save_clean_txt(filepath):
     """
     Processes html file, and saves the cleaned HTML and its text content to new files.
 
@@ -189,7 +189,7 @@ def save_clean_file(filepath):
     Returns:
         None
     """
-    processed_data = Path('processed_data')
+    processed_data = Path('data/processed_data')
     clean_file = processed_data / filepath.parent / filepath.name
     print(clean_file) 
     clean_file.parent.mkdir(parents=True, exist_ok=True)
@@ -198,7 +198,35 @@ def save_clean_file(filepath):
     with open(str(clean_file) + ".txt", 'w') as f:
         f.write(clean_html.get_text())
 
+def save_clean_html(filepath):
+    """
+    Processes html file, and saves the cleaned HTML and its text content to new files.
+
+    Args:
+        filepath (Path or str): The path to the HTML file to be cleaned.
+
+    Returns:
+        None
+    """
+    processed_data = Path('data/filtered_raw_data')
+    clean_file = processed_data / filepath.parent / filepath.name
+    print(clean_file) 
+    clean_file.parent.mkdir(parents=True, exist_ok=True)
+    clean_html = clean_html_file(filepath=filepath)
+    clean_html = process_html_table_from_string(clean_html, table_parser='md')
+    with open(str(clean_file), 'w') as f:
+        f.write(str(clean_html))
+
+def replace_empty_p_tags(filename):
+    with open(filename, 'r') as file:
+        content = file.read()
+
+    content = content.replace('<p></p>\n', '')
+
+    with open(filename, 'w') as file:
+        file.write(content)
+
 
 if __name__ == '__main__':
     filepath = Path("./data/Articles/Chikitsaa/Aamadosha.htm")
-    save_clean_file(filepath)
+    save_clean_txt(filepath)
