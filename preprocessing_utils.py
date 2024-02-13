@@ -80,7 +80,6 @@ def delete_files_except_html(path: str) -> None:
 #function to delete all the scripts and styles from the html file
 
 def clean_html_file(filepath):
-    print(filepath)
     """
     Cleans the HTML content of a file by removing unwanted elements and attributes.
 
@@ -98,11 +97,14 @@ def clean_html_file(filepath):
 
     #TODO: check wether to remove p tag or to remove span tag
     # Find all <p> tags with 'font-family:SD01-TTSurekh'
-    span_list = list(soup.find_all('span', style=lambda value: 'font-family:SD01-TTSurekh' in value))
-    if span_list:
-        for span in span_list:
-            # Remove the tag
-            span.decompose()
+    try:
+        spans = soup.find_all('span', style=lambda value: 'font-family:SD01-TTSurekh' in value)
+        if spans:
+            for span in spans:
+                # Remove the tag
+                span.decompose()
+    except Exception as e:
+        pass
     
     #TODO: check if this is necessary
     # This removes the unrenderable possibly Sanskrit text
@@ -114,7 +116,7 @@ def clean_html_file(filepath):
 
     _tags_to_decopose = ['script', 'style', 'img', 'nobr', 'meta', 'link', 'title', 'head'] # TODO: check if deleting head is ok
     _tags_to_unwrap = ['i', 'font', 'b', 'span', 'o:p']
-    _attributes_to_remove = ["class", "style", "bgcolor", "lang", "onclick", "onload", "align", "font" ,"xmlns", "xmlns:o", "xmlns:v", "xmlns:w", "link", "id"]
+    _attributes_to_remove = ["class", "style", "bgcolor", "lang", "onclick", "onload", "align", "font" ,"xmlns", "xmlns:o", "xmlns:v", "xmlns:w", "link", "id", "vlink"]
 
     tags_to_decompose = soup(_tags_to_decopose)
     tags_to_unwrap = soup(_tags_to_unwrap)
@@ -185,16 +187,17 @@ def process_html_table_from_string(html: str, table_parser: str) -> BeautifulSou
     clean_html = html
     soup = BeautifulSoup(clean_html, 'html.parser')
     tables = soup.find_all('table')
-    for table in tables:
-        df = pd.read_html(io.StringIO(str(table)), header=0, index_col=0)
-        md = df[0].to_markdown(tablefmt="grid")
-        tsv = df[0].to_csv(sep='\t')
-        # convert table tag to text tag
-        table.name = 'text'
-        if table_parser == 'md':
-            table.string = md
-        elif table_parser == 'tsv':
-            table.string = tsv
+    if tables:
+        for table in tables:
+            df = pd.read_html(io.StringIO(str(table)), header=0, index_col=0)
+            md = df[0].to_markdown(tablefmt="grid")
+            tsv = df[0].to_csv(sep='\t')
+            # convert table tag to text tag
+            table.name = 'text'
+            if table_parser == 'md':
+                table.string = md
+            elif table_parser == 'tsv':
+                table.string = tsv
 
     return soup
 
