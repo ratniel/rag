@@ -92,7 +92,14 @@ def clean_html_file(filepath):
         html = f.read()
     
     soup = BeautifulSoup(html, 'html.parser')
-   
+
+    #TODO: check wether to remove p tag or to remove span tag
+    # Find all <p> tags with 'font-family:SD01-TTSurekh'
+    for p_tag in soup.find_all('p', style=lambda value: 'font-family:SD01-TTSurekh' in value):
+        # Remove the tag
+        p_tag.decompose()
+    
+    #TODO: check if this is necessary
     # This removes the unrenderable possibly Sanskrit text
     for element in soup.select('.MsoPlainText'):
         element.decompose()
@@ -179,7 +186,7 @@ def process_html_table_from_string(html: str, table_parser: str) -> BeautifulSou
 
     return soup
 
-def save_clean_txt(filepath, save_location):
+def save_clean_txt(filepath, save_location, dir_path=None):
     """
     Processes html file, and saves the cleaned HTML and its text content to new files.
 
@@ -193,6 +200,7 @@ def save_clean_txt(filepath, save_location):
     filepath = Path(filepath)
     processed_data = Path(save_location)
     clean_file = processed_data / filepath.parent / filepath.name
+    clean_file = Path(str(clean_file).replace(dir_path, ''))
     print(clean_file) 
     clean_file.parent.mkdir(parents=True, exist_ok=True)
     clean_html = clean_html_file(filepath=filepath)
@@ -200,7 +208,7 @@ def save_clean_txt(filepath, save_location):
     with open(str(clean_file) + ".txt", 'w') as f:
         f.write(clean_html.get_text())
 
-def save_clean_html(filepath, save_location):
+def save_clean_html(filepath, save_location, dir_path=None):
     """
     Processes html file, and saves the cleaned HTML and its text content to new files.
 
@@ -214,6 +222,7 @@ def save_clean_html(filepath, save_location):
     filepath = Path(filepath)
     processed_data = Path(save_location)
     clean_file = processed_data / filepath.parent / filepath.name
+    clean_file = Path(str(clean_file).replace(dir_path, ''))
     print(clean_file) 
     clean_file.parent.mkdir(parents=True, exist_ok=True)
     clean_html = clean_html_file(filepath=filepath)
