@@ -17,11 +17,11 @@ file_paths = [dir_path + "/" + file for file in file_paths]
 #save the clean html files and clean text files
 for file_path in file_paths:
     try:
-        save_clean_html(filepath=file_path, save_location="./clean_html")
+        save_clean_html(filepath=file_path, save_location="./data/clean_html")
     except Exception as e:
         print(f"Error occurred while saving clean HTML file: {e}")
 
     try:
-        save_clean_txt(filepath=file_path, save_location="./clean_text")
+        save_clean_txt(filepath=file_path, save_location="./data/clean_text")
     except Exception as e:
         print(f"Error occurred while saving clean text file: {e}")

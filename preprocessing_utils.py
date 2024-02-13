@@ -99,7 +99,7 @@ def clean_html_file(filepath):
 
     tags_to_decopose = ['script', 'style', 'img', 'nobr', 'meta', 'link', 'title', 'head'] # TODO: check if deleting head is ok
     tags_to_unwrap = ['i', 'font', 'b', 'span', 'o:p']
-    attributes_to_remove = ["class", "style", "bgcolor", "lang", "onclick", "onload", "align", "font" ,"xmlns", "xmlns:o", "xmlns:v", "xmlns:w"]
+    attributes_to_remove = ["class", "style", "bgcolor", "lang", "onclick", "onload", "align", "font" ,"xmlns", "xmlns:o", "xmlns:v", "xmlns:w", "link", "id"]
 
     for tag in soup(tags_to_decopose):
         tag.decompose()
