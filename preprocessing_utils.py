@@ -7,7 +7,9 @@ from pathlib import Path
 import chardet
 import pandas as pd
 from bs4 import BeautifulSoup
-
+import chardet
+import os
+import glob
 
 def detect_encoding(filename: str) -> str:
     """
@@ -78,6 +80,7 @@ def delete_files_except_html(path: str) -> None:
 #function to delete all the scripts and styles from the html file
 
 def clean_html_file(filepath):
+    print(filepath)
     """
     Cleans the HTML content of a file by removing unwanted elements and attributes.
 
@@ -95,27 +98,36 @@ def clean_html_file(filepath):
 
     #TODO: check wether to remove p tag or to remove span tag
     # Find all <p> tags with 'font-family:SD01-TTSurekh'
-    for p_tag in soup.find_all('p', style=lambda value: 'font-family:SD01-TTSurekh' in value):
-        # Remove the tag
-        p_tag.decompose()
+    span_list = list(soup.find_all('span', style=lambda value: 'font-family:SD01-TTSurekh' in value))
+    if span_list:
+        for span in span_list:
+            # Remove the tag
+            span.decompose()
     
     #TODO: check if this is necessary
     # This removes the unrenderable possibly Sanskrit text
-    for element in soup.select('.MsoPlainText'):
-        element.decompose()
+    # try:
+    #     for element in soup.select('.MsoPlainText'):
+    #         element.decompose()
+    # except Exception as e:
+    #     print(f"An error occurred: {str(e)}")
 
-    tags_to_decopose = ['script', 'style', 'img', 'nobr', 'meta', 'link', 'title', 'head'] # TODO: check if deleting head is ok
-    tags_to_unwrap = ['i', 'font', 'b', 'span', 'o:p']
-    attributes_to_remove = ["class", "style", "bgcolor", "lang", "onclick", "onload", "align", "font" ,"xmlns", "xmlns:o", "xmlns:v", "xmlns:w", "link", "id"]
+    _tags_to_decopose = ['script', 'style', 'img', 'nobr', 'meta', 'link', 'title', 'head'] # TODO: check if deleting head is ok
+    _tags_to_unwrap = ['i', 'font', 'b', 'span', 'o:p']
+    _attributes_to_remove = ["class", "style", "bgcolor", "lang", "onclick", "onload", "align", "font" ,"xmlns", "xmlns:o", "xmlns:v", "xmlns:w", "link", "id"]
 
-    for tag in soup(tags_to_decopose):
-        tag.decompose()
-    
-    for _tag in soup(tags_to_unwrap):
-        _tag.unwrap()
+    tags_to_decompose = soup(_tags_to_decopose)
+    tags_to_unwrap = soup(_tags_to_unwrap)
+
+    if tags_to_decompose:
+        for tag in soup(_tags_to_decopose):
+            tag.decompose()
+    if tags_to_unwrap:
+        for _tag in soup(_tags_to_unwrap):
+            _tag.unwrap()
 
     for tag in soup():
-        for attribute in attributes_to_remove:
+        for attribute in _attributes_to_remove:
             del tag[attribute]
 
     raw_html = str(soup)
@@ -200,8 +212,7 @@ def save_clean_txt(filepath, save_location, dir_path=None):
     filepath = Path(filepath)
     processed_data = Path(save_location)
     clean_file = processed_data / filepath.parent / filepath.name
-    clean_file = Path(str(clean_file).replace(dir_path, ''))
-    print(clean_file) 
+    clean_file = Path(str(clean_file).replace(dir_path+"/", ''))
     clean_file.parent.mkdir(parents=True, exist_ok=True)
     clean_html = clean_html_file(filepath=filepath)
     clean_html = process_html_table_from_string(clean_html, table_parser='md')
@@ -222,8 +233,7 @@ def save_clean_html(filepath, save_location, dir_path=None):
     filepath = Path(filepath)
     processed_data = Path(save_location)
     clean_file = processed_data / filepath.parent / filepath.name
-    clean_file = Path(str(clean_file).replace(dir_path, ''))
-    print(clean_file) 
+    clean_file = Path(str(clean_file).replace(dir_path+"/", ''))
     clean_file.parent.mkdir(parents=True, exist_ok=True)
     clean_html = clean_html_file(filepath=filepath)
     clean_html = process_html_table_from_string(clean_html, table_parser='md')
