@@ -132,6 +132,7 @@ def clean_html_file(filepath):
     for tag in soup():
         for attribute in _attributes_to_remove:
             del tag[attribute]
+    #TODO: Implement deletion of empty tags here
 
     raw_html = str(soup)
     raw_html = re.sub(r'\xa0|†', '', raw_html)
@@ -244,7 +245,7 @@ def save_clean_html(filepath, save_location, dir_path=None):
     
     with open(str(clean_file), 'w') as f:
         content = str(clean_html)
-        content = content.replace('<p></p>\n', '')
+        content = content.replace('<p></p>\n', '') #TODO: implement this in the clean_html_file function
         f.write(content)
 
 
