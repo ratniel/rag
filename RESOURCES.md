@@ -7,3 +7,5 @@
 - [RAGs](https://blog.llamaindex.ai/introducing-rags-your-personalized-chatgpt-experience-over-your-data-2b9d140769b1): A project inspired by OpenAI’s GPTs that lets you build a low-code chatbot over your data using Streamlit
 
 - [Using VectorStoreIndex](https://docs.llamaindex.ai/en/stable/module_guides/indexing/vector_store_index.html)
+
+- [Metadata](https://docs.llamaindex.ai/en/stable/module_guides/loading/documents_and_nodes/usage_documents.html#defining-documents): By 
