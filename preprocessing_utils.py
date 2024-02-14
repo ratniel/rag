@@ -115,9 +115,10 @@ def clean_html_file(filepath):
     #     print(f"An error occurred: {str(e)}")
 
     _tags_to_decopose = ['script', 'style', 'img', 'nobr', 'meta', 'link'] # TODO: check if deleting head is ok
-    _tags_to_unwrap = ['font', 'span', 'o:p']
-    _attributes_to_remove = ["class", "style", "bgcolor", "lang", "onclick", "onload", "align", "font" ,"xmlns", "xmlns:o", "xmlns:v", "xmlns:w", "link", 
-                             "id", "vlink", "border", "bordercolordark", "bordercolorlight", "cellpadding", "cellspacing", "size", "font-size"]
+    _tags_to_unwrap = ['font', 'span', 'o:p', 'i', 'b', ]
+    _attributes_to_remove = ["class", "style", "bgcolor", "lang", "onclick", "onload", "align", "font" ,"xmlns", "xmlns:o", "xmlns:v", "xmlns:w", 
+                             "link", "id", "vlink", "border", "bordercolordark", "bordercolorlight", "cellpadding", "cellspacing", "size", 
+                             "font-size"]
 
     tags_to_decompose = soup(_tags_to_decopose)
     tags_to_unwrap = soup(_tags_to_unwrap)
@@ -162,13 +163,15 @@ def process_html_table(file_path: str, table_parser: str) -> BeautifulSoup:
         df = pd.read_html(io.StringIO(str(table)), header=0, index_col=0)
         md = df[0].to_markdown(tablefmt="grid")
         tsv = df[0].to_csv(sep='\t')
+        csv = df[0].to_csv()
         # convert table tag to text tag
         table.name = 'text'
         if table_parser == 'md':
             table.string = md
         elif table_parser == 'tsv':
             table.string = tsv
-
+        elif table_parser == 'csv':
+            table.string = csv
     return soup
 
  
@@ -220,7 +223,7 @@ def save_clean_txt(filepath, save_location, dir_path=None):
     clean_file = Path(str(clean_file).replace(dir_path+"/", ''))
     clean_file.parent.mkdir(parents=True, exist_ok=True)
     clean_html = clean_html_file(filepath=filepath)
-    clean_html = process_html_table_from_string(clean_html, table_parser='md')
+    clean_html = process_html_table_from_string(clean_html, table_parser='csv')
     with open(str(clean_file) + ".txt", 'w') as f:
         f.write(clean_html.get_text())
 
@@ -241,7 +244,7 @@ def save_clean_html(filepath, save_location, dir_path=None):
     clean_file = Path(str(clean_file).replace(dir_path+"/", ''))
     clean_file.parent.mkdir(parents=True, exist_ok=True)
     clean_html = clean_html_file(filepath=filepath)
-    clean_html = process_html_table_from_string(clean_html, table_parser='tsv')
+    clean_html = process_html_table_from_string(clean_html, table_parser='csv')
     
     with open(str(clean_file), 'w') as f:
         content = str(clean_html)
