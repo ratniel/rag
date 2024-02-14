@@ -162,3 +162,4 @@ data/
 .gitignore
 how2convert_clean_html2table_and_text.md
 data_backup.zip
+.env
