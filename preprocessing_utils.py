@@ -114,9 +114,10 @@ def clean_html_file(filepath):
     # except Exception as e:
     #     print(f"An error occurred: {str(e)}")
 
-    _tags_to_decopose = ['script', 'style', 'img', 'nobr', 'meta', 'link', 'title', 'head'] # TODO: check if deleting head is ok
-    _tags_to_unwrap = ['i', 'font', 'b', 'span', 'o:p']
-    _attributes_to_remove = ["class", "style", "bgcolor", "lang", "onclick", "onload", "align", "font" ,"xmlns", "xmlns:o", "xmlns:v", "xmlns:w", "link", "id", "vlink"]
+    _tags_to_decopose = ['script', 'style', 'img', 'nobr', 'meta', 'link'] # TODO: check if deleting head is ok
+    _tags_to_unwrap = ['font', 'span', 'o:p']
+    _attributes_to_remove = ["class", "style", "bgcolor", "lang", "onclick", "onload", "align", "font" ,"xmlns", "xmlns:o", "xmlns:v", "xmlns:w", "link", 
+                             "id", "vlink", "border", "bordercolordark", "bordercolorlight", "cellpadding", "cellspacing", "size", "font-size"]
 
     tags_to_decompose = soup(_tags_to_decopose)
     tags_to_unwrap = soup(_tags_to_unwrap)
@@ -239,7 +240,7 @@ def save_clean_html(filepath, save_location, dir_path=None):
     clean_file = Path(str(clean_file).replace(dir_path+"/", ''))
     clean_file.parent.mkdir(parents=True, exist_ok=True)
     clean_html = clean_html_file(filepath=filepath)
-    clean_html = process_html_table_from_string(clean_html, table_parser='md')
+    clean_html = process_html_table_from_string(clean_html, table_parser='tsv')
     
     with open(str(clean_file), 'w') as f:
         content = str(clean_html)
