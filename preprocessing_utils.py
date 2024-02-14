@@ -197,12 +197,15 @@ def process_html_table_from_string(html: str, table_parser: str) -> BeautifulSou
             df = pd.read_html(io.StringIO(str(table)), header=0, index_col=0)
             md = df[0].to_markdown(tablefmt="grid")
             tsv = df[0].to_csv(sep='\t')
+            csv = df[0].to_csv()
             # convert table tag to text tag
             table.name = 'text'
             if table_parser == 'md':
                 table.string = md
             elif table_parser == 'tsv':
                 table.string = tsv
+            elif table_parser == 'csv':
+                table.string = csv
 
     return soup
 
