@@ -115,7 +115,7 @@ def clean_html_file(filepath):
     #     print(f"An error occurred: {str(e)}")
 
     _tags_to_decopose = ['script', 'style', 'img', 'nobr', 'meta', 'link'] # TODO: check if deleting head is ok
-    _tags_to_unwrap = ['font', 'span', 'o:p', 'i', 'b', ]
+    _tags_to_unwrap = ['font', 'span', 'o:p', 'i', 'b', 'u']
     _attributes_to_remove = ["class", "style", "bgcolor", "lang", "onclick", "onload", "align", "font" ,"xmlns", "xmlns:o", "xmlns:v", "xmlns:w", 
                              "link", "id", "vlink", "border", "bordercolordark", "bordercolorlight", "cellpadding", "cellspacing", "size", 
                              "font-size"]
