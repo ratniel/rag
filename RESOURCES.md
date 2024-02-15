@@ -8,4 +8,6 @@
 
 - [Using VectorStoreIndex](https://docs.llamaindex.ai/en/stable/module_guides/indexing/vector_store_index.html)
 
-- [Metadata](https://docs.llamaindex.ai/en/stable/module_guides/loading/documents_and_nodes/usage_documents.html#defining-documents): By 
+- [Metadata](https://docs.llamaindex.ai/en/stable/module_guides/loading/documents_and_nodes/usage_documents.html#defining-documents)
+
+- [Retrievers](https://docs.llamaindex.ai/en/stable/module_guides/querying/retriever/retrievers.html)

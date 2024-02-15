@@ -164,3 +164,6 @@ how2convert_clean_html2table_and_text.md
 data_backup.zip
 .env
 rag/indexes/
+ref/src/_filter_raw_data.py
+ref/src/_table_handling(deprecated).py
+experiments/indexes/

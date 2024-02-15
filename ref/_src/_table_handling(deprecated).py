@@ -3,7 +3,7 @@
 from bs4 import BeautifulSoup
 import pandas as pd
 from pathlib import Path
-from preprocessing_utils import detect_encoding
+from src.preproc.preprocessing_utils import detect_encoding
 filepath = "data/Articles/Chikitsaa/AushadhaSevanaKaala.htm"
 path = Path(filepath)
 encoding = detect_encoding(filename=filepath)
