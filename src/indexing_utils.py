@@ -31,6 +31,7 @@ def extract_htmltag_nodes(input_dir: str, tag_list: list=["p", "li", "b", "i", "
     nodes = [node for node in nodes if len(node.get_content()) > 0]
     for node in nodes:
         node.text = node.text.replace("\n", " ").replace("\t", " ")
+        node.excluded_embed_metadata_keys=['tag', 'file_path', 'file_name', 'file_type', 'file_size', 'creation_date', 'last_modified_date', 'last_accessed_date']
     return nodes
 
 def create_docstore(nodes, save_dir: str, store_name: str) -> None:

@@ -167,3 +167,4 @@ rag/indexes/
 ref/src/_filter_raw_data.py
 ref/src/_table_handling(deprecated).py
 experiments/indexes/
+**/__pycache__/
