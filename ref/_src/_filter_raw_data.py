@@ -1,6 +1,6 @@
 import os
 from pathlib import Path
-from src.preproc.preprocessing_utils import save_clean_html, delete_files_except_html, delete_empty_dirs
+from src.preprocessing_utils import save_clean_html, delete_files_except_html, delete_empty_dirs
 import pickle
 #load list from a pickle file
 with open('file_paths.pkl', 'rb') as f:
