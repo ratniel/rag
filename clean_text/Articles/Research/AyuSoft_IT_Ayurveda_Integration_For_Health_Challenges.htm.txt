@@ -1,0 +1,273 @@
+
+
+AyuSoft: IT- Ayurveda Integration for Health Challenges
+
+
+
+
+
+AyuSoft: IT- Ayurveda integration for health challenges 
+
+Dr Richa Barve
+
+
+Ayurveda and current health challenges
+
+In spite of technological
+advances, the present global health care systems are facing the many challenges
+like increase non communicable and lifestyle diseases as diabetes, coronary
+artery disease etc. India is
+expected to be world capital of diabetes in 2025.
+Some infectious diseases like malaria, tuberculosis are still a challenge due
+to drug resistance etc. Emerging diseases like AIDS, hepatitis are posing new
+challenges to health care system and health economics. 
+
+Ayurveda (ancient and
+holistic science of life) is becoming center of attraction as potential
+solution for current challenges. This is evident in changing policies and
+mindset of researchers, physicians and patients.
+Ayurveda adopts holistic but customized approach for diagnosis and treatment.
+This holistic nature includes physical, psychological, social and spiritual
+aspects.
+
+
+Strengths of Ayurveda
+
+More than drugs, Ayurveda considers every aspect of
+life. Prevention of diseases is prime objective of Ayurveda. Various concepts
+of Ayurveda like Rasayana and Panchakarma are becoming center of attraction for
+researchers. It is being considered as powerful search engine for focused and
+safe drug discovery. Ayurveda
+is a potential option for many health challenges. 
+
+It is the need of present times to renovate the
+practice and research of Ayurveda globally. For this it is very much necessary to make Ayurveda
+easily accessible, affordable and practical. There is an urgent need of an
+effective & uniform professional media of conversation for the faculty of
+Ayurveda. 
+
+
+AyuSoft: multiple solutions for diverse needs
+
+AyuSoft is designed
+considering heterogeneous needs. AyuSoft is a vision for development of
+multiple tools for awareness, training, practice, research and propagation of
+Ayurveda through IT based solutions.
+
+The objectives of AyuSoft are
+
+Authentic training of Ayurveda
+Research in Ayurveda
+Documentation and analysis of practice based
+     data 
+Propagation and awareness about Ayurveda
+
+
+AyuSoft is a
+comprehensive, interactive, intelligent system. It is based on the knowledge of
+classical Ayurvedic texts. It facilitates application of ayurvedic principles
+to overcome present challenges. The main aim of this project is to shorten the
+gap between the not easily accessible knowledge of Ayurveda and the issues
+faced by present global health care systems.
+
+
+AyuSoft applications 
+AyuSoft covers multiple
+applications under one roof. This has been designed after a national level
+survey and consultation with experts of various fields. 
+
+Decision
+     Support System for physician 
+
+Ayurveda Person Information Management System - This application mainly deals with management of
+personal information.
+Disease Diagnostic and Treatment - This application provides a precise diagnosis
+based on consideration of causative factors, present signs and symptoms,
+clinical examination and history etc. Treatment is also suggested considering
+the condition of the patient and associated signs and symptoms etc. 
+Constitution and tissue quality assessment  this covers assessment of physical constitution,
+psychological characteristics and tissue quality assessment.
+Case analysis  Through this tool all the statistical data of related to the
+particular physician or hospital can be generated.
+Data Mining Tool  It facilitates complex query building to get the required results.
+
+Encyclopedia - This is encyclopedia of Ayurveda. This
+     comprises of the digitalized classical tests, articles of all subjects of
+     Ayurveda by renowned physicians and mentors, photos of many herbs, images
+     of diseases, audio files of mantras and video clippings of Panchakarmas.
+Glossary - This is the glossary of Ayurvedic
+     terminologies. 
+
+
+All these applications are
+interconnected to each other and they could be used in clinical practice,
+classrooms, multi-centric clinical trials and other teaching or research
+institutes. Pharmaceutical industries and R&D sector could be benefited
+with IPR generation through huge database. 
+
+Utility in awareness, training, practice and
+research
+Each AyuSoft application
+can be useful for multiple users as:
+Ayurveda Personal Information Management System 
+
+All data of clinic will be helpful for
+     research purposes.
+Evidence based clinical data generation will
+     be very much easy due to this application. 
+Import / export of data for multi-centric
+     trials could be easier. 
+Networking of many physicians is a practical
+     need for follow-up, referral and second opinion. This can be achieved by
+     the use of this application as an effective communication technology. 
+The students will be able to share the experiences
+     of all the stalwarts. Due to this, this tool can be used in training of
+     health management.
+
+
+Disease Diagnostic and Treatment
+
+Accuracy in clinical examination, better
+     documentation, time saving clinical management
+With the help authentic database of Ayurveda,
+     new or emerging diseases like AIDS and cancer could be studied in
+     ayurvedic terminology and could be treated accordingly
+Information about contemporary signs,
+     symptoms, diagnosis and treatment could be documented. By comparing and
+     correlating all this data we can standardize treatment of emerging
+     diseases. 
+Treatment suggested in our system covers
+     multilevel management by drugs, diet, behavioral modifications and other
+     dos and donts related to lifestyle and also Yoga. 
+The system also suggests treatment to avoid
+     recurrence of the disease and also the rejuvenation therapy (Rasayana) for
+     specific diseases. This Rasayana therapy is mainly helpful in prevention
+     of diseases and in building immunomodulatory system.
+Data generated through this system can be used
+     for efficacy and safety of ayurvedic drugs.
+
+
+Constitution Assessment
+
+This application will be mainly helpful in
+     preventive medicine. The system suggests the diet and lifestyle depending
+     upon the result of constitution (Dosha Prakriti). This advice is mainly
+     for preventing the person from any disease for which he is prone. 
+Right from the childhood i.e. the child
+     psychology factor to career then to finding spouse and up to the old age.
+     In childhood child psychology can be understood if Psychological
+     constitution (Maanasa Prakriti) of the child is known. One can easily
+     choose the career by knowing ones psychological and physical capacities. 
+Tissue quality (Dhaatusaarataa) assessment is
+     mainly related with the better body tissue development. The rasayana
+     therapy suggested on the basis of this assessment will be helpful to
+     develop strong immunological system.
+
+
+Encyclopedia
+
+Ayurveda domain has remained a challenge due
+     to its complexity and vast logic just mentioned in Samhitas. Information
+     retrieval was an art and lot of experience, judgment and reciting was
+     needed. Now computers are changing this scenario by development of easy
+     accessible data from Samhitas. This quick references and easily available
+     information not only saves time but also helps as a source of innovative
+     ideas. The digitalized Samhitaa part is very much helpful in training and
+     research.
+Easy access to Samhitaa would facilitate
+     training of student and physician. Instead of any school of thought
+     teaching modules developed in suitable multimedia form would make many
+     complex concepts and terminologies clear. That will result in better
+     understanding and perfection of the physician. 
+The video clippings of Panchakarmas are
+     provided with narration and detailed textual information. This will be
+     very much helpful in training and also for physicians.
+The photos of drugs are going to be an
+     authentic source to identify the specific herbs. This will be very much
+     helpful for students, teachers and the pharmaceutical industries.
+
+
+Data mining tool 
+
+All the data is divided into various
+     categories. The diagnosis part contains signs and symptoms, causative
+     factors etc. The treatment part contains formulations, dietary recipes,
+     lifestyle advice etc.
+One can search the voluminous database to get
+     the required results by building queries through thousands of criteria.
+This can be used as a simulating tool and
+     could be helpful for training, research and for physicians.
+Formulations and diet database would be major attraction
+     of pharmaceutical industry for new formulation design. 
+
+
+Glossary
+
+
+Some ayurvedic terminological words are
+     highlighted from etymology to clinical application. 
+This application will be helpful for authentic
+     training and research.
+This application will be mainly helpful for
+     propagation of Ayurveda.
+
+
+Case Analysis 
+
+Through this application we can generate all
+     the statistical data needed for evidence based medicine.
+     
+This data will be helpful in practice.
+The data generated by this tool will be helpful
+     in proving the efficacy and non toxicity of certain ayurvedic drugs. 
+This application will facilitate proper
+     documentation of all the practical data.
+
+
+
+Conclusion
+AyuSoft provides various
+solutions for layman, students, academicians, industry, practitioners and
+researchers. This is a pioneering effort to facilitate application of Ayurvedic
+concepts in modern era. Center of Development of Advanced Computing is working
+on this project with the help of national level experts of Ayurveda,
+information technology, medicine and basic sciences. This is the beginning of
+Ayurveda and information technology integration for present challenges of
+health care. 
+Dr Richa Barve,
+ Research Fellow,
+Center of Development of Advanced Computing, Pune
+
+
+
+
+
+International Diabetes Federation. Diabetes atlas 2000. Brussels: IDF, 2000
+
+
+
+Burden of non-communicable diseases in South Asia. BMJ, 328, 807-810.
+
+
+ World Health
+Organization Traditional Medicine / CAM Strategy 2002-2005.
+
+
+ Bhushan
+Patwardhan et al, Ayurveda and natural products drug discovery, Current
+Science, 86, 789  799, 2004
+
+
+ Dhurandhar
+Medha, Scientific Validation & Technical Evaluation of Ancient Medical
+Systems workshop, Delhi, Feb 2006 
+
+
+ Prabhune Yogesh,
+Role of AyuSoft to Ameliorate Evidence Based Medicine in Ayurveda, National
+Conference as Ayurveda Medicine as Evidence based Medicine, Hyderabad, Feb
+2006. 
+
+
+
+

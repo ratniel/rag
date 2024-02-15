@@ -1,0 +1,433 @@
+
+
+Statistics in Ayurvedic Experimental Studies
+
+
+
+
+
+
+Statistics in Ayurvedic
+Experimental Studies
+
+Dr. Mohan Kale
+
+
+Abstract:-
+
+The purpose of the
+article is to highlight use of statistical techniques in Ayurvedic studies. It
+emphasizes the need of statistics in such studies and helps to decide the exact
+nature, type and time of a typical medical experimentation. In addition, the
+information gathered through such experiments can be analyzed by various
+statistical techniques. Further, the modeling of specific phenomena by the use
+of Monte Carlo and / or statistical methods can be useful for the complete and
+detailed study of a particular treatment. Due to the uncontrolled deforestation
+for various purposes, raw material for the preparation of Ayurvedic drugs is
+rarely available resulting in high cost of drugs and experimentation. In the
+last part, the article discusses the need to build virtual laboratories so that
+such type of studies can become cost effective in terms of money, time etc. 
+
+
+1. Introduction
+
+In recent years Ayurvedic treatments are getting their
+share of preference by many people over the other types of treatments. The main
+advantages of this treatment include the complete eradication of the disease
+without any side effects of the drug taken and unlike the cosmetic relief
+offered by other contemporary types of treatments, the Ayurvedic treatment give
+a permanent solution to your disease. However, many objections are raised
+against the Ayurvedic therapy (though some of them are found to be baseless)
+such as long duration of the treatment, subjectivity of the treatment i.e. the
+doses and drugs are specific varying from person to person, dietary
+restrictions and use of some poisonous substances in the preparation of
+Ayurvedic drugs. It is the consequence of these objections that the use of this
+therapy has become a limited one and people are reluctant to take this
+treatment and prefer the other types of treatments.
+
+Hence, to nullify and answer these objections, one has to
+do systematic studies and careful analysis of result has become absolutely necessary.
+The statistical methods, being the scientifically proven methods, can be used
+to fulfill this need of systematic analysis.
+
+The present article is divided into five parts: The first part gives the introduction while
+the need and choice of a specific type of experimentation in Ayurvedic studies
+has been discussed in the second part. The third part is devoted to consider
+how statistical tests are useful for analyzing the association between various
+factors on the effectiveness of the treatment. The method for testing the
+effectiveness of a newly developed drug/treatment is also indicated in this
+section. The projections and model building of various situations by
+statistical techniques has been discussed in the fourth part. The last part
+indicates the use of computer and statistics to increase the effectiveness of
+the studies.
+
+
+
+
+2. Need and Scope of Statistics in
+Ayurvedic Studies
+
+The question, which many times asked, is when to conduct
+experiments on animals (trials). The answer to this question is many folds, in
+general; it is better to conduct experiments on animals when the effectiveness
+of the treatment is under assessment. However, due to variety of practical
+difficulties, it is not possible to conduct the experiment every now and then
+and hence the above question can be reframed as when is it absolutely necessary
+to conduct the experiment.
+
+When one has sufficient earlier knowledge and / or
+documented evidences about the effectiveness of the treatment giving clear nod
+in favor of the treatment, then one can skip experimentation. But when a claim
+is made about the better effectiveness of newly invented treatment for the cure
+of some disease, or new combinations of some well known materials are to be
+tried out, it becomes absolutely essential to conduct experiments on animals
+and check whether one really gets the same results as been claimed. Also
+according to various certifying agencies and bodies such as food and drugs
+association (FDA), USA, accept the claim for newly developed medicine only when
+it has been clinically proved. The clinical results obtained should be
+statistically significant. Hence it has become mandatory for each treatment to
+undergo a clinical trial and also if one wants to popularize his / her
+treatment, it is better to follow these types of protocols.
+
+Once it is decided to
+conduct an experiment, a natural question which comes in is, how to experiment
+and analyze the generated information to draw useful conclusions. Here
+statistics play a very useful role in answering this query. It tells us how to
+experiment in a systematic way and how to analyze the generated information so
+as to draw conclusions. 
+
+If the units on which the experiments are to be conducted
+are homogeneous in nature, then the results obtained are clear and one can draw
+conclusions very easily. However, in general, it is difficult to get
+homogeneous unit in sufficient number and experimental units have variations
+among them. Now, if after the administration of a particular treatment to such
+non-homogeneous units, different responses will be obtained from them and one
+may not be able to conclude whether it is due to the effect of the given
+treatment or due to the variation present in these units. To draw point at
+home, let us take an example: Suppose a group of n individuals suffering from
+underweight problem is selected and enima (Basti) treatment is administered to
+all of them. Further, let n1 of them show weight gain and n2 show no change (n=n1+n2). Then it is
+difficult to conclude on the basis of this information only about the
+effectiveness of the treatment. This is because an individual has its own
+tendency to react and response to the treatment depending upon its bio-chemical
+make up. If all of these individuals are having the same bio-chemical make up,
+then surely n1>n2 implies effectiveness while n1<n2 tell the otherwise
+story. Hence, if units are not homogeneous, more scientific methodology is
+needed to analyze such situations.
+
+
+
+Statistics fulfills this need with the technique called
+Design of Experiments demonstrating how to experiment and how to analyze the
+information. The technique is so powerful that one can make multiple comparison
+of the effectiveness of various treatments simultaneously. The technique works
+on its three basic principles 
+1. Randomization 2.
+Replications 3. Local control. Let us
+explain this in more details in case of Ayurvedic study.
+
+In Ayurveda, individuals are divided into three main
+categories called Prakriti as Vata, Pitta and Kapha. Their combination is
+also three i.e. the individual can be Vata-Kapha, Vata-Pitta etc. However, for
+the simplicity of the discussion, only three types are considered here. Thus,
+there is first source of variation namely the type of the individual and
+depending upon the Prakriti, an individual may give a different response to the
+same treatment. If this variation is not there and if all of them are of the
+same type, then there could be other major basic factors, which influence the
+effectiveness, say Agni. All of these may not be same on this characteristic.
+Hence the first step is to single out various characters which are having
+significant influence on the effectiveness of the treatment. These will act as
+the source of variations. Now, depending upon the number of the source of variations,
+one may use any of the following designs:
+
+Completely
+randomized design (CRD) : only variation due to treatment is the source
+variation.
+Randomized
+block design (RBD): Two sources of variation, one due to treatment + one
+additional due to the non-homogeneity of the experimental units.
+Latin
+Square design (LSD) : Three sources of variation, one due to treatment + two
+additional due to non-homogeneity
+Balanced
+incomplete block design factorial experiments etc.
+
+Consider the randomized block design with two sources of
+variations as indicated. The problem is to test whether all the treatments have
+the same effectiveness for the cure of underlying disease. Three principle of
+design can be applied as follows:
+
+Suppose there are n experimental units / individuals
+having the following break up 
+
+Vaata Prakriti + Kapha Prakriti + Pitta Prakriti = Total
+
+N1  N2  N3  N
+
+Then all the individuals of the same Prakriti are grouped
+in to one group called block and each treatment is administered in each block.
+Which treatment is given to which individual is decided purely by random
+mechanism such as lottery methods by giving no preference to any one. Hence
+each treatment has replications equal to number of blocks. Then the data
+collected can be analyzed using F-test to conclude whether the effectiveness of
+the treatments is same or they differ. Similarly, working of the other designs
+can be discussed. 
+
+Further, it may be possible that there is interaction
+effect of the two treatments i.e. more natural and more realistic e.g. It is
+well known that Tulsi, Jesthamadh and Souph are recommended in the treatment
+for cough and cold. However what one observes is that the drugs, which are
+prescribed, are the combinations of these in aqueous state or they are in the
+form of chewable tables. This is because their interaction has more
+effectiveness than individuals as far as curing ability is concerned. If one is
+also interested in testing whether there is significant effect of interaction,
+then one has to work with what are known as Factorial Experiments. Another
+example is of a liquid drug called Bhallatakasava which is prepared from
+Bhallataka, Haritaki, Amalaki, Guduchi and Loha Bhasma taken in appropriate
+proportion. Now each one of them has its effectiveness for the deficiency or
+trouble, however, Asava prepared with these individual ingredients taking
+together has wonderful results and is handy to use than these individuals and
+is frequency used in Ayurveda. Similarly once can take the examples of
+Kumariasava, Drakshasava and others.
+
+The examples discussed above are not new and everyone
+practicing in Ayurveda is already known their effectiveness. However, to draw
+the points, these examples are used so that the subject matter can be
+understood in a better way.
+
+Another possible use of Statistics is to quantity the data
+generated. After a fair amount of period from starting a Ayurvedic treatment
+one wants to know whether the treatment is going in a right direction or not.
+The only way to know this is to undergo suitable Pathological tests, however,
+many times these tests give results which are qualitative in nature i.e.
+positive or negative ness of the test and not recorded quantitatively. For the
+analysis of effectiveness, it is absolutely necessary to quantify the data and condense
+and present it in proper form. This can be illustrated with a following
+example:
+
+Consider a case of an individual under Ayurvedic treatment
+for the heart-related problem. After a sufficient time interval he/she
+undergoes a stress test and detected positive, then if the data are not
+quantitative, then one may think that the treatment is not useful. But if it is
+recorded that an individual has positive stress test for a comfortable walk of
+say 8 seconds before the treatment and after the treatment he/she has a stress
+test positive with a comfortable walking timing of 5 minutes, then one can
+immediately in which way the treatment is going. It may happen that after the
+second time, the test would be continued to be positive but with the
+comfortable walking timing of 8 minutes. Then this result sure indicates the
+effectiveness of the treatment. If this study is carried out for a group of
+individuals undergoing such treatment, then based on this data one can say
+something about the effectiveness of the treatment, in general. Same can be
+said about the lipid profile test and other tests for different diseases.
+
+Lastly let us look at another problem, which has more
+chance of occurring in Ayurvedic studies called missing observation. This can
+be described as follows:
+
+Suppose n individuals / units are selected for an
+experiment, which involves the study of the comparison of various treatments.
+The experiments are to be conducted for a specific duration. Now suppose due to
+negative canvassing or any other reasons, some individuals stop coming for the
+treatment and you have generated incomplete data with some missing
+observations. What one can do in such situation? Does all the efforts are in
+vain? Are we going to start a fresh? The answer is no. You do not have to do
+this once again. Statistics is at your help. The technique called the Missing
+Plot technique can help you to estimate these observations based on the data
+you have collected with a desirable accuracy. Using these estimated values at
+the place of missing observations, you can analyze the data and draw accurate
+conclusions. 
+
+3. Use of some Statistical Tests:
+
+Many times in Ayurvedic studies one has to detect
+association between various factors to answer the questions, which are of the
+following types:
+Does the effectiveness of the treatment depend upon the
+age?
+Do the stage of the disease in which an individual is has
+any influence on the effectiveness of the drug?
+Do I have to follow a strict vegetarian diet while
+undergoing an Ayurvedic treatment?
+A typical set of complaints, are they indicator of the
+possibility of a specific type of disease uniquely? Or in other words, do I
+become susceptible to a particular type of a disease?
+Do my typical type of life style make me more susceptible
+to a particular type of a disease? Etc.
+
+To answer above types of questions, one has to undertake
+the study in which responses could be of the qualitative nature. The response
+of an individual could be any one of the following: 
+
+treatment
+     is completely useful
+treatment
+     is partially useful
+treatment
+     is marginally useful
+treatment
+     is ineffective
+
+
+now in this particular study, one has to analyze
+qualitative characteristics (attributes). To answer all above questions, it is
+recommended to use a technique for the analysis of two attributes, namely
+chi-square (2) test for the association of attributes. E.g. let us look at the
+question (a) Here the first attribute would be A: Age of an individual and the
+second, B: Response to the treatment. The attribute A can have four levels say
+Child, Young, Middle aged and old aged (defined by taking appropriate age
+group) also attribute has four levels labeled by appropriate names. Then, the
+data can be summarized in the form of a 4 (4 table called as 4 ( 4 contingency
+table, Then, one can use chi-square test of association of two attributes in 4
+( 4 contingency table to conclude about the association).
+
+Similarly if one want to see whether there is any
+association between the dietary habits and effectiveness of the treatment, then
+attribute A has three levels: Vegetarian, non-vegetarian and mixed diet and the
+attribute b has four levels as earlier, then the data generated can be
+summarized in to 3 (4 contingency table and chi-square test for the association
+of attributes in 3 (4 contingency table can be use to analyze the data and
+conclusions can be drawn.
+
+Another situation wherein has to make use of a statistical
+test is when the effectiveness of one single treatment is to be assessed. The
+experiment can be conducted as follows: A group of n individuals / objects
+suffering from a particular disease is selected and the status of their health
+before the treatment and after a sufficient time interval of a particular given
+treatment is noted generating the data in the variable form. Let the health
+status before and after the treatment be denoted by X and Y respectively, then
+the data generated would be (Xi Yi), I = 1,2, ---- n wherein Xi = health status
+of ith individual before the treatment and Yi = Health status of ith individual
+after the treatment. 
+
+Evaluate di = Xi  Yi = I = 1,2--- n. Based on these di
+values one can use pair t-test to analyze the data and conclude about the
+effectiveness of the treatment.
+
+Illustration: Suppose Basti treatment is recommended for
+gain in weight. A group of m individuals having underweight problem is
+selected. Let the weight before the treatment of each of these individuals be
+recorded as X1 ----- Xn. Basti is administered to all of them and then after a
+sufficient time interval, let the weight after the treatment for each of these
+individual be Y1 --- Yn. Then di = Xi  Yi, I= 1,2  n, then using these values
+and pair t-tst, one can conclude whether Basti is effective for increasing the
+weight.
+
+There could be a situation when one only wants to compare
+the effectiveness of two different treatments. There could be a situation in
+which it is required to test whether the Ayurvedic treatment is equally
+effective as compared to the other contemporary pathies for curing a typical
+type of a disorder. This is needed because many a times, false negative
+canvassing is done against Ayurveda by saying that our brand of treatment is
+better than Ayurveda and Ayurvedic treatment cant match our brand in power of
+curing the disorder. To answer this criticism, it is recommended to use what is
+called as two-sample t-test. The experimentation will be done as follows:
+Suppose we want to compare two brands, say A and B, a: Ayurvedic and B: Other
+brand. Administer treatment A to a group of n1 individuals and treatment B to a
+group of n2 individuals. N1 may or may not be equal to n2. Then using the data,
+calculate averages and dispersion for each of the two groups and using these
+and the mechanism of two-sample t-test one can conclude about the equality in
+effectiveness of the two treatments. 
+
+Similarly there are other Statistical tests, which can be
+used in Ayurvedic studies as and when required.
+
+
+Projections and Modeling
+
+
+It is many times thought that various substances used in
+Ayurveda to prepare  Bhasma are poisonous and hence it is harmful to take
+such treatment. This has again turned out to be a baseless allegation against
+Ayurveda. However, one has disapprove this claim by using scientific methods.
+The typical examples are those of Mercury and Sulfur used in the preparation of
+Ayurvedic drugs curing various disorders. The experiment can be conducted as
+follows: Give different concentrations of such doses to the animals under
+observation and record their health status. It is well known that a specific
+type of enzyme secretion takes place in liver to encounter any poisonous
+element entering the body. Now, it is good to record the concentration of this
+enzyme secreted and its ability to nullify the poisonous effect. Now to know
+about the concentration of the above-mentioned drug that can be tolerated by
+the animal under study, is to keep on increasing the drug concentration till
+the animal dies and the dose at which an animal dies is the Threshold of
+tolerance. If this threshold is much higher than the amount of the element in
+the Ayurvedic drug, then the allegation is baseless. However, statistics
+provides a technique in which one can obtain this threshold without killing the
+animal. The procedure is as follows: Give various concentrations of doses to
+animals which are not too high and record the health status of the animal,
+denoted by X: Concentration of the dose and Y: Health status. Collect
+observations ( Xi, Yi), I = 1,2 --- n on each of the n animals. Then using a
+technique called method of least squares, one can obtain model Y=f(x) i.e. Y is
+a function of x. Then one can substitute various values of X which are much
+higher and see what are the corresponding values of Y. Also the function can be
+plotted and using graphical procedure, one can obtain the threshold dose. Thus,
+it saves the animal (experimental unit) and allegation can be disproved as
+earlier by comparing two values. This exercise is nothing but modeling the
+phenomenon under consideration and projecting Y values for given values of X.
+
+Second example wherein the projection and Modeling can be
+useful is that of deciding optimum dose of a treatment to cure a certain
+disorder. Let us explain this with an example: Again the illustration is taken
+to deliver a message rather than generating anything new. However, same
+experiment can be conducted for a new drug and conclusions can be drawn.
+Suppose an optimum dose for the treatment on diabetic disorder is to be
+decided. Further, let us assume that a new drug Madhumeharai is being
+designed to control this disorder and the optimum dose of this drug is to be
+found out. Now for various diabetic patients different intensity doses are
+being tried and data are recorded. 
+
+X= Intensity of dose to bring down the blood sugar to a
+controlled range (non-diabetic zone) and Y = Initial blood sugar content.
+
+Then, using the method of least square technique, one can
+construct a model, X=g (Y), and for the given value of Y one can get the
+optimum value of the intensity of the dose. 
+
+Lastly, give a mechanism to answer the question, how long
+should I continue my treatment for specific type disorder? Here also one can
+use the technique discussed earlier to obtain optimum duration for the cure.
+The variable here are: X = Initial state of the patient and Y = Duration of the
+treatment required for the cure.
+
+
+Use
+     of virtual laboratory in Ayurvedic Experiments
+
+
+With the arrival of an information technology generation,
+it has become more simpler and less time consuming to make experiments. What
+one can do is to conduct a sort of pilot experiment on handful of objects for a
+manageable time span. Then supply this information to computer in the form of
+suitable database and then keep on simulated observation give you the output as
+if you have conducted the experiments under given conditions with desired
+accuracy. In this exercise, lot of money, energy and time is saved and once can
+generate as many observations as one ants. Thee are not the true observations
+but the simulated ones. Hence the experiments involving simulations are called
+virtual experiments and the system is the virtual laboratory. This type of
+technique is very useful in conducting the trials on newly invented drugs. One
+can generate real data by using low intensity doses on animals and then by
+simulating, picture can be projected about the situations when higher dose is
+administered.
+
+The discussion in earlier section about modeling and
+projection can be done very easily using computer and once a model is
+established it is easy to simulate the observation using this model. Hence, statistical
+techniques play a crucial role in constructing virtual laboratories.
+
+In the Ayurvedic experimental studies also one can prepare
+a data bank of various Ayurvedic treatments which are available for various
+disorders and prepare a expert system to guide the treatment for a particular
+disorder and the effect of which can be tested using techniques mentioned
+above.
+
+In all above discussion an attempt has been made to
+discuss the philosophy and logic behind various statistical techniques and
+their possible use in Ayurvedic experiments. The other details like formulae
+are avoided to make the discussion simpler and moreover, these can be obtained
+from various resources in the literature. 
+
+
+
+
+
+
+

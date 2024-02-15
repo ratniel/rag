@@ -1,0 +1,2281 @@
+
+
+Research Methodology and Statistics Evident in Ayurveda Treatises
+
+
+
+
+
+
+Research Methodology and
+Statistics Evident in Ayurveda Treatises
+
+Dr. Asmita Wele
+M.D. (Ayurveda) Rasashastra
+
+The gold standard to judge the
+popularity and usefulness of any scientific branch is associated with the ongoing
+research activities in that branch. This is because active research indicates
+addition of new dimensions of applications, which in turn is a marker of
+liveliness, vibrancy and futuristic approach of the branch. Research in health
+sector is of the utmost importance pertaining to the immediate application of
+the outcome to relieve human beings from pain and agony. Amongst all the
+branches of science, medicine is the branch, which always receives high
+priority due to its potential to address and solve current health problems and
+issues. 
+
+
+In the course of development, about the understanding of
+human body and diseases over the last thousands of years, much water has flown
+under the bridge but the concept of gold standard remain unchanged. This is
+evident in a quote in Charaka Samhitaa that
+says the science that is practiced by the famous, successful, eminent people,
+praised by the intellectual class and is economically rewarding to the
+practitioner is the best one. The quote is just an example pointing towards
+the high status of Ayurveda in
+ancient times, which is generally achieved only when research is an integral
+part of the science. Available literary sources of Ayurveda not only highlight the research
+attitude but also elaborate the methodology to the minutest details.
+
+
+It is important to remember that research crux is palpable
+in the text all the time, indirectly. The difference is today methodology of
+research and statistics has become a consequential separate scientific branch
+associated with each respective segment of knowledge. Ample literature about
+how to conduct research with all aspect, is available in both text and
+digital form. This type of generation of literature pertaining only to research
+methods and statistics is not evident in Ayurvedic texts. Rather whatever is found scattered in Charaka Samhitaa  the oldest document is not found with the same
+or more rigor in later Samhitaa_s like
+Sus`hruta Samhitaa and Asht`aanga Hridaya. Therefore Charaka Samhitaa is the main reference
+source for this article. 
+
+
+Introduction
+to concept:
+
+The quest for knowledge generates out of inquisitiveness,
+which ultimately leads to better understanding and explanation of various
+phenomena. In all ancient sciences, the methods adapted to increase understanding
+or knowledge base, are mainly experiential, observational and inferential. In
+the process of development of knowledge the perspective regarding a scientific
+concept or criteria of classification may change based on the logical
+interpretations and experimental evidences. Ayurveda is no exception to the rule where the knowledge has developed
+according to the above-mentioned system prevalent in those areas. Thus in order
+to get an unbiased view of concepts of research in Ayurveda, it is a
+must to understand its background circumstances and situations. 
+
+
+Ayurveda was an oral tradition, which
+proliferated to the written tradition later on and currently it is being
+digitized to keep pace with time. Technologically the propagation of knowledge
+has always been at par. Questions arise about the correct understanding and
+interpretation of the contents of the revered science with changing
+circumstances. The education methodology earlier was teacher centered rather
+than learner centered. Methods of exchange of knowledge or testing,
+presentation and spread of new knowledge were relevant to those days. At times
+subjectivity used to take center stage on the practical level but the ultimate
+objective has always been to search and arrive at truth.
+
+
+If we compare the process of development of research
+methods and associated activities of oriental sciences then we find a few
+difference. Till the seventeenth century the perspective towards development of
+knowledge was holistic the world
+over. There was no need for separation or systemization of knowledge in a
+different way than the existing. But then the industrial revolution changed the
+traditional thought process in the west; with redefining concepts and
+introduction of methods of systematization; which was accepted in all fields,
+barring or rearranging of old principles, did not break the continuity of the
+understanding; instead of changed principles opened up new ways and dimensions
+that gave human race new tools and techniques. Change in the perspective of
+understanding of the science of materials and basic concepts in accordance with
+that gave rise to certain applications more supportive to technological
+development leading to a favorable atmosphere for experimental research
+process. Acceptance and application of the new concepts like the quantum
+theory, relativity principle or atomic structure in pure sciences provided a
+foundation for the development of experimental research techniques. True
+experiments were thus possible in all settings.
+
+
+Here the difference in current and ancient science becomes
+starkly cognizable. Modern science started becoming more reductionist trying to put one to one co-relation as against the traditions
+holistic approach of addressing complexity in one go. On the other hand the
+majority of the scientists from the traditional sciences did not take serious
+cognizance of the challenge posed by new or changed fundamentals and in turn
+did not make use of the new knowledge to interpret or contemporarize the heritage they carried. They went in
+to a shell or in defensive state that has led to hazy and misguiding picture of
+Ayurveda for a while. Thus
+being much practiced Ayurveda is
+always painted only as an inferential old science. Now the picture is
+changing. Therefore to find the facts and to assess where Ayurveda does stand today, in terms of research
+process some of the methods, which are reflected in Ayurveda are elaborated below.
+
+
+If someone has a question in mind like what are the
+principles of research in Ayurveda
+then there is nothing such as principles of research of any science
+including Ayurveda. To find out the relationship between cause and
+effect is the only one principle of research common to science as a whole.
+Principles are of the science stream where one applies the mind to find truth
+or to solve a problem. Research is a science of methods employed to gain
+knowledge about a particular relationship based on principles related to that
+phenomenon. If someone aims at finding out how effective a new chemical is
+which when added to petrol, reduces consumption of petrol and increases
+mileage then this research is designed using principles of physics and
+chemistry. This is true about any research problem. 
+
+
+For convenience of understanding, approach of the present
+article is comparison and matching of current or modern knowledge about
+research with the same from three main treatises  Charaka Samhitaa, Sus`hruta
+Samhitaa and Asht`aanga Hridaya.
+
+
+Definitions and elaboration:
+
+All the basic level research is defined as a process to
+find the truth. At the operational level the steps involved to find the truth
+are:
+
+
+Conceptualization of an idea
+Hypothesis development based on principles and theories
+supporting the hypothesis 
+Collection of data considering appropriate variables
+Verification of hypothesis through experimentation and
+analysis of collected data
+Acceptance or modification or rejection of hypothesis 
+Strengthening of the underlying principle 
+
+
+The exercise is completed with the help of tools.
+Depending on different kinds of applications theories differ and so also the
+tools. The whole process is interwoven in the treatises of Ayurveda except for the conduction of
+experiments in todays sense. As mentioned earlier more explicit and aggregate
+elaboration about the theories is available in Charaka Samhitaa than in all the remaining treatises; with
+reference to contexts at various places. One has to compile without losing the
+reference and essence of the underlying thought. 
+
+
+The terms that reflect the above-stated phenomena are
+listed below with possible co-relation to current terms [italics indicate
+implied meaning]
+
+
+
+Unknown:
+     Anukta: undocumented, in
+     experienced, implicit. Completely new fact regarding disease
+     manifestation, drug, instrument, technique etc.
+Research:
+     Anusandhaana: synonyms: Anves`han`a, Gaveshan`a, Paryeshan`a
+Tools:
+     Hetu or Upalabdhikaran`a or Karan`a.
+     It includes four types of Pramaan`a.
+     It is the theme explaining universal process of conduction and appraisal
+     of any kind of research.
+
+
+
+
+Pratyaksha
+Anumaana
+Aitihya
+Yukti
+
+
+
+
+Materials and Methodology or
+     factors of protocol development: Yukti
+     is a process of management of thoughts, ideas, concepts and course of
+     action.
+
+Drug: Karan`a: Bheshaja:
+      Medicine of all types, equipment, instrument etc. in case of raw drugs
+      and formulations parameters of quality are expected to be specified. 
+
+
+Points b and c together comprise selection and
+exclusion criteria. 
+
+
+Patient: Aaturades`ha or Kaaryades`ha: classification of
+      patients depending on ten parameters. It is important to decide the dose
+      of the medicine under study.
+Disease specifications: Kaaryayoni.
+
+
+Points d and
+e specify the study methodology based on rational considerations 
+
+
+Setting of study: Des`ha  Adhisht`haana: geographical area or study location which
+      gives an idea about the natural climatic conditions, as well as genetic
+      or racial make up, of socio-economic status of the subjects in study.
+      Identification of co-existence of humans and drug in a given setting is
+      important from the viewpoint of symbiotic relationship. It is now
+      accepted that these factors contribute to the efficacy, which is
+      applicable to generalized assessment of mass health.
+Time period of study:
+
+
+Kaala  Rituayan Roopa  Specific atmospheric conditions in different
+seasons have a role in efficacy and certain procedures related to Panchakarma as stipulated to be
+conducted in a specific season only. Moreover the prescription method of a
+medicine is expected to be stated here as it is closely associated with time of
+day and food intake in accordance with the type of disease
+Study
+duration
+
+
+
+Conduction of study: Pravritti  all the factors that
+      take part in the study should be available and work in coordination. This
+      may be interpreted as research management that includes data, funds, time
+      and human resource.
+Criteria of assessment: Kaarya-Anumaana  The general characteristics indicative of quality
+      of life should be considered but emphasis should be given to the change
+      in the cardinal signs and symptoms of the disease.
+
+
+
+
+Results: Kaarya: Avasthaantara 
+     This is co-related with objectives for which research activity is
+     conducted. This may be interpreted as expected effect / end result.
+     Positive change in disease leading to promotion of health. 
+Analysis: Kaaryaphala and Anubandha  Confirmation of broader
+     aim or baseline principle that is persistent for reasonable duration of
+     time [efficacy]. The result may be good or bad. It is important to
+     consider dimension of time to know recurrence or non-recurrence.
+     Prediction of maintenance of healthy status after stopping of treatments.
+Discussion: Sambhashaa Vaada
+Conclusion: Siddhaanta or Nirn`aya
+Method of presentation:
+
+Oral: Sambhaashaavidhi Vaadamaarga: these are guidelines of oral
+      presentation
+Written: Pratidnyaa  Siddhaanta, Panchaavayava
+      Vaakya: these are the criteria of good writing
+Method of critical analysis
+      of research document: S`hastrapareekshaa,
+      Tantrayukti, Tantra Dosha, Taachchhilya, Vyaakhyaa,
+      Kalpanaa : these are guidelines
+      and rules to be followed in assessment of scientific literature.
+
+Raw drug: Aushadha
+Concept of formulation
+     development: Kalpanaa
+Formulation: Kalpa. A single finished drug or
+     compound
+Drug activity parameters: Dravyakarma: Rasa, Gun`a, Veerya, Vipaaka, Prabhaava
+Efficacy: Karma
+Pharmacodynamics: Upaaya
+Interaction: Kriyaasamkara
+Authentic Scientific text: Tantra or S`haastra
+Compendia: Samhitaa
+Handbook : Samgrahagrantha
+Encyclopedia : Kos`ha
+Commentary: Vyaakhyaa or T`eekaa
+Statement or hypothesis under
+     consideration: Pratidnyaa
+Rational: Hetu. It is reasoning behind the
+     hypothesis established with the help of tools
+Example: Udaaharan`a: Drisht`aanta
+Establishment of hypothesis
+     based on interpretation: Upanaya
+Propounding of statement at
+     the end of discussion: Nigamana
+Editing: Pratisamskaara backed up by literary research for addition of
+     new knowledge 
+Observation : Dars`hana
+Inquiry: Pras`hn`a
+Direct examination : Spars`ha
+Principle: Tatva
+Examination methods: Pareekshaa
+Quantitative examination: Dravyatah Pareekshaa
+Qualitative examination: Gun`atah Pareekshaa
+Combination of examination
+     methods: Ubhayatah Pareekshaa
+
+
+
+Classifications: 
+A careful analysis of Ayurveda treatises reveals that there is a comprehensive approach regarding
+research along with research processes discernible in different categories
+according to expected focus or direction of thought, within a frame of
+reference. The broad categories, objectives and methodology to conduct research
+with a particular focus are as follows:
+Clinical
+research
+Drug
+research
+Literary
+research
+Epidemiological
+Fundamental
+
+
+The classification is for the understanding of the
+predominant characteristics of each type. In practice all types intermingle
+with each other at various points depending upon crux of the topic.
+
+
+
+
+
+Fundamentatal research
+
+
+Epidemiological research
+
+
+Clinical research
+
+
+
+
+
+
+
+
+Drug research
+
+
+Literary research
+
+
+
+
+
+
+
+
+
+Types of research
+
+
+Clinical research
+
+Clinical
+research is defined, as a prospective study to evaluate any intervention, be it
+preventive, diagnostic or therapeutic against a control inhuman subjects.
+Another definition quotes, Clinical trial is carefully and ethically designed
+experiment with the aim of answering some precisely framed question  Sir
+Austin Bradford Hill. The definition suggests that clinical research is
+different from practice of medicine. Practice is aimed at the well being of a
+patient in spite of changes in drugs, diet and therapy as needed. Research aims
+at finding out the exact role of intervention in a particular situation or
+condition and therefore is focused. 
+
+
+Objectives
+
+
+To
+understand the therapeutic efficacy, preventive, promotive, therapeutic actions
+and 
+ Also adverse reactions, of
+the drugs in the disease which are not documented or experienced due to the
+enormity of manifestations of abnormal
+conditions.
+To
+study the reasons of relapse of disease; effect of known drugs or treatment
+methods in a different dose or duration to control or avoid relapse.
+
+3. To assess
+the role of dietary and behavioral restriction or positive environment in cure.
+In other words to study all the factors responsible in treatment of and to
+achieve the complete cure of a disease. 
+
+The
+subtypes of clinical research with respect to current definition can be seen
+according to the focus of topic:
+
+
+Oral
+drug  Treatment
+using single or compound formulation [S`hamana
+Chikitsaa  internal medication]
+
+
+Behavioral  Treatments for psychological
+disorders. This is classified under Yuktivyapaas`hraya
+Chikitsaa which are termed as non-drug methods  threatening, sedation,
+massage, stress release, counseling  to help the patient understand his
+problem and facilitate a solution.
+
+
+Therapy Panchakarma  S`hodhana 
+Vamana, Virechana, Basti, Nasya,
+Raktamokshan`a. Yogic postures to treat some orthopaedic problems and exercises in particular
+conditions
+
+
+Surgical
+treatments 
+Application of different surgical techniques in all the branches.
+
+
+Methodology - Though there are subtypes of
+clinical research; due to practical modifications in accordance with the focal
+issue; basic understanding of methodology or rules for all the types do not
+change. The important factors in methodology are drug, equipment or instrument,
+patients, disease condition under study and setting of the study. Specification
+of all these are listed as below:
+
+
+Karan`a  The
+word denotes any material, which can be a medicine, tools like enema bag,
+surgical instrument, medicinal leech etc, with reference to context. The
+quality assurance of the drug is done based on soil type, cultivation and
+harvesting techniques etc. or that of instrument carries utmost importance and
+is written in detail. The prescription method of the medicine under study is specified
+according to the rules of drug administration with respect to time of day and
+food intake. 
+
+
+Kaaryayoni  Here
+it is expected that the framework of the disease condition under study should be
+stated clearly. The classification of disease is important. Whether it is
+curable or incurable that needs continuous treatment; whether new or chronic,
+systemic or local. The cardinal signs and symptoms under consideration should
+be defined precisely. Method of examination of the particular condition should
+be described.
+
+
+Aaturades`ha  A
+rational understanding of any human being is achieved depending on some basic
+parameters. Thee are Prakriti, Vikriti, Saara, Samhanan, Pramaan`a, Saatmya, Satva, Aahaars`hakti, Vyaayaamas`hakti, Vaya which
+help put any person in a typical set, for better judgment of the effect and to
+reduce the bias generated from extraneous or sometimes attribute variables. The
+method gives accurate results because each factor considered here has a
+significant role in both healthy and disease conditions. Careful selection of
+patients considering all factors together leads researcher more close to the
+true results. The outline is comparable to selection and exclusion criteria of
+patients according to the set classification. It is also important to decide
+the dose of the medicine under study for the selected patient.
+
+
+Bhoomides`ha:
+Geographical area or study location which gives an idea about the natural
+climatic conditions, as well as of genetic or racial make up and
+socio-economical status of the subject in study. Identification of co-existence
+of humans and drug in a given setting is important from the viewpoint of
+symbiotic relationship. Specific atmospheric conditions in different seasons
+have a role in efficacy and certain therapy procedures are conducted in a
+specific season only.
+
+
+Kaarya : Kaaryaphala and Anubandha: These are measure with respect
+to the topic under study. For example, burning sensation is one complication of
+diabetes [Prameha-Vaataja-Madhumeha]. Yas`hada Bhasma has
+some control over Madhumeha Sampraapti.
+The main tool here is Pratyaksha.
+The work is carried out by the researcher employing the above-mentioned
+parameters.
+
+
+Clinical
+research examples:
+The clinical research process is evident at various places in the Samhitaa_s. One or two are quoted here.
+
+
+In the treatment of Kusht`ha external application of
+     medicines should be administered only after S`hodhana [removal of Dosha
+     by Panchakarma technique]. Otherwise
+     it leads to increase in the symptoms instead of cure. The two quotes
+     undoubtedly indicate outcome of practical experience in many cases and are
+     not just a guideline.
+Introduction of minerals and
+     metals as medicines in Ayurveda, took place at a later stage. These
+     medicines were tried to relieve specific diseases. The record of efficacy
+     and adverse drug reaction of a mercurial preparation titled Makaradhvaja is proof of clinical
+     experience.
+
+
+
+Clinical
+research comment:
+A clinical research project is designed on the basis of Yukti a systematic, intelligent arrangement of thought based on Aaptopades`ha known facts about the
+topic; conducted Pratyaksha  in
+specified precise setting; with Anumaana
+ expected outcome or inference. When the work is complete it can be added
+to Aitihya a written document.
+There are no references to the designs like randomized controlled trials or
+longitudinal methods but the theme method can be co-related to case control
+studies which are now being supported by WHO considering individuality. Also
+keeping the meaning at the core intact, new thinking can be developed.
+
+
+Drug research 
+
+Drug is
+the most important factor in treatment because it is the real material tool,
+which cures. The approach of research in medicine is drug centered all the
+time. Other tools of treatment like counseling get comparatively less
+prominence than the drug. Therefore scope of drug research is very wide.
+Ultimately, clinical research is a proliferation of drug research which has
+been studied separately for convenience or understanding.
+
+
+Objectives:
+
+
+To find out the medicinal
+     properties or pharmacology of any new or unknown drug.
+To use the known drugs for
+     new application or efficacy in new manifestations of diseases.
+To study a drug used in folk
+     or local tradition with scientific perspective of Ayurveda in order to add it to the Ayurvedic
+     repertory I.e. to
+     conduct pharmacognostical studies.
+To develop new dosage forms
+     from new drugs and to modify existing forms using new techniques. To
+     conduct drug development based on principles of formulation to manage new
+     health problems.
+To study the pharmacodynamics and pharmacokinetics of unknown drugs and new
+     formulations in different doses and variety of settings. To verify therapeutics
+     with respect to primary actions, secondary actions.
+To note toxicity and adverse
+     reactions, if any, of a drug in a particular dose.
+
+
+
+Methodology
+
+
+Drug
+research has a wider scope as it deals with all the aspects of a drug. The
+method varies depending on a particular aspect under study. Therefore subtypes
+in drug research are pharmacognosy, pharmaceutics, pharmacology including
+therapeutics and toxicology. It is must to note that research in any of the
+above direction is conducted with medicines prepared under strict observance of
+quality assurance parameters. Each type is elaborated below with reference to
+the context.
+
+
+Pharmacognosy:
+
+Identification
+of raw material is of utmost importance and at times of crisis, help should be
+taken from local people who are regular users of plants, specification
+regarding nature or morphology of the plant which in turn depends on soil type
+and regional agro-climatic conditions i.e.
+habitat; and collection or harvesting season; are monitored for quality. The
+nature of a drug is tested based on the direct examination by Panchendriya Pareekshaa because the
+drugs are Paanchbhautika. According
+to test results the drugs are classified into Paarthiva, Aapya, Taijasa,
+Vaayaviya, and Naabhasa categories depending on the predominance of one of the
+five constituting Bhoota for the
+convenience of understanding. This hypothesis comes close to an accurate
+knowledge of the constitution type of drug on which judgment is built, about
+its processing, formulation and activity.
+
+
+Criteria
+of best quality drug:
+
+
+The
+single drug, which can be converted into many dosage forms, having high
+potential, multi-dimensional efficacy and easy availability is the best drug.
+Comment:
+Correct identification is an important pre-step, on which actual
+pharmaco-therapeutics is dependant.
+This fact is stressed upon in all the treatises though the drugs were forest
+produced and use of local talent at controversial time is a wise mans best
+attitude.
+
+
+Pharmaceutics:
+
+Pharmaceutics
+is the next step towards effect. This is the most interesting part, which deals
+with enormous possibilities of drug development. It is amazing to note that the
+treatises never restricted to a fixed number of formulations rather always keep
+open ways to new possibilities. The main objective of phamaceutics is to bring palatability to the drugs
+along with its better availability for targeted efficacy in the body in a small
+dose.
+
+
+Pharmaceutical
+quality assurance emphasizes on the method of harvesting and preservation where
+principles like comparative selection considering parameters like habitat,
+season, maturity, Vipaaka, Veerya, and Rasa are adopted. Moreover storage techniques and use of container
+is specified according to characteristics of individual drug items like fresh,
+dry, poisonous, expensive etc. the core section of pharmaceutics i.e. processing is elaborated with the
+help of principles of drug development with reference to the following factors
+
+
+
+Number of drug in a
+     formulation: Samkhyaa. On the basis
+     of creative imagination towards desire efficacy then number of ingredients
+     in a formulation id decided
+Proportion of ingredients of
+     a formulation:
+
+Parimaan`a: each ingredient in the formulation is added in a particular
+      amount according to its properties in relation to the desire efficacy.
+Quantity: Raas`hi Total amount of the
+      formulation is calculated by summation of all. The general rules
+      regarding proportion of dried drugs as against fresh drugs are led down.
+
+Concept of Synthesis: Samyoga  means to combine more
+     than two drugs to form a new compound. The combination is designed
+     depending on the Paancbhautika nature
+     of each ingredient, which eventually is expressed in terms of Rasa, Gun`a, Veerya, Vipaaka and Prabhaava in the context of
+     activity. The emphasis is put on concept of Viruddha Veerya because drugs are Veeryapradhaana. At the same time the concept of synthesis is
+     exemplified using Rasa-Dosha Sannipaata which can be
+     extrapolated to the rest of the factors. The exact understanding of one to
+     one relationship between cause and effect is difficult due to complexity
+     of drugs on one hand and that of disease on the other yet it is desirable
+     to rationalize each factor of both the units to decide the true relationship
+     between the two sequential addition of drugs in a formulation and end
+     result of the formulation is predicted based on synergistic and
+     antagonistic viewpoint. The drugs possessing similar characteristics or
+     properties, when blended to form a compound, synergistically. The drugs
+     possessing dissimilar or opposite properties when combined, reduce or
+     neutralize unwanted characteristics of the target ingredient and make the
+     combination effective yet non toxic. It is elaborated that the final
+     effect is a cumulative effect of the compound and not of any individual
+     ingredient in the compound. To reach the stepwise conclusive understanding
+     of development of any formulation; first one has to realize the cumulative
+     effect of Rasa then to infer
+     the cumulative effect of Dravya and
+     finally of disease. This relates to the theory of Rasa-Dosha Sambandha
+Division of the whole: Vibhaaga  In the context of
+     pharmaceutics it is related to divide a formulation in uniform does to
+     administer to individual patient according to the need. It is not the
+     separation of all ingredients in the formulation. E.g. each tab of Tribhuvanakirti is Samyoga of 10 drugs and it is one
+     tablet of 125 mg strength.
+Methods of processing: Samskaara: Karan`a
+
+The Samyoga is
+brought about by Samskaara. Samskaara is the key to fetch a desired
+change in the set of physical, chemical and biological properties of the drugs.
+The raw drugs are processed by various methods appropriate for each drug. These
+include washing using water, boiling, heating, churning, trituraton, marinating
+and more. Varieties of apparatus are used for the processing and the process is
+carried out in a particular area [pharmacy], climatic condition, for particular
+time period to get a good quality medicine.
+
+Criteria of assessment of
+     finished products: These are explained along with the description of
+     individual product. They are based on organoleptic tests and for some dosage forms specific other practical
+     tests are advocated.
+Stability of the product:
+     This is not explained in detail but while elaborating unwanted effects of
+     a drug, the word Puraan`a is
+     used to indicate outdated medicine.
+Repetitions for perfection: Abhyaasa. In formulation
+     development, repetitions of the process lead to refinement of the finished
+     product.
+
+
+
+Quality
+of best formulation:
+A formulation has to be simple to administer, fast acting in minimal dose and
+without any untoward effects. It is possible to design infinite formulations
+using one drug or combining many potential drugs on the basis of correct understanding
+of complexity stated above, involved in the process. Therefore to predict or
+limit the exact number of formulations is difficult. 
+
+
+Comment: This is a guideline which, may
+further be extended and brought into practicality by employing new technologies
+of manufacturing and combinatorial chemistry techniques in virtual laboratory
+for drug designing.
+
+
+Pharmacology:
+
+
+This
+section deals with the action of medicine  single drug or compound formulation.
+How a medicine acts; what change it brings in the status of Dosha_s; how it moves in the body or
+what transformation it undergoes once in the body system is studied in
+pharmacology. 
+
+
+Pharmacodynamics:
+The thrust of analysis is upon attributes [Gun`a]
+and the specific function [Prabhaava].
+Pharmacodynamic research is generally
+focused on the five factors, which are elaborated as Rasa, Gun`a, Veerya, Vipaaka, Prabhaava. If
+the medicine is developed from a single drug then the efficacy can be explained
+with the help of three features  Dravyaprabhaava.
+Gun`a Prabhaava or both. The dynamics
+of any particular formulation for primary and secondary expected action is
+examined with respect to some aspects namely:
+
+
+
+the specific dosage form
+     which is developed using creative imagination
+its potency [Veerya] is judged by the site of
+     action and time period for which drugs is available at that site
+target organ or etiopathology or stage and condition of disease
+     [Adhikaran`a] 
+in a specific season [Kaala]
+mode of action [Upaaya]
+the action [Karma  there are 50 main
+     categories which in turn relate to Doshaavasthaa]
+     and 
+the ultimate effect or
+     feeling of well-being [Phala]
+
+
+
+This is
+verified by actual results on the patients. If a multi-ingredient formulation is
+designed, applying creative thinking based on knowledge of factors like
+synthesis elaborated in pharmaceutics, then the final cumulative effect of the
+compound of the body is rationalized by applying the guidelines described to
+identify the Rasa-Dosha Sambandha and drug  disease
+relationship. The efficacy may be due to cumulative Rasa, Veerya, Vipaaka, Gun`a etc of the compound formulation or single drug. To find out
+the rational in each set of drug  disease is the pharmacological research
+pertaining to dynamics. This concept opens possibilities for development of
+innumerable formulations.
+
+
+Pharmacokinetics: The study deals with the
+movement of a drug in the body. Here the principles which are explained in
+relation to food may be applied to drugs because, drugs when administered
+orally follow the same route that of food. There are three types
+of distribution viz. selective distribution [Khale Kapota], sequential distribution 
+[ Kedaara Kulyaa] and direct yet immediate
+distribution [Ksheer-Dadhi Nyaaya]. A clear statement
+regarding time of action of drugs mentions that activity of aphrodisiacs is seen immediately and that of all the
+other medicines within 24 hours. Another reference elaborates some symptoms,
+which are indicative of complete metabolism of medicine in the body. If the
+expected efficacy is not achieved within seven days duration then it is advised
+to discontinue the drug and after some gap, to avoid interaction, new treatment
+should be commenced. There is no specific record however, of an individual
+medicines action in a specific span with a few exceptions like Aarogyavardhini and Gandhaka Kalpa in later texts.
+
+
+Pharmaco-therapeutics:
+This
+branch is generally merged with pharmacology. In the context of modern
+medicines, the study of a new chemical entity is incomplete without knowing its
+action in a particular dose, frequency and administration method in a
+particular disease condition. But during last decade or two, studies are
+planned and conducted on known medicines or formulation to see other affects in
+various dose schedules. The famous example is of aspirin as an anti-platelet
+drug.
+
+
+A similar
+concept is the best proof in Ayurveda. There are fifty types of primary
+action. They are sub classified into therapeutic, preventive and promotive categories. In each action group there
+are ten individual plants capable of achieving the effect singly and in
+combination thus leading to 500 end products. The therapeutic studies for any
+drug are designed considering factors like a particular dose of the medicine, a
+prescription technique consisting of Anupaana,
+time of day, before or after meals, to treat a particular disease, in a person
+of particular constitution; to assess whether it eliminates the vitiated Dosha or pacifies it.
+
+
+To exemplify,
+the drug Pippali [Piper longum]
+possesses two primary actions; digestive [ Deepaniya]
+and appetizer 
+[ Triptighna]. Another drug Haridraa [Curcuma longa] is included
+into anti-dermatosis [[Kusht`haghna] as well as in poison
+anti-dote [Vishaghna] action groups.
+In other words one drug does possess more than one main therapeutic action in
+different dosage forms, doses, different prescription schedules according to
+administration time and with respect to season and other factors. Based on thee
+principles pharmaco-therapeutic studies of various combinations can be
+designed. The best example of pharmaco-therapeutics is the development of
+potent medicines known as Bhasma,
+from mineral-metal sources by treating them with medicinal herbs. Rasas`haastra [Rasa is mercury] became a special branch of Ayurveda in the later era during first century
+AD. Therapeutic efficacy of these metallic preparations and herbo-mineral
+preparations added new dimensions to treatment. 
+
+
+The
+therapeutics also focuses on relationship between food and drug. Efficacy of
+the medicine is increased if some type of food items are consumed during the
+course of treatment and it decreases with some other types of food. To
+exemplify; during the treatment of Vran`a
+the patient must avoid salty, sour and hot and heavy foods which negatively
+influence the rate of cure. Instead he should consume moderately heavy,
+soothing, and tasty but non-spicy food. Also he should not indulge in exertive
+acts or take a nap in the afternoon, which adversely influences cure. The
+concept of Pathya and Apathya not only is restricted to food
+but also is stretched to exercise and behavior patterns, which have a definite
+role in cure.
+
+
+A
+completed study of known drugs to treat unknown disease conditions must be undertaken
+considering the variables Dosha, Aushadha, Des`ha, Kaala, Baala, S`hareera, Aahaara, Saatmya, Satva, Prakriti and Vaya. This is the best guideline, which
+propounds the role of each and every variable in the process of cure.
+
+
+Comment:
+Thus the therapeutics
+in Ayurveda can be co-related
+to the concept of clinical pharmacology in its entirety. Various approaches can
+also be co-related with dose response studies, effect of presence of food in
+stomach during drug administration etc. 
+
+
+Toxicity
+and Incompatibility / Intolerance:
+
+Along
+with therapeutics the concept of adverse reaction and toxicity is also
+explained. Adverse reactions are defined as the harmful effects occurring with
+does intended for therapeutic effect. Toxicity is the direct action of the
+drug at high dose, damaging cells. Intolerance is a low threshold to the normal
+pharmacological action of drug. Normally a medicine or therapy is administered
+to patients by taking all precautions but as the efficacy depends on many
+factors; misjudgment of one or two may lead to adverse reactions. These may be
+seen due to a substandard drug too. There are other possibilities that patients
+are not always knowledgeable [Dnyaapaka]
+and may furnish misinformation
+unintentionally or the treating Vaidya is
+in-experienced. 
+
+
+Examples
+of adverse drug reactions are evident in the texts. The detailed
+contra-indications mentioned for Vamana,
+Virechana and Basti have originated from the understanding of adverse reactions
+of the procedures. In Ayurveda medicated
+wines are administered in treatment of various conditions. Medicated wines have
+a positive effect on all the sense organs and intellect. At the same time it
+develops toxicity it prescribed to those for whom it is contra-indicated or
+consumed in excess dose. The toxicity of Copper [Taamra] is mentioned in the very first chapter of Charaka Samhitaa as an example. In the
+texts of Rasas`haastra, toxicity of
+each and every material used as a drug source in raw or partially processed
+form is documented. Antidotes of each one are mentioned too. A guideline
+regarding therapeutics states that many medicines are intolerable to children,
+elderly, thin and fragile ladies in their normal therapeutic dose, which give
+rise to certain adverse effects. In such cases the doses are altered to suit
+the needs of the patient.
+
+
+Comment:
+Though these are not comparable to the toxicity studies conducted today but are
+more valuable as these are generalized conclusions of toxic effects on
+patients. They point towards retrospective inferences.
+
+
+Drug
+Research Examples:
+The formulation Pippali Ksheera that
+is Piper longum processed in milk is
+advised and not Pippali Kashaaya.
+Similarly use of Centella asiatica juice, Glycerrhiza glabra powder or
+Convolvulus pluricaulis paste with
+milk to achieve the Medhya effect [nootropic] points out that a
+particular dosage form along with a particular Anupaana is administered to achieve a specific pharmacological
+action is nothing but a conclusion after research. Another example comes from a
+later text like Bhaavprakaas`ha. Chopachinee [Smilex china] a plant of Chinese origin is identified for its Rasa Veerya, Vipaaka, Gun`a and Karma.
+Its action is best seen in powder form than decoction, in inflammatory
+conditions of joints and second or third stage or venereal diseases. 
+
+
+Drug
+Research Comment:
+At this point it is a must to note that the understanding of Ayurveda with respect to drug quality assurance,
+toxicity, antidotes, and efficacy is similar to the current understanding. The development
+of dosage forms like Parpat`ee or Pot`t`ali are concrete examples of drug
+development process through research where herbs and minerals  metals are
+processed together. It is obvious from the above data that the factors, which
+must be considered accountable for the quality of a drug, do not end with the
+drug but they encompass the particular patient and the particular etiogenesis.
+To elaborate further; the Q factor depends on all thee variables and not on one
+or two. Rather, if any one of the whole set is not fulfilled then there can be
+a change in the expected or predicted efficacy. 
+
+
+To
+emphasize the point further; it becomes crystal clear that any Ayurvedic drug
+cannot be labeled standard based only on its chemical reactivity pattern but has
+to be standardized on the specific biological or biochemical responses. This
+can only happen in live tissues and therefore biological models may help not
+only to understand the mechanism of action but also as a counterbalance to
+develop a marker to know whether the drug is standard or not. The guidelines to
+develop the profile of any unknown drug right from its identification to its
+therapeutic use are elaborated in the texts. Some details may be added due to
+technological advancement but the theme remains unchanged. 
+
+
+The
+original thought of using existing drugs to treat new disease or new syndromes
+is clearly evident in Charaka Samhitaa.
+This may be the first attempt towards clinical pharmacology because the
+parameters are clearly laid down to initiate such use of medicine in unknown
+situations. 
+
+
+Literary Research
+
+Introduction:
+
+Literature
+is the means to transfer knowledge from generation to generation. New knowledge
+that is acquired is stored in literature. Literature is generated by
+intellectuals in the society for various purposes like entertainment, spread of
+information, dissemination of technical details and many more. As mankind is
+enriched with many races and communities region wise; literature also develops
+in all possible ways. Generally, till the last century literature used to
+originate in the mother tongue of the persons, writing it. Over the time, form,
+structure and style of writing has been designed based upon the thought process
+of the experts in the field and then a definite set of rules and conventions
+evolved according to the type of the information to be communicated.
+Development of new knowledge, in other words understanding the phenomenon of
+life in all respect, is a continuous process, which is expressed using
+language. New words are coined. Every language gets enriched with time due to
+the cross-cultural interactions taking place between the people. Not only goods
+are exchanged when two different communities come together but there is a
+cultural exchange as well.
+
+
+Meanings
+change through decades and centuries with reference to contexts. New concepts,
+ideas are propounded. Some of them always remain at the forefront while some
+others are recorded but ignored or forgotten. However literature maintains a
+continuous thread of knowledge diversities. At times it becomes essential to
+trace the literature to explore an unexplored possibility. It initiates
+knowledge based on imagination. Literary study encompasses all these factors,
+which strengthen the knowledge base. It is a must to note that there is
+difference between the standard meaning of literary research and that of Ayurvedic
+literary, research. In the original sense the term literature is
+associated with presentation of human emotion and the term literary theory is
+linked to artistic writing. In the context of Ayurveda literature, these terms may not be
+useful because Ayurvedic literature is scientific material generated
+through many centuries to disseminate the information regarding the science of
+health. It has followed the rules of writing, which existed at the time of
+development of the Ayurvedic literature.
+As Ayurveda has been practiced
+for more than 2500 years, there exists a considerable amount of contemporary
+literature generated in each century to address relevant health problems. Thus
+it becomes essential to focus on literary research in terms of content rather
+than its artistic aspects. This process is defined in the treatises as follows:
+
+
+Objectives:
+
+
+To verify the principles of
+     methods of development in the light of changed situation of usage of Ayurvedic terminology and frame of
+     reference.
+To understand the changes
+     that took place in structure and form of scientific literature
+To know and organize original
+     meanings and changes in the shades of various technical sentences [Arthayojanaa]
+To understand the process of
+     development of any concept and its application chronologically 
+To identify grasp and learn
+     different thought processes and get new clues leading to application
+To contribute new knowledge
+     through development of good contemporary literature based on present day
+     applications.
+
+
+
+Materials
+and methodology:
+
+There are
+two processes involved in literary research; how to analyze literature
+critically and how to write.
+Materials:
+the main materials are literature of various types:
+
+
+S`haastra or Tantra
+Samhitaa
+Samgrahagrantha Nighant`ugrantha
+Kos`ha
+Vyaakhyaa
+Textbooks and 
+Recently published works in
+     the form of papers, records, reports, articles etc. 
+
+
+
+Except
+for the last one, all other types of literature were available in manuscript
+form in those days till the innovation of printing. Method of literary research
+of manuscripts to prepare correct document for printing is known as
+manuscriptology. Since the 18th century the material were available
+in printed form. The guideline in Sus`hruta
+Samhitaa underlines that to acquire complete knowledge about anything it is
+a must to read and analyze a variety of treatises and all types of literary
+works. It further advocates that reading together relevant scientific works
+along with continued study of ones own science and discussions leads to
+enlightenment of intellect.
+
+
+Methodology
+
+A] Critical analysis methods
+
+To
+analyze literature critically it has to be examined from three viewpoints:
+
+Chronologically, geography,
+     authorship and overall societal set up reflected in the literature
+Structure of a selected
+     material: form, style and language etc.
+Content: meaning conveyed
+     through literature
+
+
+In the Ayurvedic treatises there are references regarding
+all the three aspects.
+
+
+Chronology
+aspect: The
+explanations regarding chronology, geographical areas etc. are covered in each
+text in the initial chapter only. Various practices regarding food habits, dressing
+of different races of people with their genotypic and phenotypic characters are
+also explained at different places with reference to context. Descriptions of
+people taking part in conferences are noted in apt words to enable the reader
+to a view of his background. These are some examples to explain the above
+points.
+
+
+Structure
+Aspect:
+Literature shows a particular type of structure when the main three treatises 
+Charaka Samhitaa, Sus`hruta Samhitaa and Asht`aanga
+Hridaya are scrutinized. They are Sthaana
+ part, Adhyaaya  chapter, and Sootra  verse. Also each chapter is
+structured to fit in a pattern of introduction, elaboration and summary of a
+topic. All the topics are covered in a logical sequence. Predominant form is
+poetic with some prose at places for better explanation.
+
+
+In the
+later compendia 10th century onwards, including Laghutrayee, the chapter pattern remains same but that of parts i.e. Khan`d`a and of other arrangement
+is different. This itself is an evidence of literary research. Post 18th
+century the literature is written in prose form and not in poetic. Language of
+interpretation has also changed from Samskrita to regional ones and in
+recent years it has changed to English; though the principle of structural
+analysis is the same. 
+
+
+How to
+analyze a document critically, starts from selection. The text or literature
+has to come from the domain of well-known, successful, eminent and intelligent
+scientific fraternity; then only it is considered authentic.
+
+
+
+Target reader: Serve to any
+     type of learner: advanced, average, poor
+Style of writing: The
+     standard style of abstract, elaboration, and summary
+Title: Self explanatory,
+     accurate
+Method of writing: Use of terminology,
+     grammatically correct yet meaningful use of words and sentences; coverage
+     of the topic of discussion in logical sequence without confusion of
+     thoughts and easily understandable with appropriate examples. No
+     repetition of the same thing  words, sentences etc. 
+
+
+
+These
+guidelines help to understand the structure in detail.
+
+
+Content Aspect:
+This aspect is well explained in Charaka Samhitaa. The parameter is elaborated under the umbrella
+term Tantrayukti which means the
+methodology or technique or systematic approach of studying a Tantra to interpret its correct and
+unambiguous meaning for its practical application. There are total 36 major and
+4 minor Tantrayukti_s. The number of Tantrayukti_s differs according to Samhitaa. It depends on the authors
+viewpoint of expression and his judgment about confusing statements. He
+propounds use of those specific Tantrayukiti_s
+for the benefit of the readers. The difference is practically negligible
+and all the important treatises follow the same types of Tantrayukti_s.
+
+
+Adhikaran`a
+Tantrayukti denotes
+subject [Ingrammatical sense], which
+can be of the entire science or of its part or of a chapter or of subpart of a
+chapter or of a single sentence. Similarly if one gets confused to establish
+the co-relation with one set of Dosha as
+Vaayu, Pitta, Kapha and another
+set of Karma Basti, Vireka, Vamana, then Vidhaana Tantrayukti helps to solve the problem. Vidhaana means orderly and systematic
+placement. It becomes easy to understand that Basti, Vireka and Vaman procedures are employed for Vaayu, Pitta, Kapha respectively.
+Each Tantrayujkti plays a specific
+role here. The literature must comply on the parameter of Tantrayukti to receive critical acclaim.
+
+
+Another aspect of examining the Tantra is Vaakyas`hah, Vaakyaarthas`hah and Arthaavayavas`hah which indicates
+concept of Panchaavayava Vyaakya. It
+means that the literature is examined as a whole on comprehensive level to
+grasp its total content; further it is examined in detail to get the theme and
+principle, elaborate and concise descriptions wherever necessary, in the
+standard pattern of statement or hypothesis, rational of the hypothesis,
+supportive and appropriate general examples, establishing the hypothesis with
+logical explanation. One more feature is to assess whether an attempt is made
+to simplify the complex content to extract correct meanings for better
+understanding of an average reader or not. Here the method of getting the
+correct meaning through Lakshan`a interpretative
+or implied meaning is applicable. The literary meaning may give a false
+interpretation while implied meaning of the same words will give true
+interpretation because it is associated with practical experience. 
+
+
+Apart from these two main domains under content analysis
+there are other parameters termed as Pramaan`a
+[4types] Tools Vyaakhyaa [15] operational definitions,
+Kalpanaa [9]  concepts, Nyaaya [17]  general rules and Taachchhilyaadi [17]  specific conventions;
+which are examined in the process of analysis of literature. Some of thee are
+related to grammar as well. The text is evaluated for presence of any of the
+fifteen Tantradosha. This
+highlights the complexity involved in methodology of literary research during
+development of Ayurvedic literature.
+
+
+B] Method of presentation of work:
+
+The method of presentation of the work, which can be of
+any type  literary, experimental or clinical  is discussed in literary
+research. It can be done in two ways, either in written form or an oral
+presentation. The guidelines regarding written documentation follow the same
+structure used for evaluation I.e. hypothesis, establishment of study
+hypothesis and null hypothesis, tools used, discussion including elaboration of
+the topic under study with appropriate yet easily understandable examples,
+specific conclusion, principle on which the hypothesis is based. The guidelines
+regarding oral presentation are also very precise. Oral presentation happens in
+a conference. For all practical purposed based on the objectives, conference
+can be either scientific or purely academic oriented or showy. Participants at
+both places may have three types of attitude: friendly, indifferent and
+obstinate. Based on these parameters validity and authenticity of the research
+done is acknowledge in the scientific fraternity. The presentation tactics to
+make own impression, to neutralize other speakers are also elaborated in the
+chapter. The presentation has to be within the parameters mentioned for writing
+a report. Apart from these, the researcher has to be well acquainted with some
+techniques, which are explained as Vaadamaarga.
+He has to satisfy all the queries raised regarding the subject or topic he
+presents; with properly supported justifications. In the end of this discussion
+the importance of literary research is emphasized by saying that clarity of
+thought and acquisition of knowledge by presentation of research work and open
+discussion is must for administration of treatments to patients because
+ultimately that leads a researcher to success.
+
+
+Literary research examples: The best example of literary
+research is of Charaka Samhitaa itself.
+Its original title was Agnives`ha
+Tantra after the name of its author. This text was edited by Charaka who incorporated new findings,
+elaborated some concepts, changed some part from the original text to suit the
+need of his time and the text was renamed as Charaka Samhitaa. Further the same process was carried out by Drid`habala to add new knowledge and to
+complete the missing. One-third part of the original Charaka Samhitaa. We refer to this text today. Apart from this,
+thirty-five scholars have written commentaries on the text to relate the
+meaning with experience of their time. Another example is of Asht`aanga Samgraha and Asht`aanga Hridaya by Vaagbhat`aachaarya. The text is prepared
+to place medicine and surgery together for the benefit of learners which is
+written with reference to Charaka
+Samhitaa  the bible of medicine and Sus`hruta
+Samhitaa  the bible of surgery. More recent texts regarding methods of
+clinical diagnosis Maadhavanidaanam written
+by Maadhavakara and the handbook of
+medicine Chakradatta by Chakrapaan`i are examples of
+contemporary literary research because unlike the original, these are topic
+oriented texts that represent the thought line prevalent in that century. 
+
+
+Literary research Comment: The most important feature or
+gain from literary research is realization of the thought process of
+construction of theory or principle, which is, at times more valuable than the
+content itself. The guidelines reflect stringent criteria which a literary work
+or presentation has to comply with. Only then the scientific fraternity of the
+first type accepts it. This is a remarkable feature existing even today. 
+
+
+The
+techniques described or factors considered for literary research seem complex
+in modern days because of the main constraint of limited availability of
+writing material, which is responsible for preparation of a few copies of
+manuscripts of any book. It must have been quite a worthwhile. Brainstorming
+exercise to express the content in a well-structured  mainly poetic  form
+without hampering the exact shade of meanings. Today writing, printing and
+publishing has become easily accessible and affordable to the common man. The
+extra efforts of using poetic form are reduced but the basic principle of
+correct usage of terminology, sentence construction, grammatical correctness
+and expression in minimum possible words to convey a scientific invention and
+discovery remains the same. This places Ayurveda on a higher pedestal as the best example of medical literature.
+
+
+Epidemiological
+research
+
+Epidemic
+is disease outbreak occurring suddenly in numbers clearly in excess of normal
+expectancy. Epidemiology in its true sense is the science concerned with the
+study of factors determining and influencing the frequency and distribution of
+disease, injury and other health related events and their causes in a defined
+human population for the purpose of establishing programmes to prevent and control their development and speed.
+Epidemiological research is no different than the meaning explained above.
+Currently the scope of epidemiological research is widened to the concept
+health statistics of population due to inclusion of studies regarding effects
+of various types of foods, habits like coffee, tea, smoking, alcohol etc.,
+exercise and occupation of large population groups. These types of population
+studies are described as descriptive research in sociology from where various
+models like case control or time series have come. 
+
+
+The
+concept similar to the original meaning of epidemiology is explained under the
+title Janapadodhvamsa in Charaka Samhitaa, infectious factor in Sus`hruta Samhitaa while other aspects
+are taken care of in different parts like S`haareerasthaana,
+Sootrasthaana etc.
+
+
+Objectives:
+
+
+To find out the causative
+     factors which influence a basically diverse population from a particular geographical
+     area at one and the same time.
+To study the possible
+     measures of treatment and further prevention of health of people at such
+     time. To study the effect of certain types of common conditions on people
+     of a particular constitution.
+To find out prognosis of
+     diseases under specific conditions
+To verify the association
+     between certain foods and habits and disease. 
+
+
+
+Materials and Methodology
+Materials:
+
+Here the study materials are
+     suffering patients fallen prey to the calamity or outbreak and the survivors.
+     Those who are not affected but have witnessed also become subject for the
+     study.
+For the purpose of health
+     statistics, healthy individuals are those, not acutely suffering from any
+     conditions but are following a particular type of life style.
+
+
+
+Methodology:
+In the opening statement of the third chapter in Vimaanasthaana, Rishi Aatreya
+suggests that the methodology employed to conduct this type of study is
+direct observation [Pratyaksha] and
+inference [Anumaana]. Experts who are
+able to sense the undesired changes that take place in the normal atmospheric
+conditions can predict its effects on human health based on their experience.
+Similarly behavioral changes are noticed by psychologists and social scientists
+that, they can predict the social behavior of the future generations. Once the
+catastrophe strikes then, only relief work can take place and it should be
+provided to the needy and seeking is another piece of advice by Rishi Aatreya.
+
+
+The studies,
+which are conducted to fulfill the above-mentioned objectives, are designed
+using all four tools viz. known recorded facts [documented data], practical
+experience, rational thought and logical interpretation. Moreover the main
+tools are observation and inquiry. In case of direct observations the
+researcher must have a keen attitude to grasp the situation under study and he
+must use all the five sense organs coupled with intellect efficiency to
+understand the situation. Similarly the questions must be logical, relevant,
+simple and to the point to get the right kind of information. 
+
+
+Epidemiological
+Research Examples:
+The best
+food article from a group of similar articles or the best drug which has desire
+effect amongst all drugs with similar effect cannot be decided unless a large
+population has shared the same experience or shown the same type of result.
+Also the most harmful fish is Chilachima
+or eating fish and milk together leads to skin disease are the outcome,
+which can be generated only after many observations, are put together. Effect
+of pollution on environmental factors like air, water, soil and the measures to
+be adopted in such conditions to maintain the health of people, is an example
+of epidemiological study.
+
+
+Epidemiological
+Research Comment:
+It seems
+that the present methods of epidemiological research, observation and inquiry
+were used with both approaches prospective and retrospective. When the
+suggestions like what dietary and behavioral pattern an expecting couple
+should practice if a typical progeny is expected are written then it is
+indicative of prospective one. Similarly all Pitta dominant Prakriti people
+suffer from blood disorders if they indulge themselves on hot taste foods,
+alcohol, consumption, work under burning sun for a considerably long period is
+a prospective kind of study.
+
+
+In case
+of guidelines of predicting death of a suffering person, or effects of Viruddha Aahaara in developing certain
+skin conditions; the approach is retrospective. This statement one can make
+because the science that propounds ethics in use of plants would not try
+harmful things on humans. The section of Charaka
+Samhitaa where these observations are recorded categorically is titled as Indriyasthaana.
+
+
+Fundamental research
+
+Dictionary meaning of the word is as follows:
+Fundamental: serving as a base or foundation, essential
+Principle  truth as basis of reasoning
+Theory  systematic exposition of principles of science. A
+theory is a set of interrelated constructs, definitions and propositions that
+present a systematic view of phenomena by specifying relations among variables,
+with the purpose of explaining and predicting the phenomena.
+
+
+However, conventionally principle and theory are used as
+synonyms of each other with reference to context. In a nutshell, the true basis
+of reasoning which serves as essential or as a foundation to understand a
+phenomenon is known as fundamental principle. Fundamental principles are few,
+which give rise to many systematic expositions called theory. Theory involves a
+consideration of the principles governing practice, and different theories will
+point to different kinds of practice. The natural principles behind every
+phenomena happening in the universe are termed as fundamental principles of
+natural science. The phenomenon may be normal or abnormal; principle remains
+unchanged in the particular case. Theories are developed considering the
+specific variables taking part in the particular practice. Therefore they are
+applicable to that setting.
+
+
+The research that is focused on fundamental principles or
+theories with an aim to find out the true reasoning behind any phenomenon is
+known as fundamental research. The fundamental principles are categorized into
+two parts  universal and pertaining to a specific area. During ancient days
+Hindu scientific ideas and methodology had deeply influenced natural philosophy
+in Asia. The construction of scientific concepts and methodology to investigate
+the physical phenomena as well as building up a body of positive scientific knowledge
+was stored under the title Dars`hana.
+There are nine Dars`hana_s, which are
+grossly co-related with the modern scientific understanding. A few examples are
+given below which are quoted from Pr. Brajendranath Seals book Positive Sciences of Ancient Hindus.
+
+
+
+Saamkhya  Paatanjala system:
+     Concept of original constituents and energy. Mechanical, physical and
+     chemical theories. Measures of time and space, directions, molecular
+     motions biology and biochemistry etc
+Vedaanta  evolution of forms of matter,
+     Panchikaran`a
+Buddha  atomic theory
+Nyaaya  Vais`heshika 
+     chemistry, geometry, method of science  cause effect relationship etc 
+
+
+
+Based on these basic sciences applied branches originated;
+like Astronomy, plant biology, etc. while assessing the potential of Oriental
+sciences; experts have also suggested that the Veda_s are basic sciences while Upaveda_s
+are applied ones. S`hilpas`haastra is
+the applied part of Rigveda, Dhanurveda is of Yajurveda, Gandharvveda is
+of Saamveda and Ayurveda is applied branch of Atharvaveda. Therefore Atharvaveda talks of basic biological
+principles, which are elaborated and modified according to the area of
+application. Those related to plants are developed in Vrikshaayurveda, related to elephants are Hastyaaurveda and those to horses are As`hvaayurveda.
+
+
+Ayurveda, which deals with the health of human beings is an
+applied science, which originated from basic concepts related to ancient
+biology. The basic principles are accepted and modified in Ayurveda within its frame of reference to
+understand the functions taking place in the human body. The modification of
+fundamental principles within the framework of Ayurveda is explained in Charaka Samhitaa 
+
+
+The word Siddhaanta means
+theory or fundamental principle. Siddhaanta
+is defined as the ultimate true decision taken by many scientists
+[unanimously] after employing various tools or methods of scientific
+examination. Siddhaanta is classified
+into four groups.
+
+
+
+Sarvatantra Siddhaanta: fundamental principles
+     encompassing or common to all streams of science. For example:
+
+
+
+
+Saptapadaartha  Basic even concepts viz Dravya, Gun`a, Karma, Saamaanya, Vis`hesha,
+      Samavaaya and Abhaava which provide the
+      rationale to all types of phenomena. The search for the root of any
+      function taking place n the universe has been explained or stretched up
+      to the level of Saptapadaartha to
+      gain true knowledge.
+Navadravya  Proliferation of the first concept Dravya into nine factors Prithvi, Aapa, Teja, Vaayu, Aakaas`ha, Kaala, Dik,
+      Manas and Aatmaa; which are more directory responsible for everything
+      that is happening in the universe. In this way each of the remaining six
+      concepts is elaborated
+Paanchbhautika Siddhaanta: theory of genesis of basic
+      materials by Anyonya-Anupraves`ha of Panchamahaabhoota
+Lokapurusha Saamya: Elaboration of functional
+      approach based on Saamaanya-Vis`hesha theory
+Parin`aamavaada  Paakajotpatti:
+      Law of conversion or transformation of energy.
+
+
+
+
+There are many such principles. These are common to every
+branch of science
+
+
+
+Pratitantra Siddhaanta: These are the theories,
+     which are propounded and applied to explain the reasoning about the
+     subject matter dealt within the particular Tantra or science stream. It encompasses the entire subject.
+     Some of these are listed below:
+
+
+
+
+Saamkhya Purush  Group of factors must be considered to analyze a
+      human being. There are other theories which consider less or more factors
+      but those are not applied here
+Tridosha  Vaata, Pitta, Kapha  Factors govern the live human body by all means.
+Trigun`a  Satva, Raja, Tama  Factors govern mind
+Agni  The factor which
+      represents Teja within the
+      framework of human body
+Gun`a karma of Phanchbhautika substances  These are studied with respect
+      to normal and abnormal body conditions
+Samyoga  Vibhaaga  The concept is studied
+      within the frame of drugs and diseases. These examples suggest that the
+      main theories are modified to understand and analyze the phenomenon related
+      to human structure and function in healthy and disease conditions.
+
+
+
+
+
+Adhikaran`a Siddhaanta  These theories are specific to the topic under consideration.
+     The topic comes under the purview of a subject, therefore Pratitantra Siddhaanta are applicable
+     to the topic but on a broader level. At the core of the topic is the
+     specific theory e.g. 
+
+
+
+
+Garbhotpattikara Bhaava : These are application
+      specific but not without Tridosha and
+      Trigun`a theories
+Dhaatu
+Mala
+Prakriti variations
+Trayopastambha: Aahaara Nidraa Brahmacharya
+Vyaadhihetusamgraha
+      Kaalaarthakarmayoga  Heena, Mithyaa, Ati Maatraa
+Sampraapti  Doshadooshya Samoorchchhanaa  to know how the disease has
+      progressed
+Dravya, Rasa, Veerya, Vipaaka,
+      Prabhaava, Gun`a, Karma  to know how a drug acts
+Samyoga
+Samskaara
+
+
+Chikitsaa Siddhaant Shaareera  Daiva and Yukti; Manas  Satvaavajaya
+Sadya vikaara Sootra  Viparitagun`a, Des`ha, Maatraa, Kaala
+
+
+
+Abhyupagama Siddhaanta: This category clearly reflects
+     that research and development were considered at the fundamental level in Ayurveda.
+     The theories and principles underlying those theories; which are newly
+     proposed and which are not yet established; are put in this category. Thus
+     methodology to verify new theories or even new principles is the method of
+     fundamental research. As the frame of reference here is Ayurveda it covers research in fundamental
+     principles adopted in Ayurveda.
+
+
+
+Objectives:
+
+To find
+out the exact theory behind unknown disease syndromes from generated or
+gathered evidence
+To
+provide a rational and to design method of treatment of new and unknown health
+conditions based on fundamental principles
+To
+find out the exact cause  effect relationship between efficacies due to
+particular treatment - preventive promotive
+or curative  and the new unknown condition under study.
+
+
+Methodology : The tools
+that help to unfold the true knowledge regarding any effect are termed as Hetu. These parameters are of four
+types and known as Pramaan`a_s.
+Definition of Pramaan`a is Pramaa
+Karan`am Pramaan`am, where Pramaa means
+true positive knowledge. The tools or parameters, which enable one to reach
+unto the truth, are Pramaan`a_s. Charaka Samhitaa elaborates the types of
+Pramaan`a_s at three places with
+reference to context. Sequentially they are listed as:
+
+Aapta or S`habda or Aitihya  Authentic scientific evidence
+documented in literature like Veda Upanishada and moreover from the devoted
+scientists.
+Pratyaksha  Direct, validated, logically analyzed experiences of each
+individual. Any experience perceived by an individual using his sense organs
+can be analyzed as gross level experience and subtle level experience which
+explains the details. Also it can be classified as present experience and past
+experience.
+Anumaan`a  This tool operates based on the above two tools Aapta and Pratyaksha. Method of prediction or judgment is of two types;
+futuristic and inferential. Futuristic prediction is based on logical analysis
+of knowledge acquired through documents and past experience while inferential
+judgment is based on drawing conclusions from the immediate experience.
+Yukti  Designing and putting Aapta
+and Pratyaksha together in a
+logical way to propose answers to unknown phenomenon. This is also known as
+creative thinking or management of thoughts as well as events:
+
+
+One more parameter is explained
+which is termed as Upamaana. It is accepted from Nyaaya-Dars`hana to exemplify certain disease conditions. It points out
+similarity between two objects which may not necessarily have some common
+factor but only visual similarity e.g. Dan`d`a
+means stick. Cardinal sign of the disease Dan`d`aapataanaka is stiffness of the body similar to stick or Dhanusha means arch, hence the
+disease where body bends like an arch of the archer is named Dhanustambha.
+
+
+By employing all the tools a
+researcher can analyze and find out the true relationship between cause and effect.
+The relationship can be of two types Nitya
+i.e. permanent and Anitya i.e. short term. The cause can be of three types  directly
+responsible for the effect, associated but not solely responsible for the
+effect and responsible for only a particular section or at a given moment of
+effect [Samavaayi, Asamavaayi, Nimitta]
+
+
+All the three factors lead to
+real or true knowledge, which is of two types comprehensive or with minute
+details depending on the approach of the researcher. The whole exercise of
+research is done in the quest of true knowledge. It is done with the help of
+theories mainly within the limit of Pratitantra
+and Adhikaran`a. Change in theory
+coming within the ambit of Sarvatantra leads
+to the change in theories of the other two that depend on it. Change in the
+principles of basic sciences reflects change in applied sciences.
+
+
+Fundamental research
+examples
+
+The
+twelfth chapter in Charaka Samhitaa titled
+Vaatakalaakaleeya explains the
+functional types of Vaata Dosha but
+does not elaborate in types of remaining two Dosha_s. About a millennium later Asht`aaanga Hridaya elaborates Pitta
+Dosha and Kapha Dosha in similar
+fashion. The hypothesis is Pitta and
+Kapha can also be classified on the
+basis of functionality.
+The 63
+permutations and combinations arising from six Rasa_s explained in Charaka
+Samhitaa are cross matched with 63 permutations and combinations
+originating from three Dosha_s in Asht`aanga Samgraha
+The
+debate about number of Rasa documented
+in Aatreya-Bhadrakapyeeya is chapter of Charaka
+Samhitaa, underlines that fundamental principle regarding the number of Rasa is six. It was challenged and
+various hypotheses like Rasa are two,
+three or eight were tested on above-mentioned parameters with a conclusive justification
+by Rishi Aatreya that Rasa_s are six.
+Similarly
+D`alhan`a at one place proposes that
+Rakta should be considered the
+fourth Dosha, which is debated by
+other Dosha_s are three is
+confirmed.
+
+
+Fundamental Research
+Comment:
+
+A careful scrutiny of all the
+types of research explained in the above article or known today or has been
+practiced since ages are merely a part of the fundamental research. Literary
+study is predominantly within the limit of the tool Aapta / S`habda or Aithihya; experimental or experiential
+methods come within the tool Pratyaksha;
+epidemiological studies are conducted using the parameter of Anumaana and Yukti encompasses all types of studies. When a study is conducted
+at a single level of literary etc, then generally it is guided by established
+principles unless it challenges the accepted theory. Each research problem
+focusing each of the area aims at finding out true relationship between cause
+and effect. All the tools must be put together to verify fundamental principle.
+
+
+Principles of Fundamental
+research explain the method of science. How to analyze and understand any
+unknown fact is elaborated in this method. Most important fact is that the
+principles have not changed over the last thousand of years and the change in
+application is also not very drastic. What has changed is development of
+technologies, which aid Pratyaksa and
+enable oneself to acquire knowledge directly, which was not possible before.
+Apart from the main body of method of science concept of bias is covered
+where criteria of Aapta, Guru S`hishya, are decided. They suggest an impartial attitude and
+point out that only quality should be considered. Concept of ethics is touched
+upon while elaborating on the rules of collection of raw drugs or gathering
+information from shepherds or behavioral conduct of Vaidya, with respect to patient.
+
+
+The marvel of the scientists of
+Ayurveda period is, that they
+have kept open all possibilities of gaining new knowledge and have not posed themselves
+as rigid followers.
+
+
+Statistics in Ayurveda
+
+Statistics is the science of
+collecting and analyzing significant numerical data. Numerical means to deal
+with numbers. But the numbers are understood in two ways mathematics as well as
+statistics. Mathematics gives complete stepwise sets and solution exact and
+unchanging, leaving no room for accepting errors while statistics keeps the
+possibility of change open and gives solutions in a probabilistic manner. In
+mathematics if the results differ from the expected; then it proves that the
+method is wrong; but in statistics it is not so. Statistics is based on the
+principle of error [or Obsolon], which deals with the allowable errors involved
+in experiment. These are natural errors, which are irremovable. Statistics is
+an applied science and is used in medical science, psychology, engineering,
+social sciences, economics, and education.
+
+
+However mathematicians and
+statisticians bifurcate from one common stream of numerical data. At some point
+it may be said that the method is inadequate and at other the thought has not
+missed out on anything rather has a more subtle understanding of the analyzing
+processes. In all the three treatises, particularly in Charaka Samhitaa, numerical values are used for a particular data.
+Right from the beginning of the principles there are numerical values use to
+denote five Mahaabhoota_s, three Dosha_s, three Upakrama_s, three Rogamaarga_s,
+eight Mahaagada, eight Nindita etc. in the chapter Snehaadhyaaya there is a direct evidence
+of presence of Saankhya people who
+are trained in the philosophy of Saankhya
+[numbers]. Wherever there is description regarding the thought process
+about the unknown disease, drug or treatment modality statements indicative of
+probability are made. The quotes saying Bhettaa
+Hi Bhedyam Anyathaa Binnatti, or Tasya Vikalpaat Aparisamkhyeyaani Bhavanti
+Vikalpabhedaat Aparisamkhyeyatva are indicative of the statistical thought
+process.
+
+
+Anything is measurable is the
+principle of mathematics. It also relates to statistics, the concept of
+measurement is well evident in the Ayurvedic treatises. The section Vimaanasthaana
+is developed around the focal theme of measurable variables and methods of
+measurement. A Vaidya must be well
+versed with method of measurement of all the variables like Dosha, drug, strength, diet etc. to be
+able to treat the diseases successfully. The measure is of three types
+quantitative [Dravyatah], qualitative
+[Gun`atah], and a combination of both
+[Ubhayatah]. For example, quantity of
+urine passed by a person in 24 hours is measured using the unit liters while
+its color, clarity, smell are compared to standards and noted; is an example of
+application of both types of measurement.
+
+
+Abhaava may be reflected as principle of Obsolon. Saankhya and Nyaaya Dars`hana_s introductory part authored by Annambhat`t`a is the root of logic and
+statistics. Many theories are proposed and established in this work. Deductive
+and inductive analysis methods are explained in detail well before the period
+of Aristotle. The concept of false positive and false negative results is
+defined in the same first chapter of Saankhyadars`hana,
+titled Tarkasamgraha. Forerunners
+of descriptive or inferential statistical methods are evident in Tarkasamgraha.
+
+
+But it cannot be compared to
+the statistics of todays era, which has proliferated into a huge science with
+many techniques of calculation, which leads to true knowledge. No formulae or
+such other parameters are evident in the treatises. These may be available in
+those days in texts of mathematics like Leelaavati
+by Bhaskaraachaarya. Therefore
+it can be said that the concept or theory of statistical phenomena too
+originated in ancient texts to a certain extent. 
+
+
+Summary 
+
+Intelligent minds trained in the
+current system of categorization of knowledge, try to analyze or judge the
+ancient texts for proofs of the extent and depth of knowledge find that the
+classification or contextual references seem different and therefore at times
+difficult to understand. But once the answers to the three scientific questions
+what, why and how are carefully gathered with a different arrangement of
+available literary data, the intellectual thought process of research in Ayurvedic
+texts lives up.
+
+
+There cannot be one to one matching
+of the methods in Ayurveda with
+those, which are practiced today. As mentioned in the introduction, there are
+no separate manuals on how to do research in Ayurveda as the manuals or books are available
+today. This is a literary review to analyze whether research thought was
+prevailing or not among the intelligent class of people practicing Ayurveda by using modern day understanding as a
+yardstick. Therefore this work is an inferential work put together by compiling
+and analyzing the available data from the main treatises. If someone wants to
+counter question about the actual records of researches conducted or any such
+supporting documents then I am afraid, it is not possible to provide any. It is
+the limitation of this literature. This literature is developed on the
+guidelines format and not of actual records. Moreover considering the time
+span through which this science moves it does not seem possible to maintain
+such records in manuscripts forms, as compared to todays advanced technology
+of writing and printing etc.
+
+
+There is no need for a learned
+man to say that after churning loads of data, one principle is established; for
+when a whole process is scrutinized it gives the crystal clear idea about the
+fact that how much churning or efforts have been put to generate so many
+treatises.
+
+
+References:
+
+Charaka Samhitaa Ed. Vaidya Jadavaji
+T A, Varanasi [reprint], 2000. Vimaanasthaana 8/1 
+Charaka Samhitaa ED. Brahmanand
+Tripathi Vol 2, Chaukhambha
+Surabharati Prakashan, 6th edition, 1999 Chikitsaasthana 30/292
+Sharma
+P V, Ayurvediya Anusandhan Paddhati,
+Chaukhmbha Orientalia, Varanasi, first edition 1976
+Charaka Samhitaa ED. Brahmanand
+Tripathi Vol 1, Chaukhambha Surabharati Prakasha, 6th edition
+1999, Vimaanasthaana 8/33
+Charaka Samhitaa ED. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakasha, 6th
+edition
+1999 Sootrasthaana 11/25
+Charaka Samhitaa Ed. Brahmanand
+Tripathi vol1, Chaukhambha Surabharti Prakashan 6th edition, 1999, Vimaanasthaana 8/87
+Charaka Samhitaa Ed. Brahmanand
+Tripathi vol1, Chaukhambha Surabharati Prakashan, 6th
+edition, 1999, Vimaanasthaana 8/94
+Sharma
+PV, Ayurvediya Anusandhan Paddhati,
+Chaukhmbha Orientalia, Varanasi, first edition 1976
+Charaka Samhitaa Ed. Brahmanand Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan, 6th edition, 1999, Vimaanasthaana 8/84
+Charaka Samhitaa Ed. Brahmanand Tripathi Vol 1, Chaukhambha Surabharati Prakashan, 6th
+edition 1999, Vimanasthan 8/84
+Charaka Samhitaa Ed. Brahmanand Tripathi Vol 1, Chaukhambha Surabharati Prakashan, 6th
+edition, 1999, Vimaanasthaana 8/84,
+76 125, 26, 27, 2812 Charaksamhita
+Vimansthan 8/134, Sutrasthan 11/42, Vimaanasthaana 8/84
+Charaka Samhitaa Ed. Brahmanand Tripathi Vol 1, Chaukhambha Surabharati Prakashan 6th edition 1999, Vimaanasthaana 8/84, 134
+Charaka Samhitaa Ed. Brahmanand Tripathi vol1, Chaukhambha Surabharati Prakashan 6th edition 1999, Vimaanasthaana 4/4
+Charaka Samhitaa Ed. Brahmanand Tripathi vol1, Chaukhambha Surabharati Prakashan 6th edition 1999, Vimaanasthaana 8/72
+Charaka Samhitaa Ed. Brahmanand Tripathi vol1, Chaukhambha Surabharati Prakashan 6th
+edition 1999, Vimaanasthaana 8/73/74
+Charaka Samhitaa Ed. Brahmanand Tripathi vol1, Chaukhambha Surabharati Prakashan 6th edition 1999, Vimaanasthaana 8/73/74
+Charaka Samhitaa Ed. Brahmanand Tripathi vol1, Chaukhambha Surabharati Prakashan 6th
+edition 1999, Vimaanasthaana 8/6,
+8/25
+Charaksamhita Ed. Brahmanand Tripathi vol1, Chaukhambha
+Surabharati Prakashan 6th
+edition 1999, Vimaanasthaana 8/25
+Charaka Samhitaa Ed. Brahmanand Tripathi vol1, Chaukhambha Surabharati Prakashan 6th edition 1999, Vimaanasthaana 8/37
+Charaka Samhitaa Ed. Brahmanand Tripathi vol1, Chaukhambha Surabharati Prakashan 6th edition 1999, Vimaanasthaana 8/15-18, 25-67
+Charaka Samhitaa Ed. Brahmanand Tripathi vol1, Chaukhambha Surabharati Prakashan 6th edition 1999, Vimaanasthaana 8/15 18, 25-67
+Charaka Samhitaa Ed. Brahmanand Tripathi vol1, Chaukhambha Surabharati Prakashan 6th edition 1999, Vimaanasthaana 8/30-37 Sootrasthaana 30/16-18, Vimaanasthaana 8/3
+Charaka Samhitaa Ed. Brahmanand Tripathi vol1, Chaukhambha Surabharati Prakashan 6th edition 1999, Vimaanasthaana 8/30-37, Sootrasthaana 30/16-18, Vimaanasthaana 8/3
+Charaka Samhitaa Ed. Brahmanand Tripathi vol1, Chaukhambha Surabharati Prakashan 6th
+edition 1999, Vimaanasthaana 8/30-37
+Sootrasthaana 30/16-18, Vimaanasthaana 8/3
+Charaka Samhitaa Ed. Brahmanand
+Tripathi vol1, Chaukhambha
+Surabharati Prakashan 6th edition 1999, Vimaanasthaana 8/3 Siddhisthana
+12/41-44 commentary, Aashtanghridaya
+Uttaratantra 40/78 commentary
+Charaka Samhitaa Ed. Brahmanand
+Tripathi vol1, Chaukhambha
+Surabharati Prakashan 6th edition 1999, Sootrasthaana 1/121;
+1/71, Ashtanghridaya Uttartantra 40/78,
+commentary
+Charaka Samhitaa Ed. Brahmanand
+Tripathi vol1, Chaukhambha
+Surabharati Prakashan 6th edition 1999, Sootrasthaana 4/7
+Chakrapani commentary 26/2
+Charaka Samhitaa Ed. Brahmanand
+Tripathi vol1, Chaukhambha
+Surabharati Prakashan 6th edition 1999, Sootrasthaana 26/13
+and Sushrutasamhita Sootrasthaana 42/5
+Charaka Samhitaa Ed. Brahmanand
+Tripathi vol1, Chaukhambha
+Surabharati Prakashan 6th edition 1999, Sootrasthaana 26/13
+Charaka Samhitaa Ed. Brahmanand
+Tripathi vol1, Chaukhambha
+Surabharati Prakashan 6th edition 1999, Sootrasthaana 35/48
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 2, Chaukhambha
+Surabharati Prakashan 6th edition 1999, Vimaanasthaana 8/33
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 2, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Chikitsasthana 30/291-293, Vimaanasthaana 4/8
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 2, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Chikitsasthana 30/327-328
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 2, Chaukhambha Surabharati
+Prakashan 6th edition 1999 Chikitsasthan
+30/330-333
+WHO guideline. Friedman L.M, Fundamentals of Clinical Trial
+2nd ed., Massachusetts, 1985
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 6/5 8/7 Sootrasthaana 1/11
+41. Charaka
+Samhitaa Ed. Brahmanand Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 8/87, Chakrapani
+commentary Vimaanasthaana 8/87
+Kalpasthana 1/7-9 Astanghrudaya Ed. Pandit Harishastri, Krushnadas
+academy publication Varanasi (Reprint)
+1995. Ed. Anna Kunte and Krushnashastri Navre; Sootrasthaana 19/9-14
+Astanghrudaya Sootrasthaana 26/1-4, Astanghrudaya
+Sootrasthaana 26/37-38 Sushrutasamhita Sootrasthaana 42/5
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 6/3, 5 Vimaanasthaana  Nidanasthana
+1/9, 11 Sushrutasamhita Ed. Vaidya Jadavaji TA, Krushnadas academy publication Varanasi
+(reprint), 1998 Sootrasthaana 42/5
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 8/94
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 8/93, 8/75
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 2, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 8/84
+Aasht`aanga Hridaya Ed.
+Pandit Harishastri, Krushnadas academy publication Varanasi (reprint), 1995 Ed. Anna Kunte and Krushnashastri Navre; Chikitsasthana
+19/54, 93
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 8/72
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 4/4
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 4/4
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 4/4
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 4/4
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 4/4
+WHO guidelines for research in traditional medicine
+Aasht`aanga Hridaya Ed.
+Pandit Harishashastri, Krushnadas academy publication Varanasi (reprint) 1995 Ed. Anna Kunte and Krushnashastri Navre; Sootrasthaana 9/1
+Aasht`aanga Hridaya Ed.
+Pandit Harishashastri, Krushnadas academy publication Varanasi (reprint) 1995 Ed. Anna Kunte and Krushnashastri Navre; Sootrasthaana 9/10, 41/5
+Sus`hruta Samhitaa Ed.
+Vaidya Jadavaji Ta, Krushnadas academy publication Varanasi (reprint) 1998 Sootrasthaana
+41/9, Charaka Samhitaa Ed. Brahmanand
+Tripathi vol2, Chaukhambha
+Surabharati Prakashan , 6th Edtuib,
+1999 30/291
+Charaka Samhitaa ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 1/121-125,
+127
+Charaka Samhitaa ed. Brahmanand
+Tripathi Vol 1, Chaukhambha Surabharati
+Prakashan 6th edition 1999 Sootrasthaana 26/29-34
+Aasht`aanga Hridaya Ed.
+Pandit Harishashastri, Krushnadas academy publication Varanasi (reprint) 1995 Ed. Anna Kunte and Krushnashastri Navre; Sootrasthaana 9/22
+Charaka Samhitaa ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 26/11-13
+Charaksamhita Vimaanasthaana 1/10
+Charaka Samhitaa ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 1/126,
+Sushrutasamhita Ed. Vaidya Jadavaji Ta, Krushnadas academy publication Varanasi
+(Reprint), 1998 Sootrasthaana 1/127
+Charaka Samhitaa ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Kalpasthana 1/10 Vimaanasthaana 8/87
+Charaka Samhitaa ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 4/4
+Ashtanghrudaya Ed. Pandit Harishastri, Krushnadas academy publication Varanasi
+(Reprint), 1995 Ed, Anna Kunte and
+Krushnashastri Navre; Sootrasthaana
+9/1-2
+Aasht`aanga Hridaya Ed.
+Pandit Harishashastri, Krushnadas academy publication Varanasi (reprint) 1995 Ed. Anna Kunte and Krushnashastri Navre; Sootrasthaana 9/1-2
+Charaka Samhitaa ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 26/11
+Sushrutsamhita Ed. Vaidya Jadavaji TA, Krushnadas academy publication Varanasi
+(reprint) 1998 Sootrasthaana 41/4
+Aasht`aanga Hridaya Ed.
+Pandit Harishashastri, Krushnadas academy publication Varanasi (reprint) 1995 Ed. Anna Kunte and Krushnashastri Navre; Sootrasthaana 9/1-2
+Aasht`aanga Hridaya Ed.
+Pandit Harishashastri, Krushnadas academy publication Varanasi (reprint) 1995 Ed. Anna Kunte and Krushnashastri Navre; Sootrasthaana 9/2 Charaksamhita ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 9/7
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1 & 2 Chaukhambha
+Surabharati Prakashan, 6th edition 1999 Kalpsthana 12/50-67 Charaksamhita
+Sootrasthaana 4/7 Chakrapani commentary, Chikitsasthana 1/30-31
+Aasht`aanga Hridaya
+Kalpasthana 2/62 Charakasamhita Ed.
+Brahmanad Tripathi Vol 1 Chaukhambha Surabharati Prakashan 6th
+edition, 1999 Kalpasthana 12/46
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimansthan 8/87
+Charaka Samhitaa Ed. Brahmanand
+Tripathi vol1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 8/87 Sootrasthaana 26/29 Ashtanghrudaya Ed. Pandit Harishastri, Krushnadas
+academy publication Varanasi (reprint)
+1995 Ed. Anna Kunte and Krushnashastri Navre; Kalpasthana 1/11
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 8/87
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha Surabharati
+Prakashan 6th edition 1999 Sutrasthan
+26/29
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 2, Chaukhambha
+Surabharati Prakashan, 6th edition 1999 Sutrasthan 26/29
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 2, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Kalpasthana 1/11
+Charakasamhita Ed. Brahmanand Tripathi Vol 1, Chaukhambha Surabharati Prakashan 6th
+edition 1999 Vimaanasthaana 1/21
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 2, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 1/21
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 2 Chaukhambha
+Surabharati Prakashan 6th edition 1999 Kalpasthana 12/100-101
+Charaka Samhitaa Ed. Brahmanand
+Tipathi Vol 1 Chaukhambha Surabharati
+Prakashan 6th edition 1999 Vimansthan
+1/22
+Charaka Samhitaa Ed. Brahmanand
+Tripathi vol2 Chaukhambha Surabharati
+Prakashan 6th edition 1999 Kalpasthana
+12/45
+Charaka Samhitaa Ed: Vaidya
+Jadavaji TA, Chaukhambha Surabharati
+Prakashan Varanasi (reprint) 2000 Sootrasthaana 26/13
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1 & 2 Chaukhambha
+Surabharati Prakashan 6th edition, 1999 Sootrasthaana 2/17
+Chakrapani Charakasamhita Kalpasthana 12/45
+Rasadoshasannipata
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 1/8
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 1/9
+Kulkarni S.D. Ayurveda Rasaushadhi Nirman first
+edition, Continental Publication, Pune [981
+page 287]
+Charaka Samhitaa ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 1/22(3)
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan, 6th edition 1999 Vimaanasthaana 1/11
+Charaka Samhitaa ed. Brahmanand
+Tripathi Vol 1&2 Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 26/29-30
+Kalpasthana 12/43-48
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha Surabharati Prakashan 6th
+edition 1999 Sootrasthaana 26/34 Vimaanasthaana 1/22(2)
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 1/22
+p [2] [9] Vimaanasthaana 1/22
+(2)
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha Surabharati
+Prakashan 6th edition 1999 Sootrasthaana 26/30
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 2, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Kalpasthana 12/103
+Charaka Samhitaa Ed. Brahmanand
+Tripathi vol2, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Siddhisthana 6/28
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 26
+Ashtanghrudaya Ed. Pandit Harishastri, Krushnadas academy publication Varanasi
+(reprint) 1995 Ed. Anna Kunte and
+Krushnashastri Navre; Sootrasthaana
+1/28
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1 Chaukhambha
+Surabharati Prakashan, 6th edition 1999 Kalpasthana 12/50 
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1 Chaukhambha
+Surabharati Prakashan, 6th edition 1999 Sootrasthaana 26/71-72
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1 Chaukhambha
+Surabharati Prakashan, 6th edition 1999 Sootrasthaana 26/13
+
+Charaka Samhitaa Ed. Brahmanand Tripathi Vol 1 Chaukhambha Surabharati Prakashan, 6th
+edition 1999 Vimaanasthaana 1/10
+
+Sushrutasamhita Ed. Vaidya Jadavaji Ta, Krusnadas academy publication Varanasi
+(reprint) 1998 Sootrasthaana 14/10 commentary Dalhan
+Ashtanghrudaya Ed. Pandit Harishastri, Krushnadas academy publication Varanasi
+(Reprint) 1995 Ed. Anna Kunte and
+Krushnashastri Navre; Sharitsthana 3/67 commentary Hemadri
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1 Chaukhambha
+Surabharati Prakashan, 6th edition 1999 Siddhisthana 6/26-27 
+Sushrutasamhita Ed. Vaidya Jadavaji TA, Krushnadas academy publication Varanasi
+(reprint) 1998 Sootrasthaana 35/48, Dalhan
+Anti-platelet Trialist collaboration
+1988 Brit med j 296:320 Steering Committee 1989 New Eng J Med 321:129
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 4/8
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 8/87
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Chi 30/298
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Chikitsasthana 30/329-333
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Chikitsasthana 25/97-98,
+Sushrutasamhita Ed. Vaidya Jadavaji TA, Krushnadas academy publication Varanasi
+(reprint) 1998 Sootrasthaana 19/14-15, 32-36
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Kalp 1/7 Chikitsa 30/291-326
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Siddhisthana 6/28
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 29/8-10
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Charakasamhita Ed.
+Brahmanand Tripathi Vol 1, Chaukhambha Surabharati Prakashan 6th
+edition, 1999 Siddhisthana 2/8 11,
+14-15,17
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Chikitsthana 24/67
+Sootrasthaana 1/127
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Chikitsasthana 24/86-87
+Sootrasthaana 1/127
+Sus`hruta Samhitaa Ed.
+Vaidya Jadavaji TA, Krushnadas academy publication Varanasi (reprint) 1998
+V.B. Preetisudha, Etal, Bioactivity of Traditional
+Preparation of Piper Lonum l.J Trop
+Med. Plants Vol. 5 no.2 (Dec 2004)
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Chikitsasthana 1/3, 30
+Pandeya G.S. and Chunekar k.C. Bhavprakash Nighantoo ed. 10, C.B.A. publication Varanasi page 47-48 verse 110
+Sus`hruta Samhitaa Ed.
+Vaidya Jadavaji Ta, Krushnadas academy publication Varanasi (reprint) 1998 Uttara 65/4 commentary by Dalhana
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 29/7
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha Surabharati
+Prakshan 6th edition 1999 Vimaanasthaana 8/23
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 29/9,
+24 Vimana 8/3 Sushrutasamhita Ed. Vaidya
+Jadavaji TA, Krushnadas academy publication
+Varanasi (reprint) 1998 Sootrasthaana
+1/22, 3/55
+Mhetre H.B. Dwivedi R., application of Tantrayukti in Samhitadhyayanm Disseretation Dept of Maulika Siddhanta and Samhita,
+IPGTRA, GAU, Jamnagr, Amrch 1998 page 23
+Oxford English Dictionary 
+Oxford English Dictionary
+Sushrutasamhita Ed. Vaidya Jadavaji TA, Krushnadas academy publication Varanasi
+(reprint) 1998 Sootrasthaana 4/28
+Sushrutasamhita Ed. Vaidya Jadavaji TA, Krushnadas academy publication Varanasi
+(reprint) 1998 Sootrasthaana 28/28
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 1/5-23
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Chikitsasthana 30/316-319
+Vimaanasthaana 1/17-18
+Charakasamhita Ed. Brahmanand Tripathi Vol 1, Chaukhambha Surabharati Prakashan 6th
+edition 1999 Sootrasthaana 12
+13/3 26/3-7
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sutrasthan 30/28-68
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 8
+/ 1-3
+Mhetre H.b.Dwivedi R.B. application of Tantrayukti in Samhitadhyayanm Disseretation, dept. of Maulika Siddhanta and Samhita,
+IPGTRA, GAU, Jamnagar, March 1998,
+page 33 
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 30/16-19
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 8/. 3
+Ashtanghrudaya Ed. Pandit Harishastri, Krushnadas academy publication Varanasi
+(reprint) 1995 Ed. Anna Kunte and
+Krushnashastri Navre; Uttaratantra 40/78 commentary by Arunadatta
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 8/30-37
+Charakasamhita Ed. Brahmanand Tripathi Vol 1, Chaukhambha Surabharati Prakashan 6th
+edition 1999 Vimaanasthaana 25-67
+Dorland W.A Newman, Dorlands
+illustrated medical dictionary Ed. 29th 2000
+Sushrutsamhita W.A. Newman, Dorlands illustrated medical dictionary ed. 29th 2000
+Sushrutsamhita Ed. Vaidya Jadavaji TA, Krushnadas academy publication Varanasi
+(reprint) 1998 Prasangat
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vi. 3/1 Chakrapani commentary 3/5
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 3/8
+Ashtanghrudaya Ed. Pandit Harishastri, Krushnadas academy publication Varanasi
+(reprint) 1995 Ed. Anna Kunte and
+Krushnashastri Navre; Sharirarsthana 3/85-103
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Indriyasthana 2/15, 3/7
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 26/81,
+86, 87]
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 11/17
+Ashtanghrudaya Ed. Pandit Harishastri, Krushnadas academy publication Varanasi
+(reprint) 1995 Ed. Anna Kunte and
+Krushnashastri Navre; Sootrasthaana
+1/22
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Charakasamhita Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 4/3-4
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Su. 25/39-40
+Oxford dictionary and thesaurus
+Kerlinger F.N.
+Foundations of Behavioral Research ed. 3rd 1995
+Martin graham a handbook of literary research, ed. Simon Etal the open university press 1998
+Seal B., The positive sciences of the ancient Hindus Motilal Banarsidas Delhi reprint 1991
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vim 8/37
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 vi. 8/37
+Bhargava D Anambhatts Tarkasamgra Motilal Banarsidas publishers
+reprint 1992 Delhi
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 1/48
+commentary
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 1/44-45
+Sushrutsamhita Ed. Vaidya Jadavaji TA, Krushnadas academy publication Varanasi
+(reprint) 1998 Sharirasthana 1/5-8
+Charaka Samhitaa Ed. Brahmanand Tripathi
+Vol 1, Chaukhambha Surabharati
+Prakashan 6th edition 1999 Chikitsasthana
+15/38-39
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 26/10
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 1/52 26/32-33
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sharirsthana 3/5-14
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 2000 Vimaanasthaana 8/70
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 11/17-32
+Vimaanasthaana 3
+/ 4,8/38-42
+Charakasamhita Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Sootrasthaana 11/18-19
+Vimaanasthaana 3
+/4
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 Vimaanasthaana 8/38
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1999 vi. 8/41
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 2000 Vimansthan 8/42
+Charaka Samhitaa Ed. Brahmanand
+Tripathi Vol 1, Chaukhambha
+Surabharati Prakashan 6th edition 1998 Sutrasthan 1/10
+Bhargava D Annambhatts Tarkasamfraha Motilal Banarasidas publishers reprint
+1992 Delhi
+Oxford dictionary Friedman L.M. Fundamentals of Clinical Trial
+2nd ed. Massachusets 1985
+Charaka Samhitaa Ed. Brahmanand Tripathi Vol 1, Chaukhambha Surabharati Prakashan 6th
+edition 2000 Sootrasthaana 26/32 Bhargava
+D Annambhatts Tarkasamgraha Motilal
+Banarsidas publishers reprint 1992 Delhi page 68-70
+Charaka Samhitaa Ed. Brahmanand Tripathi Vol 1, Chaukhambha Surabharati Prakashan Varanasi (reprint)
+ 2000 Vimaanasthaana 1/3
+Bhargava D Annambhatts Tarkasamgraha Motilal
+Banarsidas publishers, reprint 1992 Delhi page 178-182
+
+Dr. Asmita Wele
+Department of Rasashastra and Bhaishajya Kalpana, 
+BVDU College of Ayurved, Pune
+
+
+
+
+

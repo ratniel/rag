@@ -1,0 +1,103 @@
+
+
+Jalaukaavachaaran`a
+
+
+
+
+
+Jalaukaavachaaran`a
+
+
+
+Chikitsaa Karma,Jalaukaavachaaran`a
+Specific Classification,Raktamokshan`a
+Instruments used,Jalaukaa
+Karma,S`hoolapras`hamana
+Arha Vyaadhi Prakaara,Raktapradoshaja Vikaara
+Arha Vyaadhi,Ars`ha
+Arha Vyaadhi,Ars`ha --) Avasthaa --) Snigdha Rooksha S`heeta Ushn`a Anupas`haya
+Arha Vyaadhi,Ars`ha --) Avasthaa --) Uchchhrita Kat`hina
+Arha Vyaadhi,Baala Roga --) Gudakut`t`a --) Raaga + Kan`d`oo
+Arha Vyaadhi,Granthi --) Pittaja Granthi
+Arha Vyaadhi,Guhya Roga --) Upadams`ha
+Arha Vyaadhi,Guhya Roga --) Upadams`ha --) Avasthaa --) Alpadosha
+Arha Vyaadhi,Guhya Roga --) Upadams`ha --) Avasthaa --) Anavagaad`ha
+Arha Vyaadhi,Guhya Roga --) Upadams`ha --) Pittaja Upadams`ha
+Arha Vyaadhi,Guhya Roga --) Upadams`ha --) Raktaja Upadams`ha
+Arha Vyaadhi,Gulma
+Arha Vyaadhi,Gulma --) Gulma Prakaara --) Raktaja Gulma --) S`hoola + Unnata + Aspanda + Daaha + Paaka + Rujaa
+Arha Vyaadhi,Karn`a Roga --) Karn`apaaligata Roga --) Utpaata
+Arha Vyaadhi,Kshudra Roga --) Ajagallikaa
+Arha Vyaadhi,Kshudra Roga --) Ajagallikaa --) Apakva Ajagallikaa
+Arha Vyaadhi,Kshudra Roga --) Arumshikaa
+Arha Vyaadhi,Kshudra Roga --) Vidaarikaa --) Apakva Vidaarikaa
+Arha Vyaadhi,Kusht`ha
+Arha Vyaadhi,Kusht`ha --) Doshabhedena --) Kaphaja
+Arha Vyaadhi,Kusht`ha --) Kshudra
+Arha Vyaadhi,Masoorikaa --) Avasthaa --) Vran`a
+Arha Vyaadhi,Mukha Roga --) Galagata Roga
+Arha Vyaadhi,Mukha Roga --) Osht`hagata Roga --) Abhighaataja
+Arha Vyaadhi,Mukha Roga --) Osht`hagata Roga --) Osht`hakopa --) Abhighaataja
+Arha Vyaadhi,Mukha Roga --) Osht`hagata Roga --) Osht`hakopa --) Pittaja
+Arha Vyaadhi,Mukha Roga --) Osht`hagata Roga --) Osht`hakopa --) Raktaja
+Arha Vyaadhi,Mukha Roga --) Osht`hagata Roga --) Pittaja
+Arha Vyaadhi,Netra Roga
+Arha Vyaadhi,Netra Roga --) Avasthaa --) Raktaja Abhishyanda + S`hoola
+Arha Vyaadhi,Netra Roga --) Drisht`igata --) Kaacha Roga
+Arha Vyaadhi,Netra Roga --) Krishn`agata --) S`hukra Netra Roga --) Savran`a S`hukra
+Arha Vyaadhi,Netra Roga --) Vartmagata --) Kukoon`aka
+Arha Vyaadhi,Raajayakshmaa --) Avasthaa --) Paars`hva S`hoola
+Arha Vyaadhi,Raajayakshmaa --) Avasthaa --) S`hirahs`hoola
+Arha Vyaadhi,S`hiroroga --) Kapaalagata S`hiroroga --) Arumshikaa
+Arha Vyaadhi,S`hooka Roga --) Alajee
+Arha Vyaadhi,S`hooka Roga --) Asht`hilikaa
+Arha Vyaadhi,S`hooka Roga --) Pushkarika
+Arha Vyaadhi,S`hooka Roga --) Sammood`hapid`akaa
+Arha Vyaadhi,Vaatarakta
+Arha Vyaadhi,Vaatarakta --) Avasthaa --) Rujaa + Raaga + Daaha + Toda
+Arha Vyaadhi,Vidradhi
+Arha Vyaadhi,Vidradhi --) Pittaja Vidradhi
+Arha Vyaadhi,Vidradhi --) Raktaja Vidradhi
+Arha Vyaadhi,Visarpa --) Kaphavataja (Granthi Visarpa)
+Arha Vyaadhi,Visha Roga
+Arha Vyaadhi,Vran`a --) Avasthaa --) Rujaa
+Arha Vyaadhi,Vran`a --) Avasthaa --) Vishaja Vran`a
+Arha Vyaadhi,Vran`as`hotha --) Avasthaa --) Kat`hina
+Arha Vyaadhi,Vran`as`hotha --) Avasthaa --) Rujaa
+Arha Vyaadhi,Vran`as`hotha --) Avasthaa --) Vivarn`a
+Arha Vyaadhi,Vran`as`hotha --) Vishaja
+Arha Vyaadhi,Vriddhi --) Raktaja
+Arha Avasthaa,Sukumaara
+Anarha Vyaadhi,Prameha Pid`akaa --) Avasthaa --) Adhahkaaye Pid`akaa
+Samyak Yoga Lakshan`a,Raaga S`hamana
+Samyak Yoga Lakshan`a,S`hoola Vyuparama
+Atiyoga Lakshan`a,Aakshepaka
+Atiyoga Lakshan`a,Aandhya
+Atiyoga Lakshan`a,Adhimantha
+Atiyoga Lakshan`a,Ati Raktasraava
+Atiyoga Lakshan`a,Daaha
+Atiyoga Lakshan`a,Dhaatukshaya
+Atiyoga Lakshan`a,Ekaanga Vikaara
+Atiyoga Lakshan`a,Hikkaa
+Atiyoga Lakshan`a,Kaasa
+Atiyoga Lakshan`a,Paan`d`u
+Atiyoga Lakshan`a,S`hvaasa
+Atiyoga Lakshan`a,Timira
+Atiyoga Lakshan`a,Trishn`aa
+Heenayoga Lakshan`a,Atyalpa Raktasraava
+Heenayoga Lakshan`a,Daaha
+Heenayoga Lakshan`a,Kan`d`oo
+Heenayoga Lakshan`a,Na Raktasraava
+Heenayoga Lakshan`a,Paaka
+Heenayoga Lakshan`a,Raaga
+Heenayoga Lakshan`a,S`hoola
+Heenayoga Lakshan`a,S`hotha
+Effect on Dhaatu,Rakta Dusht`ee (Pittaja) Nas`haka
+Effect on Dhaatu,Rakta Dusht`ighna
+Effect on Dhaatu,Rakta S`hodhaka
+More Information,Jalaukaavachaaran`a.htm
+
+
+
+

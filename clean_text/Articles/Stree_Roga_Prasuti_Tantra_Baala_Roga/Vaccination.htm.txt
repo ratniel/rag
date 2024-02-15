@@ -1,0 +1,343 @@
+
+
+Vaccination
+
+
+
+
+
+Vaccination
+
+Vaccination changes from nation to
+nation, but the principle behind the immunisation remains the same. The immune
+system defends the individual from infections with microbes such as bacteria,
+viruses, fungi and protozoa. Immune system also impedes the development of
+autoimmune and malignant diseases. There are 4 essential parts of protective
+immune system of the body namely humoral or antibody related immunity,
+cell-mediated immunity, phagocytosis, and complement system. 
+
+
+Types of immunity:
+
+Protection
+produced by the person's own immune system which is usually permanent 
+Protection
+transferred from another person or animal as antibody and is temporary
+protection that wanes with time 
+
+Principles of vaccination:
+Self
+verses no self 
+Protection
+from infectious disease
+Usually
+indicated by the presence of antibody 
+Very
+specific to a single antigen immunity
+
+
+Advantage of vaccination:
+
+Active
+immunity produced by vaccine
+Immunity
+and immunologic memory similar to natural infection but without risk of disease
+
+
+Classification of Vaccines
+
+
+Classification Types,Live  attenuated,Inactivated,Protein-based,Polysaccharide-based
+1.0,Viral,Virus,Subunit,Pure
+2.0,Bacterial,Bacterial,Toxoid,Conjugate
+
+
+
+Characteristic features of Live
+Attenuated Vaccines
+
+Attenuated (weakened) form of the
+     "wild" virus or bacteria 
+Must replicate to be effective 
+Immune response similar to natural
+     infection 
+Usually effective with one dose
+     except those administered orally 
+Severe reactions possible
+Interference from circulating
+     antibody
+Unstable 
+
+
+E.g. of Live Attenuated Vaccines
+Viral measles,
+mumps,rubella, varicella, yellow fever,
+rubella, influenza, oral polio, BacterialBCG,
+oral typhoid
+
+
+Characteristic features of Inactivated Vaccines
+
+Cannot
+replicate 
+Minimal
+interference from circulating antibody 
+Generally
+not as effective as live vaccines 
+Generally
+require 3-5 doses 
+Immune
+response mostly hum oral 
+Antibody
+titre diminishes with time 
+E.g. of Inactivated Vaccines
+Viral
+polio, hepatitis A, rabies (influenza)
+Bacterial(pertussis) (typhoid)(cholera)
+(plague)
+
+Polysaccharide Vaccines
+pneumococcal
+
+meningococcal
+
+Salmonella
+Typhi (Vi) 
+Haemophilus
+influenza type b 
+pneumococcal
+
+Types of polysaccharide:
+
+Pure
+polysaccharide
+Conjugate
+polysaccharide
+
+Pure
+Polysaccharide Vaccines
+Not
+consistently immunogenic in children <2 years of age 
+No booster
+response 
+Antibody
+with less functional activity 
+Immunogenicity
+improved by conjugation 
+
+Vaccination in Children:
+BCG vaccine: Bacillus Calmette Guerin (BCG) is an attenuated
+strain of Mycobacterium tuberculosis var. bovis, used as a live vaccine against
+tuberculosis. The vaccine is given from birth to two weeks.
+In order to maintain its potency, the
+vaccine is supplied in freeze-dried 
+at 4 degree C. BCG is administered
+intradermally over the deltoid muscle. The dosage is 0.05 ml for newborns and
+0.1ml for all other ages. The vaccine is given from birth to two weeks. BCG
+does not protect from other mycobacterial disease such as leprosy. In neonate
+and young infant, tuberculin testing is unnecessary before giving BCG.
+Tetanus Toxoid(Adsorbed): It is used to immunise children from
+age of 3 months onwards. Risk of tetanus neonatorum in infant is avoided by
+immunising pregnant woman. 
+For active primary immunisation : 2doses
+at an interval of 4to 6 weeks.
+Reinforcing dose should be given 9 to 12
+months later to increase the 
+level of immunity.
+Booster dose should be given every 5
+years to maintain adequate level 
+of immunity even if they do not suffer
+from any injury.
+Hepatitis B vaccine:
+Hepatitis B is an infection of the liver thats caused by a virus and can result
+in liver damage or failure. Some babies can develop Hepatitis B if their
+mothers are infected with it before or during pregnancy. 
+Diphtheria, tetanus, and pertussis (DTP) vaccine:
+This vaccine protects against three
+diseasesdiphtheria, tetanus, and 
+pertussis or whooping cough:
+Diphtheria
+is a serious infectious disease caused by bacteria that produce toxins which
+inflame the nervous system and heart and can result in heart failure and
+paralysis.
+Tetanus results
+from bacteria that grow in wounds and that produce a toxin which affects the
+nervous system and causes muscle spasms and paralysis, especially in the jaw
+area. Its also called lockjaw. 
+Pertussis
+or whooping cough, another infectious disease caused by bacteria, is especially
+dangerous for babies under the age of 1. Its most well-known symptom is a
+debilitating racking cough.
+The vaccine should be given in five doses at 2 months, 4 months, 6 months,
+around 18 months, and before the child enters school, between 4 and 6 years of
+age. A sixth dose of diphtheria and tetanus vaccine is recommended between 11
+and 16 years of age.
+Baby may have a mild reaction to this vaccine including a slight fever (under
+102 degrees F), fussiness, and redness in the thigh area where the shot is
+given. These symptoms typically last up to 2 days and doctor may suggest giving
+the child some baby acetaminophen to ease the fever.
+Haemophilic influenza type B (HIB) vaccine:
+Haemophilus influenzae type b isnt the viral infection that everybody
+calls the flu. Instead, its a fast-moving bacterial infection that can cause
+baby to have ear and bronchial infections. HIB also can lead to meningitis in
+children under the age of 2, so it is important that protect the child with the
+HIB vaccine.
+Before the age of six months: At 6, 10, 14 weeks
+followed by a booster 
+12 months after last injection. 
+Children not vaccinated before 6 months of age: 2
+dose and booster 12 
+months after 2nd dose.
+Children not vaccinated before 1year of age: 1dose.
+Poliomyelitis vaccine (oral) i.e. OPV:
+Polio, short for poliomyelitis, is a serious viral disease that starts with a
+fever and can lead to paralysis, muscle atrophy, and permanent disability. In
+its most severe forms, polio can cause death. Oral polio vaccine developed by
+sabin and is given by mouth at birth to 2 months, 2,4, 6, 6-9 months, 18
+months, 4-6years, 6years. 
+Heptavalent Conjugate Pneumococcal (PCV) vaccine:
+This vaccine protects your child against the pneumococcal bacteria which can
+cause meningitis, pneumonia, and serious infections in a child's brain, blood
+stream, and ears. 
+First
+vaccination: A single injection confirms
+protection against 
+pnuemococcal
+types contained in the vaccine.
+Revaccination
+should not be carried before 5 years, unless the subject 
+is
+particularly exposed.
+Measles, Mumps, and Rubella (MMR) vaccine:
+This vaccine provides coverage for three diseases in a single shotmeasles,
+mumps, and rubella or German measles:
+Measles is a viral infection that
+causes distinctive red spots and is characterized by cold-like symptoms and a
+high fever. 
+Mumps is an infectious viral disease
+that results in swelling of the parotid gland thats just in front of the ear
+and the salivary glands. The swelling can occur on the sides of one or both
+cheeks. Mumps usually is accompanied by a fever and pain when the patient opens
+his mouth or eats.
+Rubella or German measles is similar to
+measles in that its a viral infection that results in a fever, swollen glands,
+and a rash.
+The first MMR vaccine is usually recommended between 12 and 15 month of age and
+seldom has any serious side effects. Baby, however, may be more sleepy than
+usual and have a mild rash, slight fever, or slight swelling in the neck or
+diaper area. The second shot (booster) is recommended between 4 to 6 years of
+age.
+Varicella (Var) vaccine: 
+vaccine protects against chicken pox, a viral infection which is highly
+contagious and results in a blister like rash thats very itchy. Varicella
+vaccine is indicated for active immunisation against varicella in healthy
+subjects from the age of 12 months onward.
+12
+months-12 years:
+1dose
+13 years and above: 2dose with an
+interval of 6-10 weeks.
+Influenza vaccine:
+The influenza vaccine is more commonly known as the flu shot. The flu is more serious
+than the common cold and can be very dangerous in young children, especially
+those with certain medical conditions. For this children 6 months of age or
+older with certain risk factors receive the influenza vaccine yearly. It can
+also be given to other children. If you aren't sure if your child should
+receive this vaccine, ask your child's doctor. 
+Children
+6months to 3years of age: 1injection of 0.25ml
+Children
+3years and all ages: 1injection of 0.5ml.
+Children
+under 8 years of age who have not been infected or 
+Vaccinated
+previously should be given a 2nd dose after an interval of
+at
+least 4 weeks.
+Measles Vaccine: It is a lyophilized preparation
+of the highly attenuated Schwarz strain of measles virus, obtained by
+propagation of the virus, obtained by propagation of virus in chick embryo
+tissue cultures. The optimal age for active vaccination is 15 months. The
+vaccine pellet should be completely dissolved in the diluent. The entire
+contents of a reconstituted monodose vial or 0.5 ml of reconstituted vaccine
+from a multi dose vial should be injected subcutaneously.
+Hepatitis A vaccine: It is a sterile suspension
+containing formaldehyde-inactivated hepatitis A virus adsorbed onto aluminium
+hydroxide. First dose should be given at elected date and second one month
+later. Booster dose is recommended at any time between 6and 12 months after
+initiation of primary course. Vaccine should be used intramuscularly and the
+dose is 0.5ml/not less than 360 ELISA units. 
+ 
+
+
+
+
+
+Vaccination In  Children→,Hepatitis B,BC G,Oral Polio,DTP,Haemophilic influenza type B (HIB),Measles (M-Vac),"Measles, Mumps, and Rubella (MMR)",Typhoid,Varicella,Hepatitis A,Tetanus (TT-SP)
+Age ↓,Hepatitis B,BC G,Oral Polio,DTP,Haemophilic influenza type B (HIB),Measles (M-Vac),"Measles, Mumps, and Rubella (MMR)",Typhoid,Varicella,Hepatitis A,Tetanus (TT-SP)
+Birth-2Weeks,1st Dose,1 dose,1st Dose,,,1 Dose,,,,,
+6 Weeks,2nd Dose,,2nd Dose,1st Dose,1st Dose,,,,,,
+10 Weeks,,,3rd Dose,2nd Dose,2nd Dose,,,,,,
+14 Weeks,3rd Dose,,4th Dose,3rd Dose,3rd Dose,,,,,,
+9 Month,,,,,,,1 Dose,,,,
+12-15 Month,,,,,,,,,1st Dose,1st Dose,
+18 Months,,,5th Dose,Booster Dose1st,Booster Dose,,,,,,
+2 Years,,,,,,,,1st Dose,,2nd Dose,
+5 Years,,,6th Dose,2nd Booster  Dose,,,,Booster Dose 1st,,,
+8Years,,,,,,,,Booster Dose 2nd,,,
+10 Years,,,,,,,,,,1st Booster  Dose,1st dose
+15-16 Years,,,,,,,Rubella Vaccine,,,,2nd Booster  Dose
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Vaccination,Indication,Dosage
+Tetanus Toxoid (Adsorbed),In Pregnant mothers: Immunisation should be done by  injecting 2 dose of TT starting in 7th month with an interval of 4  weeks. In General: In case of all persons actively  immunized booster dose should be given every 5 years to maintain adequate  level of immunity even if they do not suffer from any injury.,0.5 ml by intramuscular route.
+Cholera,It is recommended only in times of outbreaks  of cholera.,"In adult: 0.5 ml after 4 to 6 weeks.  In case of emergency, a single dose of 1ml may be given."
+Meningococcal  Vaccine,Prophylaxis against cerebrospinal  meningitis due to meningococcal of A and C groups.,0.5 ml subcutaneous or intramuscular
+Hepatitis A vaccine,Active immunisation against hepatitis  A virus infection.,Adults: 1ml/not less than 720 ELISA  units.
+Antisnake  Venom Serum,Indicated in snake bite.,
+Rabies  Vaccine,For immunisation against rabies after exposure  and for prophylactic vaccination against rabies before exposure.,"Vaccine should be given by  intramuscular route. Dosage: Pre-exposure:  3 doses injections on day 0, day 7, day28. A booster dose after 1 year and  1dose after every 5 years. Post-exposure:  After exposure start immediately a full course of treatment for both adults  and children consists of 5 injections on day of exposure(0 day), 3, 7, 14,  30. A booster dose on day 90 is optional."
+
+
+ 
+
+
+

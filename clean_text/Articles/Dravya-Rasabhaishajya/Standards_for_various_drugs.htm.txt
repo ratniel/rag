@@ -1,0 +1,948 @@
+
+
+Pharmacopoeial Standards For Ayurvedic Drugs
+
+
+
+
+
+PHARMACOPOEIAL
+STANDARDS FOR AYURVEDIC DRUGS
+
+Introduction
+India has Drugs and
+Cosmetics Act, 1940 and Drugs and Cosmetics Rules of 1945 for drug regulation.
+Also Dangerous Drug Act, 1930 and Poisons Act 1919 define drug related
+policies. These acts and related rules regulate export, manufacture,
+distribution and sale of drugs and cosmetics. 
+
+Considering increase in demand, use and export of drugs
+from Ayurvedic and other systems included in AYUSH; Government of India has
+specified the rules and notifications related manufacturing, standardization
+and other aspects of drug usage. Ayurvedic, Unani and Homoeopathic
+Pharmacopoeias published by the Govt. of India have prescribed various
+standards to be followed for ISM & Homoeopathic drugs.
+
+In 2002 Govt. of India published Good Laboratory
+Practices (GLP) guidelines to guide the drug analysts in maintaining high
+scientific and professional standards for ensuring only drugs of the highest
+quality are produced and marketed. In 2003, government issued notification of
+Good Manufacturing Practices (GMP) to ensure authentic, contamination free
+quality raw material, manufacturing process and product with desired quality
+standards. 
+
+Guidelines for Quality
+Control 
+Standards
+for quality control are based on pharmacognostic, physicochemical,
+phytochemical and biological parameters. General process and parameters
+employed in present standardization of herbal drugs is described below.
+
+Sample
+collection as per suitable sampling plan
+
+Identification
+Organoleptic characterization
+Specific chemical tests (wherever available)
+Microscopic analysis
+Powder microscopy
+TLC comparison with authentic reference standard
+
+Physico-chemical
+Analysis
+Moisture content
+Volatile / fixed oil determination
+Ash value (total, sulphated, acid insoluble,
+ash etc)
+pH of 5 % w/v suspension
+Extractive values (with various solvents like
+alcohol, water etc)
+Identity tests (like T.L.C., HPLC etc)
+
+Phytochemical
+analysis
+Quantification of bioactive/marker compounds 
+Quantification of characteristic category
+compounds (like flavanoids, alkaloids, terpenoids, glycosides etc)
+
+Microbiological
+analysis
+Total viable aerobic court
+Total enterobacteriaceae
+Total fungal count
+Test of specific pathogens (S. aurus, E. coli, P. aeruginosa etc)
+
+Residual
+analysis
+Foreign matter 
+Heavy metals residues (Pb, Cd, Hg, As etc)
+Pesticide residues (organochloro,
+organophosperous etc)
+Mycotoxin residues (Aflatoxins B1, b2, G1, G2,
+Sterigatocistin, Ochratoxin etc)
+Radioactive residues 
+Solvent residues (volatile organic impurities)
+
+Biological
+activities
+Dose response curve
+Dose and duration
+Limits of desired bioactivity
+
+Toxicity
+or Safety profile
+Acute toxicity (including LD 50 value)
+Sub-acute toxicity 
+
+Other
+documentation 
+Rasa (Taste), Veerya (Predominant action),
+Vipaka (Metabolic action) 
+Guna (Properties), Karma (Pharmacological
+action) 
+Authentic/Textual References
+Important Formulations, Dose etc.
+Therapeutic Uses 
+
+Processing specifications 
+Details of manufacturing process
+Bhaavanaa, Mardana, Put`a etc
+Shelf life, storage
+
+
+Standards
+for classical dosage forms
+Each dosage form (Kalpanaa)
+has specific manufacturing process hence requires separate standards for
+assessment of quality and purity. Considering nature of raw materials,
+processing and product; each formulation type has to be screened for various
+parameters like contamination (e.g. microorganisms), assessment of expected
+level of desired ingredients (e.g. Sugar) or results of manufacturing processes
+(e.g. extractive value after extraction). 
+Standards for some of the classical dosage forms are
+described based on compilation of various guidelines. Users are advised to go
+through references and follow respective norms after proper scrutiny of local
+guidelines and legal considerations. (e.g. Each state or province might have
+different act, rules also different lists of banned drugs etc.)
+
+Protocol of testing Kvaatha (Decoction)
+Name
+of preparation:
+Reference
+
+Organoleptic
+Characters (Colour /Odour etc)
+pH
+Total
+solids
+Specific
+Gravity 
+Test
+for heavy/toxic metals 
+Lead
+Cadmium
+
+Test
+for Arsenic
+Mercury
+Microbial
+Contamination
+
+Total viable
+     aerobic count 
+Enterobacterciaceae
+Total fungal
+     count 
+
+Test
+for specific Pathogens 
+E. Coli 
+Salmonella Spp.
+S. aureus
+Pseudomonas aeruginosa 
+Test for Aflatoxins 
+B1
+B2
+G1
+G2
+TLC/HPTLC- with marker (wherever possible)
+Pesticide residue
+Organochlorine
+pesticides
+Organophosphorous
+pesticides
+Pyrethroids
+
+Dosage 
+Shelf life 
+Normal
+Accelerated 
+
+Protocol
+of testing Avaleha (Leha
+and Paaka)
+Name
+of preparation
+Reference
+Description:
+Macroscopic
+
+Microscopic
+
+Colour
+
+Odour
+
+Taste
+
+Consistency
+Total
+sugar
+Reducing
+sugar
+TLC/HPTLC 
+Extractive value
+Hexane
+voluble
+Alcohol
+soluble
+Water
+soluble
+Fat content 
+Loss on drying at 105C
+Total solid content 
+pH
+Specific gravity at 25C
+Ash value:
+Total
+ash value
+Acid
+insoluble ash
+Sulphated
+ash
+Assay of main ingredients
+Crude fibre content (in case of Prakshepa
+Dravya)
+Test for heavy metals 
+Lead
+Cadmium
+
+Arsenic
+Mercury
+Microbial contamination.
+
+Total
+     Bacterial count 
+Total fungal
+     count 
+Enterobacterciaceae
+Salmonella Spp.
+
+Ayurvedic specification
+
+Supakvam
+Tantumatatvam
+Apsumajati
+Karatvam Pidite mudra
+Gandha Varn`a Rasaodbhavam 
+
+Therapeutic indications
+Dose
+Shelf life 
+Normal
+
+Accelerated
+
+
+
+Protocol of testing Taila / Ghrita 
+Name
+of preparation
+Reference
+Description
+Colour
+(RYB value)
+Odour
+Rancidity
+Coagulation
+point 
+Specific
+gravity (wt. /ml.) at room temperature 
+Refractive
+index at 25C
+Viscosity 
+Specific tests
+Saponification
+value
+Acid
+value
+Iodine
+value
+Peroxide
+value (residue)
+Free
+Fatty acids 
+Qualitative
+test (For particular oil)
+Total
+fatty matter
+Test for mineral oil (ISI method)
+TLC /HPTLC Profile of unsaponifiable matter
+Assay
+for main ingredients
+Therapeutic use
+Dosage 
+Congealing point (for Ghrita only)
+Shelf Life study 
+Normal
+
+Accelerated.
+
+
+Protocol of testing Guggulu (Guggulu based formulations)
+Name
+of preparation:
+Reference
+
+Description
+Identification
+Macroscopic
+
+Microscopic
+
+Uniformity
+by weight 
+pH
+Extractives
+
+Alcohol
+soluble extract
+Water
+extract
+Loss
+on drying on 105C
+
+TLC
+Ash
+value:
+Total
+ash
+Acid
+insoluble ash
+Description:
+general, including colour, odour, taste etc
+Volatile oil contents (Oleo gum resin) 
+Test for resin 
+Assay for main ingredients
+Disintegration time 
+Metal compound contents (as per Bhasma if added)
+
+Test for heavy metals 
+Lead
+Cadmium
+
+Arsenic
+Mercury
+Microbial contamination
+Total
+viable aerobic count
+Enterobacteriaceae 
+Total
+fungal count
+Test for specific pathogen
+E. coli
+Salmonella spp
+S. aureus
+Pseudomonas aeruginosa
+Test for Aflatoxins 
+B1
+B2
+G1
+G2
+Pesticide residue
+Organochlorine
+pesticides
+Organophosphorus
+pesticides
+Pyrethroids
+Therapeutic indications
+Dose
+Shelf Life study 
+Normal
+
+Accelerated.
+
+
+Protocol of testing Bhasma 
+Name
+of preparation
+Reference
+Method
+of preparation
+Method
+of S`hodhana (purification) with
+reference 
+Method
+of Bhasma formation with reference
+Types
+& No. of Put`a (Incunation)
+Bhavana Dravya Used (Trituration
+material used)
+Description
+(colour & texture)
+Particle
+size 
+Loss
+on drying
+Acid
+insoluble ash
+Water
+solubility.
+Organoleptic
+characters: general, including colour, odour, taste etc
+Heavy metal test
+Lead
+Cadmium
+
+Arsenic
+Mercury
+Assay (of main ingredients)
+Namburi Spot Test 
+Ayurvedic specifications
+Lusterless
+(Nis`hchandrikaa)
+Fineness
+(fine enough to enter in lines of finger - Rekhaapoorn`atva)
+Floats
+on water (Vaaritara)
+Smokeless
+(Nirdhooma)
+Tasteless
+(Nisvaadu)
+Irreversible
+(Apunarbhava)
+Dose
+Method of administration
+Toxicity report 
+Shelf Life study 
+Normal
+
+Accelerated.
+(In
+the final product Bhasma, metals are
+the compounds forms which are not toxic.)
+
+
+Protocol of testing Vat`i / Gut`ikaa (pills & tablets)
+Name
+of preparation:
+Reference
+
+Description
+Physical
+characteristics 
+Colour
+
+Odour
+Taste
+Macroscopic
+characteristics
+Microscopic
+characteristics 
+Texture
+Size
+
+TLC,
+HPTLC profile
+Loss
+on drying at 110 0 C
+Ash
+value:
+Total
+ash
+Acid
+insoluble ash
+Sulphated
+ash
+Study
+of extractives
+Alcohol
+soluble extracts 
+Water
+soluble extracts 
+Test
+for heavy metals 
+Lead
+Cadmium
+
+Arsenic
+Mercury
+Microbial contamination
+Total
+viable aerobic count
+Enterobacteriaceae 
+Total
+fungal count
+Test for specific pathogen
+E. coli
+Salmonella spp
+S. aureus
+Pseudomonas aeruginosa
+Test for Aflatoxins 
+B1
+B2
+G1
+G2
+Pesticide residue
+Organochlorine
+pesticides
+Organophosphorus
+pesticides
+Pyrethroids
+Shelf life study 
+Normal
+
+Accelerated
+
+Average weight 
+Disintegration time
+Hardness
+Friability
+Content uniformity
+Metal content 
+Weight variation
+Usual dose
+Therapeutic indications
+
+Protocol of testing Lauha / Man`d`oora (Preparations of iron
+prominence)
+Name
+of preparation
+Reference
+
+Description
+Physical
+characteristics 
+Macroscopic
+characteristics
+Microscopic
+characteristics 
+Particle
+size
+Loss
+on drying at 105 0 C
+Ash
+value:
+Total
+ash
+Acid
+insoluble ash
+Study
+of extractives
+Alcohol
+soluble extracts 
+Water
+soluble extracts 
+Test
+for heavy metals 
+Lead
+Cadmium
+
+Arsenic
+Mercury
+Microbial contamination
+Total
+viable aerobic count
+Enterobacteriaceae 
+Total
+fungal count
+Test for specific pathogen
+E.
+coli
+Salmonella
+spp
+S.
+aureus
+Pseudomonas
+aeruginosa
+Test for Aflatoxins 
+B1
+B2
+G1
+G2
+TLC, HPTLC profile
+Ayurvedic specifications
+Lusterless
+(Nis`hchandrikaa)
+Fineness
+(fine enough to enter in lines of finger - Rekhaapoorn`atva)
+Floats
+on water (Vaaritara)
+Smokeless
+(Nirdhooma)
+Tasteless
+(Nisvaadu)
+Irreversible
+(Apunarbhava)
+Shelf life study 
+Normal
+
+Accelerated
+
+
+
+Protocol of testing Kshaara / Lavan`a (compounds of salts)
+Name
+of preparation 
+Reference
+
+Description
+
+Colour
+
+Odour
+Taste
+
+Texture
+Identification:
+chemical test applicable to identify major
+Loss
+on drying at 105 0 C
+pH
+Acid
+insoluble ash
+Solubility
+in water
+Assay
+for specific salt
+Therapeutic indications
+Dose and method of administration
+
+
+Protocol
+of testing Choorn`a (powders)
+Name
+of preparation
+Reference
+Description
+Particle
+size
+Identification:
+Macroscopic
+Microscopic
+Phyto-chemical
+tests assay wherever possible
+TLC
+Study
+of extractives
+Hexane
+soluble extracts 
+Alcohol
+soluble extracts 
+Water
+soluble extracts 
+pH
+
+Loss
+on drying at 105 degree C.
+Ash
+value
+Total
+ash
+Acid
+insoluble ash
+Test for heavy metals 
+Lead
+Cadmium
+
+Arsenic
+Mercury
+Microbial contamination
+Total
+viable aerobic count
+Enterobacteriaceae 
+Total
+fungal count
+Test for specific pathogen
+E. coli
+Salmonella spp
+S. aureus
+Pseudomonas aeruginosa
+Test for Aflatoxins 
+B1
+B2
+G1
+G2
+TLC / HPTLC with marker 
+Pesticide residue
+Organochlorine
+pesticides
+Organophosphorus
+pesticides
+Pyrethroids
+Therapeutic indication (Ref. to AFI)
+Method of application to be specified.
+Shelf life study 
+Normal
+
+Accelerated
+
+
+
+Protocol of testing Aasava / Aristha
+Name
+of preparation:
+Reference
+
+Description
+
+Macroscopic
+Microscopic
+Colour
+(RYB Value) 
+Odour
+
+pH
+Specific
+Gravity at 25º C
+Total
+Solids 
+Alcohol
+Contents 
+Non
+reducing sugars
+Reducing sugars 
+TLC/HPTLC
+Test for methanol
+Total acidity
+Safety profile
+Test for heavy metals 
+Lead
+Cadmium
+
+Arsenic
+Mercury
+Dosage 
+Shelf life study 
+Normal
+
+Accelerated
+
+
+Protocol of testing Arka
+
+Name
+of preparation:
+Reference
+
+Description
+Colour
+Odour
+
+pH
+Volatile
+Matter 
+Specific
+Gravity at 25º C
+Clarity
+Test /Suspended Particles
+Sterility Test 
+Assay 
+TLC /HPTLC/GLC
+Dosage 
+Shelf Life study 
+Normal
+
+Accelerated
+Microbial contamination 
+
+Protocol of testing Parpat`ee
+Name
+of preparation
+Reference
+
+Colour
+Touch
+Particle
+size
+Lusterless
+(Nis`hchandrikaa)
+Loss
+on drying at 105 º C
+Assay
+of Mercury and Sulphur
+Dosage
+Shelf Life study 
+Normal
+
+Accelerated
+
+
+Protocol of testing Kupipakva Rasaayana (Mercurial
+compounds)
+Name
+of preparation
+Reference
+
+Organoleptic
+characters (Colour, taste etc)
+Ash
+value:
+Total
+ash
+Acid
+insoluble ash
+Test
+for heavy metals 
+Lead
+Cadmium
+
+Arsenic
+Mercury
+Microbial
+contamination
+Total
+viable aerobic count
+Enterobacteriaceae
+
+Total
+fungal count
+Test
+for specific pathogen
+E.
+coli
+Salmonella
+spp
+S.
+aureus
+Pseudomonas
+aeruginosa
+Test
+for Aflatoxins 
+B1
+B2
+G1
+G2
+TLC
+/ HPTLC with marker 
+Dosage
+Shelf Life study 
+Normal
+
+Accelerated
+
+Protocol of testing Khalvi Rasaayana (Organo
+mineral / mineral preparations)
+Name
+of preparation
+Reference
+
+Organoleptic
+characters (Colour, taste etc)
+Ash
+value:
+Total
+ash
+Acid
+insoluble ash
+Test
+for heavy metals 
+Lead
+Cadmium
+
+Arsenic
+Mercury
+Nambudri
+Spot Test
+Dosage
+Shelf
+Life study 
+Normal
+
+Accelerated
+
+
+
+Standards
+for other herbal dosage forms
+Minimum
+assessment for other herbal dosage forms
+
+Suspension
+Appearance
+Sedimentation volume
+Redispersibility
+Particle size distribution
+
+Emulsions
+Appearance
+Sedimentation volume
+Redispersibility
+Particle size distribution
+Microbial count
+Coalescence (photomicrograph)
+
+Capsules (hard / soft)
+Weight variation
+Content uniformity
+Disintegration time
+
+Ointments
+Appearance
+Colour
+Homogeneity
+pH
+Metal particles
+
+
+Abbreviations:
+AFI = Ayurvedic Formulary of India
+API = Ayurvedic Pharmacopoeia of India
+GLP = Good
+Laboratory Practices
+GMP = Good
+Manufacturing Practices
+TLC = Thin
+Layer Chromatography
+HPLC = High
+Performance Liquid Chromatography
+AYUSH =
+Department of Ayurveda, Yoga & Naturopathy, Unani, Siddha and Homoeopathy,
+Ministry of Health & Family Welfare, Govt. of India
+
+References:
+Anonymous,
+(2001) The Ayurvedic Pharmacopoeia of
+India (Part-1, Vol.3, 1st Edition), Govt. of India, Ministry of Health and
+Family Welfare, Dept of AYUSH.
+Anonymous
+(2001) The Ayurvedic Formulary of India (Part -2) 1st Edition
+Published by
+Govt. of India, Ministry of Health and Family Welfare, Dept of AYUSH. 
+Sharma
+S.K., (2004) Infrastructure &
+Regulatory Aspect of Ayurvedic, Siddha & Unani Medicines in India,
+Regional Training Course on Herbal Drug Industry for Compliance to Quality
+Parameters New Delhi, India.
+Mukherjee
+Pulok K & Verpoorte Robert (2003) GMP
+for Botanicals (Regulatory and Quality issues on Phyto-Medicines), Business
+Horizons Pharmaceutical Publishers, New Delhi.
+Mukherjee
+Pulok K (2002) 1st edition Quality
+control of drugs (an approach to evaluation of botanicals), Business
+Horizons Pharmaceutical Publishers New Delhi.
+Current Good Laboratory Practices Guidelines
+document for ISM & Homoeopathic drug testing laboratories, (2002) Dept of
+AYUSH, MoH&FW, Govt. of India.
+Good Manufacturing Practices notification, (2003), Dept of AYUSH,
+MoH&FW, Govt. of India.
+http://indianmedicine.nic.in/html/acts/act.htm
+(accessed on 13 March 2006)
+
+
+
+
+
+
+

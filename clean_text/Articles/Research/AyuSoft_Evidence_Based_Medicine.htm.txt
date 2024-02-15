@@ -1,0 +1,143 @@
+
+
+Role of AyuSoft to Ameliorate Evidence Based Medicine in Ayurveda
+
+
+
+
+
+
+Role of AyuSoft to Ameliorate
+Evidence Based Medicine in Ayurveda
+
+Dr.Yogesh Prabhune,
+B.A.M.S.
+
+
+Introduction 
+
+Documentation of Ayurvedic
+clinical data in standard format is necessary today. Such data can convince the
+world about safety and efficacy of Ayurvedic therapies. Present Ayurveda
+infrastructure in India includes more than 100 research and PG centers and half
+million of Ayurvedic practitioners. If all these institutes or individuals
+document clinical data in universal format then it will help us to form
+evidence base for Ayurveda. 
+
+AyuSoft is a
+comprehensive, interactive software system to assist medical practitioners and
+researchers in application of basic principles of Ayurveda, rational
+propagation of Ayurveda at global level. AyuSoft applications will help in creating this
+multi aspect, evidence base and integration of data from various centers and
+school of thoughts in a universal format. 
+
+
+AyuSoft Applications 
+
+Patient
+information management system: - It
+will help physician to document all clinical data (classical &
+contemporary) e.g. Lakshana, Hetu, Vyadhi, Dashavidha Parikshaa, Ashtavidha
+Parikshaa, Chikitsaa, contemporary etiological factors, signs & symptoms,
+investigations, diagnosis and treatment. 
+Diagnostics
+and Treatment: - Based on Hetu and
+Lakshana it will provide support for probable diagnosis & treatment of the
+classical diseases. 
+Prakriti Analysis: - This application is helpful in deciding Dosha
+Prakriti, Maanasa Prakriti and Dhaatu Saarataa of an individual.
+Anveshaka:
+- It is a data-mining tool with
+more than 4 lac records from classical text using permutations &
+combinations of more than 250 search criteria.
+Case
+Analysis: - This tool is useful
+for extensive for clinical data analysis with more than 200 search criteria.
+Multidimensional analysis of clinical data can generate many innovative
+findings and its correlation, those could form basis of further biomedical
+research.
+Customized Master list: - It is useful to document cotemporary etiological
+factors, signs & symptoms, diseases, diet & lifestyle, investigations,
+formulations.
+Encyclopedia: It consists of digitalized text, glossary, video clips of therapeutic
+procedure, audio files of mantra, articles, images etc. 
+
+
+
+
+User
+can access all above applications through internet, intranet or desktop
+solution. User can import & export data, which will be useful for
+multi-centric trials. Data captured against a patient or a healthy individual
+will be useful for extensive analysis resulting in creation of evidence based
+Ayurveda.
+
+
+Using
+these applications, we can analyze clinical data as follows,
+
+E.g.
+
+Display :- Classical
+diagnosis + Dosha Avasthaa + Dhaatu
+Avasthaa of patients
+Input: -
+Contemporary diagnosis = AIDS
+
+Display: - Hetu of
+patients suffering from C.R.F.
+
+Show me patients
+& their classical Lakshana (Purvarupa Avasthaa) suffering from Rheumatoid
+Arthritis
+
+Display effect of
+medicine Aarogyavardhini in patients of Hepatitis
+
+
+Show me Dosha
+Prakriti, Dhatu Sarataa of patients suffering from Pandu 
+ 
+Show me Nadi characteristics of patients of Vataja
+Hridroga 
+
+Show me no. of
+patient 
+ Input: - Classical
+diagnosis:-Amlapitta + contemporary Hetu :- Pizza
+
+Show me number of
+individuals having Kapha Prakriti in which characteristics = Mahalalaata is
+present. 
+
+Display visit wise
+data and percentage of relief in patients of Lakshana Sandhi Shula treated with
+Abhyanga of Visha Garbha Taila.
+
+Conclusion
+
+The
+major achievement will be generation of evidence base through extensive and
+authentic documentation using AyuSoft by Ayurvedic physician, educational
+institutes, research institutes and hospitals all over the world. We can
+integrate this data to form a central scientific evaluation based knowledge
+repository. Based on this data we can provide scientific foundation for
+Ayurveda, which is the need of the day.
+
+
+
+
+
+
+
+Dr.Yogesh Prabhune,
+Research fellow,
+AyuSoft Team,
+Center for Development of Advanced
+Computing, Pune
+
+
+
+
+
+

@@ -1,0 +1,294 @@
+
+
+AayurVidnyaana
+
+
+
+
+AayurVidnyaana Kosha 
+
+AayurVidnyaana Kosha is encyclopedia of Ayurveda.
+
+The AayurVidnyaana
+Kosha window is divided into two frames. The left frame has three tabs,
+Contents, Search and New Window. Right frame is for viewing the document.
+
+About AayurVidnyaana Kosha
+
+AyuSoft encyclopedia elaborates scientific basis,
+theory and strength of Ayurveda in a dynamic form. 
+Key topic of different subjects highlighted with
+their clinical applications. 
+This includes information regarding Ayurvedic
+concepts, current status of Ayurveda and related research articles. 
+The Encyclopedia of AyuSoft includes articles from
+eminent people related with the field of Ayurveda. 
+The Articles are focused and classified according
+to the respective subjects to cover all the branches of Ayurveda. 
+AyuSoft Encyclopedia provides elaboration of
+various topics required for decision support. 
+These are made available in form of guidelines for
+patient assessment, Panchakarma And allied Karma, pathogenesis
+and theory of disease. 
+The
+AyuSoft Ayurvedic data is captured
+from the texts which are Charaka
+Samhitaa, Sus`hruta Samhitaa, Asht`aanga Hridaya and Maadhava Nidaana. These texts are the prime and authentic texts for
+the uniform and genuine information. 
+The
+history of the texts is captured and explained under the title of Introduction
+to Samhitaa 
+The
+Encyclopedia explains the basic principles of Ayurvedic science, which supports the knowledge for the root of
+diagnosis, structure and functional concepts behind the theory of ancient
+fundamental principles. 
+AyuSoft
+Encyclopedia has authentic collection of photographs, clips of Panchakarma and allied therapies (Chikitsaa Karma) / examination and
+treatments, audio files of oblations and guidelines wherever and whenever
+required. 
+Encyclopedia
+of AyuSoft is also aware of the ever-growing research in the field of Ayurveda, thus, to keep the user updated
+with today’s world AyuSoft provides some of the important links of registered
+sites and associations of Ayurveda. 
+
+Contents
+
+Selecting
+this option will help in navigating through AayurVidnyaana Kosha
+contents. 
+Click
+on the book to view its content and on clicking the page; detailed contents of
+the particular topic will be displayed. If selected topic is a video clip, it
+will be opened using windows media player, click on Play button to watch the
+clip. Click New Window option to view the selected topic in maximized screen. 
+If
+it is a multimedia gallery, all the pictures under the selected topic will be
+loaded in right frame. Click on the link below the picture, to view the
+magnified picture and its details if any.
+
+Ayurveda Samhitaa:
+- This part contains digitalized copy of Charaka
+Samhitaa, Sus`hruta Samhitaa
+& Asht`aanga Hridaya. 
+
+Articles: - This part contains articles
+highlighting various aspects of Ayurveda.
+
+
+Multimedia gallery: - It comprises of photographs of
+Herbs, Instruments, and Diseases etc. 
+
+Chikitsaa Karma clips: - It comprises video clips of Chikitsaa Karma like Vamana, Raktamokshan`a etc. with narration. 
+
+
+Search
+
+Facility
+to search in Ayurveda Samhitaa, Multimedia gallery, AyuSoft
+database, Chikitsaa Karma & Articles is provided.
+Selecting
+this option makes possible for you to limit search to the specific category of
+the current topicin two languages either English or Sanskrit.
+To
+change the scope of search for English language, select one of thefilters
+from the following list.
+
+Encyclopedia
+Procedures
+Multimedia
+
+
+Type the word in the Search
+     textbox or you can use a keyboard for typing in the Search textbox
+     (depending upon the selected language), which will appear on click of Sanskrit
+     button placed on left side of main frame if the focus is on the same
+     textbox and Caps Lock of your keyboard is on. To begin search click on GO
+     button or press Enter. 
+To enable full text search,
+     check the checkbox beside the Search Textbox.
+Related links where the word
+     entered is present will be displayed in left frame, click on the required
+     link to view the related article in right frame with the highlighted word
+     entered for searching.
+
+
+e.g. 
+If
+you select word Chhardi (in English)
+in Articles then it will show where that word appeared in Articles. 
+
+If
+you select word Vamana (in English)
+in Chikitsaa Karma then it will show video clip of Vamana Chikitsaa Karma. 
+
+If
+you select word Vamana (in English)
+in AyuSoft database then it will show all treatment related information of Vamana from AyuSoft database. 
+
+If
+you select word Chhardi (in Sanskrit) in Ayurveda Samhitaa then it
+will show where that word appeared in Ayurveda
+Samhitaa. 
+
+If
+you select word S`hataavaree (in
+English) in Multimedia Gallery then it will show image of S`hataavaree. 
+
+
+Ayurveda Samhitaa 
+
+Charaka Samhitaa,
+Sus`hruta Samhitaa and Asht`aanga Hridaya
+are available in digitalized form.
+Digitalized
+Texts have the facility for instant reference and search for particular word or
+character from Charaka Samhitaa,
+Sus`hruta Samhitaa and Asht`aanga
+Hridaya. 
+
+Structure of Ayurveda Samhitaa : -
+
+Name of Samhitaa : Sthaana of Samhitaa :
+Name of Adhyaaya
+Charaka
+Samhitaa­­à Chikitsaa Sthaana à
+03. Jvara Chikitsaa à Sootra.
+
+The digitalized texts include only Sootra
+.
+Each Samhitaa is
+entitled with index and the name of the chapter in Content section.
+
+Each Sthaana (section) has
+been separated for easy search.
+
+Each chapter is a sub-section of Sthaana where Sthaana is
+a subsection of the Samhitaa.
+Therefore to Search for the reference of C.Chi.3/37. The user should first
+click on Charaka Samhitaa then on Chikitsaa Sthaana then on Jvara Chikitsaa (3rd chapter)
+and then look for the Sootra 37 in
+the Samhitaa getting displayed at the
+right side.
+
+
+S.N,Samhitaa,Edition,Publication,Title and Edited by
+1,Charaka,Fifth  Edition - 2001,"Chaukhambaa  Sanskrit Samsthaana, Varanasi",Charaka  Samhitaa - Vaidya. Jadhavji Trikamji Acharya
+2,Sus`hruta,Seventh  Edition - 2002,"Chaukhambaa  Orientaliya, Varanasi",Sus`hruta Samhitaa – Vaidya. Jadhavji Trikamji  Acharya and Narayan Ram Acharya.
+3,Asht`aanga Hridaya,Ninth  Edition- 2002,"Chaukhambaa  Orientaliya, Varanasi",Asht`aanga Hridaya – Bhishagacharya Harishashtri  Paradkar Vaidya.
+
+
+Using this application user can do fast compilation.
+E.g. If user search for word 
+Then
+it will display: 
+
+Name of Samhitaa : Sthaana of Samhitaa :
+Name of Adhyaaya : Highlighted word
+
+
+Articles
+
+
+In
+AyuSoft database, interactive data is captured. But if user wants elaborative
+description then this section is very useful. In this section there are
+articles by stalwarts of Ayurveda
+highlighting various conceptual, theoretical & practical aspects of Ayurveda. 
+These
+articles are divided under various categories:- 
+
+Basic
+     Principles 
+Nidaana 
+Dravya Gun`a, Rasas`haashtra and Bhaishajya Kalpanaa 
+Stree Roga and
+     Prasooti Tantra and
+Baalaroga
+Kaayachikitsaa and Panchakarma 
+Rasaayana and
+     Vaajikaran`a 
+S`halya and S`haalaakya 
+Research
+and other
+
+
+User can search particular word in articles. 
+
+Multimedia
+gallery-
+
+The gallery includes images related to Anatomy, Physiology, images
+of herbs, clinical pictures of diseases & images of therapeutic procedures
+etc.
+Images of plants, animals and other medicines included in Ayurveda E.g. – S`hataavaree (Asparagus
+racemosus) and S`hilaajatu (Black bitumen). 
+Images of clinical signs and symptoms mentioned for the disease.
+Images showing actual procedures and instruments useful for
+operating the procedure. 
+
+User can search particular image in Multimedia gallery.
+
+
+Chikitsaa Karma –
+
+In this
+part you can view video clips of some clinical procedures with narration. These
+procedures provide idea about basic Karma.
+You can get detail information about that procedure through textual file of
+that Chikitsaa Karma described under
+the article section under Kaayachikitsaa category.
+
+
+You can search particular clip in Chikitsaa
+Karma. 
+
+Note: For some words while searching it might show some
+extra topics in which the searced text will not be found. This will happen for
+Sanskrit word search where the word to be searched will become a different
+word, if converted to lowercase. This happens since the search mechanism
+converts all the words in lowercase before search process. It might also happen
+that some words searched in English might show that word is not found or might
+show some extra topic since words such as “beginning” will be search as
+“beginn” i.e it will removed stems (ing, ed, s, etc.) from the words before
+searching.
+
+Transliteration Rules used in AyuSoft
+
+Spellings:
+
+a  aa i ee u oo e ai o au am ah
+
+ka kha ga gha 
+
+cha chha ja jha
+
+t`a t`ha d`a d`ha n`a
+
+ta tha da dha na
+
+pa pha ba bha ma
+
+ya ra la va s`ha sha sa ha l`a ksha dnya
+
+
+Abbreviations:
+Ashtanghridaya :- A.H.
+Charaka Samhita :- C.
+Sushruta Samhita :- S.
+Sootra Sthaana :- Su.
+Kalpa Sthaana :-
+K.
+Shaareera Sthaana :- Sha.
+Nidaana Sthaana :- Ni.
+Chikitaa Sthaana :- Chi.
+Siddhi Sthaana :- Si.
+Uttara Tantra :-
+U.
+Vimana Sthana:- V
+Indriya Sthana:-
+In
+
+
+
+
+

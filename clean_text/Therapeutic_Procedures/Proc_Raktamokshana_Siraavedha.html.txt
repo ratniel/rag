@@ -1,0 +1,348 @@
+
+
+Raktamokshan`a
+
+
+
+
+
+     Raktamokshan`a
+ 
+
+
+
+Chikitsaa Karma,Raktamokshan`a
+Specific Classification,Asht`avidha S`hastrakarma
+Specific Classification,Raktamokshan`a
+Specific Classification,Visha Upakrama
+Specific Classification,Vran`a Upakrama
+Instruments used,Alaabu Naad`ee Yantra
+Instruments used,Ghat`ee Yantra
+Instruments used,Jalaukaa
+Instruments used,Kaacha
+Instruments used,Kshaara
+Instruments used,Nakha
+Instruments used,S`hringa Naad`ee Yantra
+Instruments used,Vriddhee Patra
+Karma,Balya
+Karma,S`hareera Daurgandhyahara
+Karma,S`hodhana
+Karma,S`hoolapras`hamana
+Karma,Varn`ya
+Arha Vyaadhi Prakaara,Raktapradoshaja Vikaara
+Arha Vyaadhi Prakaara,S`hukra Roga
+Arha Vyaadhi Prakaara,Santarpan`ajanya Vyaadhi
+Arha Vyaadhi Prakaara,Vaataja Vyaadhi
+Arha Vyaadhi,Agnimaandya
+Arha Vyaadhi,Amlodgaara
+Arha Vyaadhi,Angagaurava
+Arha Vyaadhi,Apachee
+Arha Vyaadhi,Apasmaara
+Arha Vyaadhi,Arbuda
+Arha Vyaadhi,Arbuda --) Kaphaja
+Arha Vyaadhi,Arbuda --) Medoja Arbuda
+Arha Vyaadhi,Arochaka
+Arha Vyaadhi,Ars`ha
+Arha Vyaadhi,Ars`ha --) Avasthaa --) Atyartha Nirgata + Doshapoorn`a
+Arha Vyaadhi,Ars`ha --) Avasthaa --) Snigdha Rooksha S`heeta Ushn`a Anupas`haya
+Arha Vyaadhi,Ars`ha --) Avasthaa --) Uchchhrita Kat`hina
+Arha Vyaadhi,Bhagandara --) Avasthaa --) Apakva Pid`akaa
+Arha Vyaadhi,Bhrama
+Arha Vyaadhi,Dhaatupradoshaja Vyaadhi --) Raktapradoshaja Vyaadhi
+Arha Vyaadhi,Gan`d`amaalaa
+Arha Vyaadhi,Granthi
+Arha Vyaadhi,Granthi --) Avasthaa --) Paakonmukha
+Arha Vyaadhi,Guhya Roga --) Upadams`ha
+Arha Vyaadhi,Gulma
+Arha Vyaadhi,Gulma --) Gulma Prakaara --) Kaphaja Gulma
+Arha Vyaadhi,Gulma --) Gulma Prakaara --) Pittaja Gulma
+Arha Vyaadhi,Gulma --) Gulma Prakaara --) Pittaja Gulma --) Trishn`aa + Jvara + Daaha + S`hoola + Sveda + Agnimaardava + Aruchi
+Arha Vyaadhi,Gulma --) Gulma Prakaara --) Pittaja Gulma --) Vidaaha + S`hoola + Agnimaandya
+Arha Vyaadhi,Gulma --) Gulma Prakaara --) Vaataja Gulma --) Pitta Vriddhi + Santaapa
+Arha Vyaadhi,Jvara
+Arha Vyaadhi,Jvara --) Aagantuja --) Abhighaataja
+Arha Vyaadhi,Jvara --) Avasthaa --) Raktadusht`i
+Arha Vyaadhi,Jvara --) Avasthaa --) Visarpa Nimittaja
+Arha Vyaadhi,Jvara --) Avasthaa --) Visphot`aka Jvara
+Arha Vyaadhi,Jvara --) Dosha Bheda - Jvara --) Sannipaataja Jvara --) Karn`amoola S`hotha
+Arha Vyaadhi,Jvara --) Dosha Bheda - Jvara --) Sannipaataja Jvara --) Vaata Sama Pitta Pradhaana Heena Kapha
+Arha Vyaadhi,Jvara --) Vishama
+Arha Vyaadhi,Jvara --) Vishama --) Chaaturthaka Jvara
+Arha Vyaadhi,Jvara --) Vishama --) Triteeyaka
+Arha Vyaadhi,Kaamalaa
+Arha Vyaadhi,Kan`d`oo
+Arha Vyaadhi,Karn`a Roga
+Arha Vyaadhi,Karn`a Roga --) Avasthaa --) Supti
+Arha Vyaadhi,Karn`a Roga --) Karn`apaaligata Roga
+Arha Vyaadhi,Kat`u Udgaara
+Arha Vyaadhi,Klaibya --) Dvajabhangaja
+Arha Vyaadhi,Klama
+Arha Vyaadhi,Kshudra Roga
+Arha Vyaadhi,Kshudra Roga --) Arumshikaa
+Arha Vyaadhi,Kshudra Roga --) Chippa
+Arha Vyaadhi,Kshudra Roga --) Jaalagardabha
+Arha Vyaadhi,Kshudra Roga --) Kot`ha
+Arha Vyaadhi,Kshudra Roga --) Mas`haka
+Arha Vyaadhi,Kshudra Roga --) Neelikaa
+Arha Vyaadhi,Kshudra Roga --) Nyachchha
+Arha Vyaadhi,Kshudra Roga --) Parivartikaa
+Arha Vyaadhi,Kshudra Roga --) Prasupti
+Arha Vyaadhi,Kshudra Roga --) Tilakaalaka
+Arha Vyaadhi,Kshudra Roga --) Utkot`ha
+Arha Vyaadhi,Kshudra Roga --) Valmeeka --) Na Ati Vriddha + Amarmaja
+Arha Vyaadhi,Kshudra Roga --) Vidaarikaa
+Arha Vyaadhi,Kshudra Roga --) Vyanga
+Arha Vyaadhi,Kusht`ha
+Arha Vyaadhi,Kusht`ha --) Dhaatugata --) Maamsagata
+Arha Vyaadhi,Kusht`ha --) Dhaatugata --) Medogata
+Arha Vyaadhi,Kusht`ha --) Dhaatugata --) Raktagata
+Arha Vyaadhi,Kusht`ha --) Dhaatugata --) Tvakgata
+Arha Vyaadhi,Kusht`ha --) Doshabhedena --) Pittaja
+Arha Vyaadhi,Kusht`ha --) Kshudra --) Charmadala
+Arha Vyaadhi,Kusht`ha --) Kshudra --) Dadru
+Arha Vyaadhi,Kusht`ha --) Kshudra --) Paamaa
+Arha Vyaadhi,Lavan`aasyataa
+Arha Vyaadhi,Mada
+Arha Vyaadhi,Moorchchhaa
+Arha Vyaadhi,Mootra Roga --) Mootrakrichchhra
+Arha Vyaadhi,Mukha Roga --) Dantagata Roga
+Arha Vyaadhi,Mukha Roga --) Dantagata Roga --) Krimidanta
+Arha Vyaadhi,Mukha Roga --) Dantagata Roga --) Krimidanta --) Achala
+Arha Vyaadhi,Mukha Roga --) Dantamoolagata Roga
+Arha Vyaadhi,Mukha Roga --) Dantamoolagata Roga --) Dantapupput`a
+Arha Vyaadhi,Mukha Roga --) Dantamoolagata Roga --) Dantavesht`aka
+Arha Vyaadhi,Mukha Roga --) Dantamoolagata Roga --) S`heetaada
+Arha Vyaadhi,Mukha Roga --) Dantamoolagata Roga --) Sushira
+Arha Vyaadhi,Mukha Roga --) Dantamoolagata Roga --) Upakus`ha
+Arha Vyaadhi,Mukha Roga --) Galagata Roga --) Galagan`d`a
+Arha Vyaadhi,Mukha Roga --) Galagata Roga --) Galagan`d`a --) Kaphaja
+Arha Vyaadhi,Mukha Roga --) Galagata Roga --) Galagan`d`a --) Kaphaja : Svinna
+Arha Vyaadhi,Mukha Roga --) Galagata Roga --) Galagan`d`a --) Vaataja : Svinna
+Arha Vyaadhi,Mukha Roga --) Jihvaagata Roga
+Arha Vyaadhi,Mukha Roga --) Jihvaagata Roga --) Jihvaakan`t`aka --) Pittaja
+Arha Vyaadhi,Mukha Roga --) Jihvaagata Roga --) Upajihvikaa
+Arha Vyaadhi,Mukha Roga --) Kan`t`hagata Roga
+Arha Vyaadhi,Mukha Roga --) Kan`t`hagata Roga --) Ekavrinda
+Arha Vyaadhi,Mukha Roga --) Kan`t`hagata Roga --) Galavidradhi
+Arha Vyaadhi,Mukha Roga --) Kan`t`hagata Roga --) Kan`t`has`haalooka
+Arha Vyaadhi,Mukha Roga --) Kan`t`hagata Roga --) Rohin`ee
+Arha Vyaadhi,Mukha Roga --) Kan`t`hagata Roga --) Rohin`ee --) Pittaja Rohin`ee
+Arha Vyaadhi,Mukha Roga --) Kan`t`hagata Roga --) Rohin`ee --) Raktaja Rohin`ee
+Arha Vyaadhi,Mukha Roga --) Kan`t`hagata Roga --) Rohin`ee --) Vaataja Rohin`ee
+Arha Vyaadhi,Mukha Roga --) Osht`hagata Roga --) Osht`hakopa
+Arha Vyaadhi,Mukha Roga --) Osht`hagata Roga --) Osht`hakopa --) Kaphaja
+Arha Vyaadhi,Mukha Roga --) Osht`hagata Roga --) Pittaja
+Arha Vyaadhi,Mukha Roga --) Osht`hagata Roga --) Vaataja
+Arha Vyaadhi,Mukha Roga --) Sarvagata --) Mukhapaaka
+Arha Vyaadhi,Mukha Roga --) Sarvagata --) Pootyaasyataa
+Arha Vyaadhi,Mukha Roga --) Taalugata Roga
+Arha Vyaadhi,Naasaa Roga
+Arha Vyaadhi,Naasaa Roga --) Naasaapaaka
+Arha Vyaadhi,Naasaa Roga --) Pootinasya
+Arha Vyaadhi,Netra Roga
+Arha Vyaadhi,Netra Roga --) Avasthaa --) Ajakaajaata + S`hoola
+Arha Vyaadhi,Netra Roga --) Avasthaa --) Sthira Ghana S`hukra
+Arha Vyaadhi,Netra Roga --) Avasthaa --) Triteeya Pat`alagata Timira + Raaga
+Arha Vyaadhi,Netra Roga --) Drisht`igata --) Kaacha Roga
+Arha Vyaadhi,Netra Roga --) Krishn`agata
+Arha Vyaadhi,Netra Roga --) Krishn`agata --) S`hukra Netra Roga
+Arha Vyaadhi,Netra Roga --) S`huklagata --) Balaasagrathita
+Arha Vyaadhi,Netra Roga --) S`huklagata --) Siraaharsha
+Arha Vyaadhi,Netra Roga --) S`huklagata --) Sirotpaata
+Arha Vyaadhi,Netra Roga --) Sandhigata --) Pooyaalasa
+Arha Vyaadhi,Netra Roga --) Sandhigata --) Upanaaha
+Arha Vyaadhi,Netra Roga --) Sarvagata --) Abhishyanda
+Arha Vyaadhi,Netra Roga --) Sarvagata --) Abhishyanda --) Kaphaja Abhishyanda
+Arha Vyaadhi,Netra Roga --) Sarvagata --) Abhishyanda --) Pittaja Abhishyanda
+Arha Vyaadhi,Netra Roga --) Sarvagata --) Abhishyanda --) Raktaja Abhishyanda
+Arha Vyaadhi,Netra Roga --) Sarvagata --) Abhishyanda --) Vaataja Abhishyanda
+Arha Vyaadhi,Netra Roga --) Sarvagata --) Adhimantha
+Arha Vyaadhi,Netra Roga --) Sarvagata --) Adhimantha --) Kaphaja Adhimantha
+Arha Vyaadhi,Netra Roga --) Sarvagata --) Adhimantha --) Pittaja Adhimantha
+Arha Vyaadhi,Netra Roga --) Sarvagata --) Adhimantha --) Raktaja Adhimantha
+Arha Vyaadhi,Netra Roga --) Sarvagata --) Adhimantha --) Vaataja Adhimantha
+Arha Vyaadhi,Netra Roga --) Sarvagata --) Akshipaakaatyaya
+Arha Vyaadhi,Netra Roga --) Sarvagata --) Anyatovaata
+Arha Vyaadhi,Netra Roga --) Vartmagata --) Anjananaamikaa
+Arha Vyaadhi,Netra Roga --) Vartmagata --) Pakshmas`haata
+Arha Vyaadhi,Netra Roga --) Vartmagata --) Pittotklisht`a
+Arha Vyaadhi,Netra Roga --) Vartmagata --) Raktotklisht`a
+Arha Vyaadhi,Nidraadhikya
+Arha Vyaadhi,Pid`akaa
+Arha Vyaadhi,Pleehaa Roga
+Arha Vyaadhi,Prameelaka
+Arha Vyaadhi,Prameha --) Pittaja --) Raktameha
+Arha Vyaadhi,Pravaahikaa --) Avasthaa --) S`hoola
+Arha Vyaadhi,S`heetapitta
+Arha Vyaadhi,S`hiroroga
+Arha Vyaadhi,S`hiroroga --) Anantavaata
+Arha Vyaadhi,S`hiroroga --) Avasthaa --) S`hirahs`hoola
+Arha Vyaadhi,S`hiroroga --) Kapaalagata S`hiroroga --) Arumshikaa
+Arha Vyaadhi,S`hiroroga --) Kapaalagata S`hiroroga --) Daarun`aka
+Arha Vyaadhi,S`hiroroga --) Kapaalagata S`hiroroga --) Indralupta
+Arha Vyaadhi,S`hleepada
+Arha Vyaadhi,S`hleepada --) Kaphaja
+Arha Vyaadhi,S`hleepada --) Pittaja
+Arha Vyaadhi,S`hleepada --) Vaataja
+Arha Vyaadhi,S`hooka Roga
+Arha Vyaadhi,S`hooka Roga --) Kumbhika
+Arha Vyaadhi,S`hooka Roga --) Raktaarbuda
+Arha Vyaadhi,S`hooka Roga --) Spars`hahaani
+Arha Vyaadhi,S`hotha --) Sthaanabhedena --) Sarvaanga S`hotha
+Arha Vyaadhi,S`hvitra
+Arha Vyaadhi,Sanyaasa
+Arha Vyaadhi,Stree Roga --) Raktapradara
+Arha Vyaadhi,Stree Roga --) Stana Roga
+Arha Vyaadhi,Svarakshaya
+Arha Vyaadhi,Tamapraves`ha
+Arha Vyaadhi,Tandraa
+Arha Vyaadhi,Trishn`aa (Pipaasaa)
+Arha Vyaadhi,Udaavarta --) Chhardi Nirodhaja
+Arha Vyaadhi,Udara --) Pittaja
+Arha Vyaadhi,Udara --) Pleehodara --) Pittapradhaana
+Arha Vyaadhi,Udara --) Yakriddaalyudara --) Pittaja
+Arha Vyaadhi,Udarda
+Arha Vyaadhi,Unmaada
+Arha Vyaadhi,Vaatarakta
+Arha Vyaadhi,Vaatarakta --) Avasthaa --) Daaha
+Arha Vyaadhi,Vaatarakta --) Avasthaa --) Raaga
+Arha Vyaadhi,Vaatarakta --) Avasthaa --) S`hoola
+Arha Vyaadhi,Vaatavyaadhi --) Avabaahuka
+Arha Vyaadhi,Vaatavyaadhi --) Avasthaa --) Supti
+Arha Vyaadhi,Vaatavyaadhi --) Gridhrasee
+Arha Vyaadhi,Vaatavyaadhi --) Kampa
+Arha Vyaadhi,Vaatavyaadhi --) Majjaagata Vaata
+Arha Vyaadhi,Vaatavyaadhi --) Paadadaaha
+Arha Vyaadhi,Vaatavyaadhi --) Paadaharsha
+Arha Vyaadhi,Vaatavyaadhi --) Raktagata Vaata
+Arha Vyaadhi,Vaatavyaadhi --) S`hirogata Vaata
+Arha Vyaadhi,Vaatavyaadhi --) Sarvaangagata Vaata
+Arha Vyaadhi,Vaatavyaadhi --) Siraagata Vaata
+Arha Vyaadhi,Vaatavyaadhi --) Tvaggata Vaata
+Arha Vyaadhi,Vaatavyaadhi --) Vaatakan`t`aka
+Arha Vyaadhi,Vaatavyaadhi --) Vis`hvaachee
+Arha Vyaadhi,Vaivarn`ya
+Arha Vyaadhi,Vegaavarodhajanya Vyaadhi --) Chhardivegaavarodhajanya Vyaadhi
+Arha Vyaadhi,Vidaaha
+Arha Vyaadhi,Vidradhi
+Arha Vyaadhi,Vidradhi --) Aabhyantara Vidradhi
+Arha Vyaadhi,Vidradhi --) Kaphaja Vidradhi
+Arha Vyaadhi,Vidradhi --) Majjajaata
+Arha Vyaadhi,Vidradhi --) Pittaja Vidradhi
+Arha Vyaadhi,Vidradhi --) Raktaja Vidradhi
+Arha Vyaadhi,Vidradhi --) Vaataja
+Arha Vyaadhi,Visarpa
+Arha Vyaadhi,Visarpa --) Avasthaa --) Pittasthaanagata Saama Dosha
+Arha Vyaadhi,Visarpa --) Kaphavataja (Granthi Visarpa)
+Arha Vyaadhi,Visha Roga
+Arha Vyaadhi,Visha Roga --) Avasthaa --) Kat`hina S`hopha
+Arha Vyaadhi,Visha Roga --) Avasthaa --) Nasht`a Samdnya + Vivrita Netra + Bhagna Greeva
+Arha Vyaadhi,Visha Roga --) Avasthaa --) Pootimaamsa
+Arha Vyaadhi,Visha Roga --) Avasthaa --) Rujaa
+Arha Vyaadhi,Visha Roga --) Avasthaa --) Vaivarn`ya
+Arha Vyaadhi,Visha Roga --) Avasthaa --) Vishaja Vran`a
+Arha Vyaadhi,Visha Roga --) Digdha Viddha
+Arha Vyaadhi,Visha Roga --) Digdha Viddha --) Avasthaa - Pootimaamsa
+Arha Vyaadhi,Visha Roga --) Jangama Visha --) Chatushpaada --) Riksha Visha
+Arha Vyaadhi,Visha Roga --) Jangama Visha --) Chatushpaada --) S`hrigaala Visha
+Arha Vyaadhi,Visha Roga --) Jangama Visha --) Chatushpaada --) Tarakshu Visha
+Arha Vyaadhi,Visha Roga --) Jangama Visha --) Chatushpaada --) Vyaaghra Visha
+Arha Vyaadhi,Visha Roga --) Jangama Visha --) Lootaa Visha --) Avasthaa - Pootimaamsa
+Arha Vyaadhi,Visha Roga --) Jangama Visha --) Lootaa Visha --) Avasthaa: Dagdha Vran`a
+Arha Vyaadhi,Visha Roga --) Jangama Visha --) Lootaa Visha --) Avasthaa: Vran`a
+Arha Vyaadhi,Visha Roga --) Jangama Visha --) Sarpa Visha
+Arha Vyaadhi,Visha Roga --) Jangama Visha --) Sarpa Visha --) Darveekara Sarpa Visha (Prathama Vega)
+Arha Vyaadhi,Visha Roga --) Jangama Visha --) Sarpa Visha --) Raajimat Sarpa Visha ( Prathama Vega)
+Arha Vyaadhi,Visha Roga --) Jangama Visha --) Visrita Visha (100 Maatrottara)
+Arha Vyaadhi,Visha Roga --) Visha Roga :- Prathama Vega
+Arha Vyaadhi,Vran`a
+Arha Vyaadhi,Vran`a --) Aagantuja (Sadyo) Vran`a --) Avasthaa --) Samrambha
+Arha Vyaadhi,Vran`a --) Aagantuja (Sadyo) Vran`a --) Ghrisht`a Aagantuja Vran`a
+Arha Vyaadhi,Vran`a --) Aagantuja (Sadyo) Vran`a --) Vidalita Aagantuja Vran`a
+Arha Vyaadhi,Vran`a --) Avasthaa --) Alpa Maamsyukta Vran`a
+Arha Vyaadhi,Vran`a --) Avasthaa --) Dhyaama Vran`a
+Arha Vyaadhi,Vran`a --) Avasthaa --) Kat`hina Vran`a
+Arha Vyaadhi,Vran`a --) Avasthaa --) Rakta Sraava
+Arha Vyaadhi,Vran`a --) Avasthaa --) S`hoola
+Arha Vyaadhi,Vran`a --) Avasthaa --) S`hotha
+Arha Vyaadhi,Vran`a --) Avasthaa --) Samrambha
+Arha Vyaadhi,Vran`a --) Avasthaa --) Styaana Rakta
+Arha Vyaadhi,Vran`a --) Avasthaa --) Vishaja Vran`a
+Arha Vyaadhi,Vran`a --) Avasthaa --) Vishama Vran`a
+Arha Vyaadhi,Vran`a --) Avasthaa --) Vivruta Vran`a
+Arha Vyaadhi,Vran`a --) Dusht`a Vran`a --) Vaataja Dusht`a Vran`a
+Arha Vyaadhi,Vran`a --) Vaataja Vran`a
+Arha Vyaadhi,Vran`as`hotha
+Arha Vyaadhi,Vran`as`hotha --) Avasthaa --) Aama
+Arha Vyaadhi,Vran`as`hotha --) Avasthaa --) Achirotpatita
+Arha Vyaadhi,Vran`as`hotha --) Avasthaa --) Pachyamaana Vran`as`hotha
+Arha Vyaadhi,Vran`as`hotha --) Avasthaa --) Rujaa
+Arha Vyaadhi,Vriddhi --) Aantraja
+Arha Vyaadhi,Vriddhi --) Pittaja
+Arha Vyaadhi,Vriddhi --) Raktaja
+Arha Vyaadhi,Vyaapad --) Linganaas`ha S`hastrakarma Vyaapad --) Netra Vedanaa + Raaga
+Arha Vyaadhi,Yakrit Dosha
+Arha Vyaadhi,Yakrit Dosha --) Yakrit Vriddhi
+Arha Avasthaa,Durbala
+Arha Avasthaa,Kriddha
+Anarha Vyaadhi Prakaara,Vaataja Vyaadhi
+Anarha Vyaadhi,Ajeern`a
+Anarha Vyaadhi,Ars`ha
+Anarha Vyaadhi,Atisaara
+Anarha Vyaadhi,Chhardi
+Anarha Vyaadhi,Jvara
+Anarha Vyaadhi,Kaasa
+Anarha Vyaadhi,Napumsakatva
+Anarha Vyaadhi,Netra Roga --) Avasthaa --) Timira + Raaga
+Anarha Vyaadhi,Netra Roga --) Drisht`igata --) Timira
+Anarha Vyaadhi,Netra Roga --) S`huklagata --) S`hukti
+Anarha Vyaadhi,Netra Roga --) Sarvagata --) Amloshita / Amlaadhyushita
+Anarha Vyaadhi,Paan`d`u
+Anarha Vyaadhi,Raktapitta
+Anarha Vyaadhi,S`hiroroga --) Krimija S`hiroroga
+Anarha Vyaadhi,S`hiroroga --) Vaataja S`hiroroga
+Anarha Vyaadhi,S`hosha
+Anarha Vyaadhi,S`hotha --) Sthaanabhedena --) Ekaanga S`hotha
+Anarha Vyaadhi,S`hotha --) Sthaanabhedena --) Sarvaanga S`hotha
+Anarha Vyaadhi,S`hvaasa
+Anarha Vyaadhi,Udara
+Anarha Vyaadhi,Urahkshata
+Anarha Vyaadhi,Vran`as`hotha
+Anarha Avasthaa,Abhra Kaala
+Anarha Avasthaa,Adhika Vyavaaya
+Anarha Avasthaa,Adhvahata
+Anarha Avasthaa,Ati Madyapaana
+Anarha Avasthaa,Ati S`heeta
+Anarha Avasthaa,Ati Svedana
+Anarha Avasthaa,Ati Ushn`a
+Anarha Avasthaa,Baala
+Anarha Avasthaa,Bheeru
+Anarha Avasthaa,Durbala
+Anarha Avasthaa,Garbhin`ee
+Anarha Avasthaa,Kris`ha
+Anarha Avasthaa,Langhita
+Anarha Avasthaa,Pravaata Hata
+Anarha Avasthaa,Rooksha S`hareera
+Anarha Avasthaa,Sootikaa
+Anarha Avasthaa,Vriddha
+Anarha Avasthaa,Vyavaaya Klaanta
+Atiyoga Lakshan`a,Ati Raktasraava
+Heenayoga Lakshan`a,Asraava
+Heenayoga Lakshan`a,Atyalpa Raktasraava
+Vyaapad Lakshan`a,Dusht`a Viddha Siraa
+Effect on Dosha,Kapha S`hodhana
+Effect on Dosha,Pitta S`hodhana
+Effect on Dhaatu,Rakta Dusht`ighna
+Effect on Upadhaatu,Tvak Doshahara
+Indriya,Indriya Prasaadaka
+Effect on Agni,Agni Vardhaka
+Effect on Manas,Mana Prasannatva
+Effect on Manas,Mana Tusht`ikara
+Other Effect,Aas`huphalaprada
+Other Effect,Aayushkara
+Other Effect,Kleda Nirharan`a
+Other Effect,Sukhakara
+More Information,Raktamokshan`a.htm
+
+
+
