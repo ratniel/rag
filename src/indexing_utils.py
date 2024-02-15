@@ -9,7 +9,7 @@ from pathlib import Path
 
 
 
-def extract_htmltag_nodes(input_dir: str) -> List[schema.TextNode]:
+def extract_htmltag_nodes(input_dir: str, tag_list: list=["p", "li", "b", "i", "u", "section", "text"]) -> List[schema.TextNode]:
     """
     Extracts nodes for ["p", "li", "b", "i", "u", "section", "text"] tags \
         from HTML files in the specified directory.
@@ -23,9 +23,9 @@ def extract_htmltag_nodes(input_dir: str) -> List[schema.TextNode]:
     Example:
         >>> nodes = extract_htmltag_nodes('/path/to/html_files')
     """
-    reader = SimpleDirectoryReader(input_dir=input_dir, recursive=True)
+    reader = SimpleDirectoryReader(input_dir=input_dir, recursive=True,)
     documents = reader.load_data(show_progress=True)
-    node_parser = HTMLNodeParser(tags=["p", "li", "b", "i", "u", "section", "text"], 
+    node_parser = HTMLNodeParser(tags=tag_list, 
                                  include_prev_next_rel=False)
     nodes = node_parser.get_nodes_from_documents(documents, show_progress=True)
     nodes = [node for node in nodes if len(node.get_content()) > 0]
@@ -51,6 +51,7 @@ def create_docstore(nodes, save_dir: str, store_name: str) -> None:
     save_dir.mkdir(parents=True, exist_ok=True)
     docstore.add_documents(nodes)
     docstore.persist(persist_path=save_dir/store_name)
+    return docstore
 
 def load_docs(path, return_docstore: bool = False):
     """
