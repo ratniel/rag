@@ -1,7 +1,7 @@
 from ratniel_src.context_addition import process_nodes
 from src.indexing_utils import extract_htmltag_nodes
 
-file_path = "/home/dai/rag/data/clean_html/Articles"
+file_path = "/home/dai/rag/data/clean_html/Therapeutic_Procedures"
 nodes = extract_htmltag_nodes(file_path, tag_list=["p","section"])
 
 if __name__ =="__main__":
