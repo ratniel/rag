@@ -34,7 +34,7 @@ def extract_htmltag_nodes(input_dir: str, tag_list: list=["p", "li", "b", "i", "
         node.excluded_embed_metadata_keys=['tag', 'file_path', 'file_name', 'file_type', 'file_size', 'creation_date', 'last_modified_date', 'last_accessed_date']
     return nodes
 
-def create_docstore(nodes, save_dir: str, store_name: str) -> None:
+def save_docstore(nodes, save_dir: str, store_name: str) -> None:
     """
     Create a document store and save it to the specified directory.
 
@@ -54,7 +54,7 @@ def create_docstore(nodes, save_dir: str, store_name: str) -> None:
     docstore.persist(persist_path=save_dir/store_name)
     return docstore
 
-def load_docs(path, return_docstore: bool = True):
+def load_docs(path, return_docstore: bool = False):
     """
     Load documents from the specified path.
 
@@ -73,5 +73,5 @@ def load_docs(path, return_docstore: bool = True):
 
 if __name__ == '__main__':
     nodes = extract_htmltag_nodes('/home/dai/35/rag/data/clean_html/Articles')
-    create_docstore(nodes, '/home/dai/35/rag/storage', 'articles_store')
+    save_docstore(nodes, '/home/dai/35/rag/storage', 'articles_store')
     docs = load_docs('/home/dai/35/rag/storeage/articles_store')
