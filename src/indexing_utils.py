@@ -54,7 +54,7 @@ def create_docstore(nodes, save_dir: str, store_name: str) -> None:
     docstore.persist(persist_path=save_dir/store_name)
     return docstore
 
-def load_docs(path, return_docstore: bool = False):
+def load_docs(path, return_docstore: bool = True):
     """
     Load documents from the specified path.
 
@@ -69,7 +69,7 @@ def load_docs(path, return_docstore: bool = False):
     if return_docstore:
         return docstore
     else:
-        return list(docstore.values())
+        return list(docstore.docs.values())
 
 if __name__ == '__main__':
     nodes = extract_htmltag_nodes('/home/dai/35/rag/data/clean_html/Articles')
