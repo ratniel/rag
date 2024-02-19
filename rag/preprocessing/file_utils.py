@@ -81,6 +81,6 @@ def save_file_with_text(text, filepath):
 
 
 if __name__ == "__main__":
-    paths = get_all_paths_from_dir("/home/dai/35/AyurSanvaad/data/raw_data/Articles")
-    delete_files_except_html("/home/dai/35/AyurSanvaad/data/raw_data/Articles")
-    delete_empty_dirs("/home/dai/35/AyurSanvaad/data/raw_data/Articles")
+    paths = get_all_paths_from_dir("./data/raw_data/Articles")
+    delete_files_except_html("./data/raw_data/Articles")
+    delete_empty_dirs("./data/raw_data/Articles")
