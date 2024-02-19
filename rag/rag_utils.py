@@ -1,4 +1,3 @@
-import os
 from pathlib import Path
 
 from llama_index.core.storage.docstore import SimpleDocumentStore

@@ -15,7 +15,7 @@ Settings.embed_model = GeminiEmbedding(model_name="models/embedding-001")
 Settings.llm = Gemini(model_name="models/gemini-pro", temperature=0.5)
 
 nodes = load_docs(
-    "./rag/storage/docstore/article_nodes_embedded_combined"
+    "./storage/docstore/article_nodes_embedded_combined"
 )
 
 index = VectorStoreIndex(nodes, embed_model=None)

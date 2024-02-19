@@ -1,6 +1,6 @@
 # from rag.rag_utils import load_docs
 
-# nodes = load_docs("./rag/storage/Articles_with_summary", return_docstore=False)
+# nodes = load_docs("./storage/Articles_with_summary", return_docstore=False)
 
 # #check how many nodes do not containe metadata['summary']
 # count = 0
@@ -20,7 +20,7 @@
 from rag.rag_utils import load_docs
 from rag.context_addition.context_addition import process_nodes_with_id
 
-nodes = load_docs("./rag/storage/Articles_with_summary", return_docstore=False)
+nodes = load_docs("./storage/Articles_with_summary", return_docstore=False)
 
 node_ids = []
 
