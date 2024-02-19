@@ -15,5 +15,3 @@ nodes = sentence_splitter.get_nodes_from_documents(docs, show_progress=True)
 #         count += 1
 # print(count)
 nodes = embed_nodes(nodes=nodes, save_dir="/home/dai/35/rag/Articles_store/docstore", docstore_name="Articles_with_embeddings_on_chunks", save_docstore=True)
-
-print(nodes[0].embedding)
