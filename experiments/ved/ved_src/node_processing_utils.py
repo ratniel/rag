@@ -63,7 +63,7 @@ def add_summary_to_nodes(nodes: List[TextNode]):
             time.sleep(3)
         send_msg("Summary added successfully!")
         return nodes
-    except Exception as e:
+    except Exception as e:  # noqa: F841
         send_msg(
             f"Error occured while context addition in file_node:{node.metadata['file_name'], node.id_}"
         )

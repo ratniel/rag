@@ -8,12 +8,14 @@ from llama_index.core import (
 from llama_index.embeddings.gemini import GeminiEmbedding
 from llama_index.llms.gemini import Gemini
 from ved_src.utils import load_docs
+from dotenv import load_dotenv
+load_dotenv("/home/dai/35/rag/.env")
 
 Settings.embed_model = GeminiEmbedding(model_name="models/embedding-001")
 Settings.llm = Gemini(model_name="models/gemini-pro", temperature=0.5)
 
 nodes = load_docs(
-    "/media/vedmani/F74D-58D6/projects/rag/storage/docstore/article_nodes_embedded_combined"
+    "/home/dai/35/rag/storage/docstore/article_nodes_embedded_combined"
 )
 
 index = VectorStoreIndex(nodes, embed_model=None)
