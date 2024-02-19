@@ -7,7 +7,7 @@ from llama_index.core import (
 )
 from llama_index.embeddings.gemini import GeminiEmbedding
 from llama_index.llms.gemini import Gemini
-from ved_src.utils import load_docs
+from rag.rag_utils import load_docs
 from dotenv import load_dotenv
 load_dotenv("/home/dai/35/rag/.env")
 
