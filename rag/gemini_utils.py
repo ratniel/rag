@@ -2,7 +2,7 @@ from llama_index.embeddings.gemini import GeminiEmbedding
 from llama_index.llms.gemini import Gemini
 from llama_index.core import Settings
 from dotenv import load_dotenv
-load_dotenv(".env")
+load_dotenv("./.env")
 
 def set_retrieval_document_model():
     Settings.embed_model = GeminiEmbedding(model_name="models/embedding-001", task_type="retrieval_document")

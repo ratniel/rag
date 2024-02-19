@@ -24,7 +24,7 @@ def make_prompt(relevant_passage):
     Returns:
         prompt: _description_
     """ 
-    load_dotenv("/home/dai/35/rag/.env") 
+    load_dotenv("./.env") 
 
     genai.configure(api_key=os.getenv('GOOGLE_API_KEY'))  
 

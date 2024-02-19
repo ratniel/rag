@@ -9,7 +9,7 @@ from llama_index.embeddings.gemini import GeminiEmbedding
 from llama_index.llms.gemini import Gemini
 from rag.rag_utils import load_docs
 from dotenv import load_dotenv
-load_dotenv("/home/dai/35/rag/.env")
+load_dotenv("./.env")
 
 Settings.embed_model = GeminiEmbedding(model_name="models/embedding-001")
 Settings.llm = Gemini(model_name="models/gemini-pro", temperature=0.5)
