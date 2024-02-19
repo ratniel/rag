@@ -4,7 +4,7 @@ import textwrap
 from tqdm import tqdm
 from dotenv import load_dotenv
 import google.generativeai as genai
-from src.indexing_utils import create_docstore
+from src.indexing_utils import save_docstore
 from src.indexing_utils import extract_htmltag_nodes
 from google.generativeai import GenerationConfig
 import pickle
@@ -39,7 +39,7 @@ def make_prompt(relevant_passage):
     The answer to the query is mostly present in the reference passage provided. Go through the passage thoroughly and fetch relevant information. \
     Strictly limit your responses to 300 words. \
     Summarise the information provided in the reference passage comprehensively. \
-    The summary should include all the important points provided in the passage. No information loss should happen at any cost. 
+    IF YOU CAN'T SUMMARISE THE PASSAGE, TRY TO PROVIDE A BRIEF DESCRIPTION OF THE PASSAGE. \
     PASSAGE: '{relevant_passage}'
 
         ANSWER:
@@ -48,7 +48,7 @@ def make_prompt(relevant_passage):
     return prompt
 
 
-def process_nodes(nodes):
+def process_nodes(nodes, store_name):
     # nodes = extract_htmltag_nodes('../../data/clean_html/Articles', tag_list=["p","section"])
     config = GenerationConfig(
     # max_output_tokens = 600,
@@ -62,26 +62,27 @@ def process_nodes(nodes):
 
     total_nodes = len(nodes)
     processed_nodes = 0
+    failed_nodes = []
     try:
 
         for node in tqdm(nodes, desc="Processing nodes", unit="node", total=total_nodes):
             prompt = make_prompt(node.text)
+            try:
+                answer = model.generate_content(prompt)
+            except Exception as e:
+                node.metadata['summary'] = "NO ANSWER"
+                failed_nodes.append(node.id_)
+                print(answer.candidates)
 
-            start_time = time.time()
-
-            answer = model.generate_content(prompt)
             node.metadata['summary'] = answer.text
-
             processed_nodes += 1
-            elapsed_time = time.time() - start_time
-            eta_seconds = (total_nodes - processed_nodes) * elapsed_time / processed_nodes
-            remaining_time = round(eta_seconds, 2) if eta_seconds > 0 else "Finished"
-            tqdm.write(f"Processed {processed_nodes}/{total_nodes} nodes. Remaining time: {remaining_time} seconds.")
             time.sleep(3)
     except Exception as e:
         with open("gemini_response.pkl", "wb") as pickle_file:
             pickle.dump(answer, pickle_file)
 
+#save all failed nodes list to pickle
+    with open("failed_nodes.pkl", "wb") as pickle_file:
+        pickle.dump(failed_nodes, pickle_file)
 
-    create_docstore(nodes, save_dir='./storage', store_name='new_nodes')
-    tqdm.write(f"Processed all {total_nodes} nodes.")
+    save_docstore(nodes, save_dir='./storage', store_name=store_name)
